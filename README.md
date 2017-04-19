@@ -11,7 +11,7 @@
 * Taster
 * Buzzer
 * Kabel
-* Breadboard
+* Steckbrett
 
 ## Zielgruppe
 Pfadfinderinnen- und Pfadfinderstufe
