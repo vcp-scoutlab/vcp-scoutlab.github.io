@@ -84,6 +84,7 @@ W         | · − −
 X         | − · · −
 Y         | − · − −
 Z         | − − · ·
+{: class="table table-striped table-hover"}
 
 Zahl   | Morse-Code
 -------|-----------
@@ -97,6 +98,7 @@ Zahl   | Morse-Code
 8      | − − − · ·
 9      | − − − − ·
 0      | − − − − −
+{: class="table table-striped table-hover"}
 
 ## Text in Morse-Code übersetzen
 
