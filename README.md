@@ -1,5 +1,7 @@
 # Scoutlab-Session Kit - 1
 
+[zum Handbuch](https://vcp-scoutlab.github.io/scoutlab-session-kit-1/)
+
 ![Scoutlab Session Kit 1](images/scoutlab-session-kit-1.jpg)
 
 ## Inhalt
