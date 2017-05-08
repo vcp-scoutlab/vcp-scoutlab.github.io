@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+body {
+font-family: 'Roboto', sans-serif;
+font-size: 18px/1.4;
+line-height: 1.5em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  /*font-family: $helveticaNeue;*/
+font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+}
+
+em, i {
+  font-style: italic;
+}
+
+blockquote {
+  margin: 1.8em .8em;
+  padding: 0.1em 1em;
+  font-style: italic;
+  font-weight: normal;
+}
+
+
+img {
+    max-width: 100%;
+}
+
+div#main.container {
+
+	padding-top:50px;
+}
+
+
+.navbar-default .navbar-nav>li>a, .navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:visited, .navbar-default .navbar-nav>li>a:focus {
+    color: #004287;
+}
+
+.navbar-default .navbar-brand, a.navbar-brand, .navbar-brand>a:hover, .navbar-default .navbar-brand>a:focus, .navbar-default .navbar-brand>a:visited
+{
+    color: #004287;
+}

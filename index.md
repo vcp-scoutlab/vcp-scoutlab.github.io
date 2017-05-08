@@ -1,3 +1,8 @@
+---
+layout: page
+title: Home
+permalink: /
+---
 # Scoutlab-Session Kit - 1
 
 ![Scoutlab Session Kit 1](images/scoutlab-session-kit-1.jpg)
@@ -15,5 +20,3 @@
 
 ## Zielgruppe
 Pfadfinderinnen- und Pfadfinderstufe
-
-zum Handbuch
