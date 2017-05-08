@@ -16,4 +16,4 @@
 ## Zielgruppe
 Pfadfinderinnen- und Pfadfinderstufe
 
-zum Handbuch
+[zum Handbuch](https://vcp-scoutlab.github.io/scoutlab-session-kit-1/)
