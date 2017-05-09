@@ -17,8 +17,10 @@ permalink: /ampel
 ## Aufbau
 
 ![Aufbau: Ampel](images/led_ampel_Steckplatine_gpio.png)
-<p class="bg-info">**Scratch**: `ampel.sb` in deinem Projekt-Ordner für Scratch.</p>
-<p class="bg-info">**Python**: `ampel.py` in deinem Projekt-Ordner für Python.</p>
+
+>**Scratch**: `ampel.sb` in deinem Projekt-Ordner für Scratch.
+>
+>**Python**: `ampel.py` in deinem Projekt-Ordner für Python.
 
 
 ## Scratch-Programm
