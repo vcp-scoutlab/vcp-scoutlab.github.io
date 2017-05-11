@@ -43,13 +43,14 @@ an.
 ## Link-Tipp
 Einen umfassenden Leitfaden zur Raspberry Pi Anschlussbelegung: [https://de.pinout.xyz/](https://de.pinout.xyz/)
 
+<div class="alert alert-warning" role="alert">
 ## Vorsicht
->Unter keinen Umständen irgendwelche GPIO-Pins mit einander verbinden!
+Unter keinen Umständen irgendwelche GPIO-Pins mit einander verbinden!
 Nicht alle GPIO-Pins lassen sich programmieren, einige sind fest vergeben oder führen Spannung.
 Ein Kurzschluss von den Pins kann deinen Raspberry Pi komplett zerstören!
 Bei LEDs und z.B. Schaltern muss immer ein Schutzwiderstand vorgeschaltet werden.
 Bitte halte dich an die Schaltpläne aus den einzelnen Anleitungen.
-
+</div>
 
 ## Inhalt Scoutlab Session Kit 1 – Übersicht
 
