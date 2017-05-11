@@ -43,8 +43,8 @@ an.
 ## Link-Tipp
 Einen umfassenden Leitfaden zur Raspberry Pi Anschlussbelegung: [https://de.pinout.xyz/](https://de.pinout.xyz/)
 
-<div class="alert alert-warning" role="alert">
 ## Vorsicht
+<div class="alert alert-warning" role="alert">
 Unter keinen Umständen irgendwelche GPIO-Pins mit einander verbinden!
 Nicht alle GPIO-Pins lassen sich programmieren, einige sind fest vergeben oder führen Spannung.
 Ein Kurzschluss von den Pins kann deinen Raspberry Pi komplett zerstören!
