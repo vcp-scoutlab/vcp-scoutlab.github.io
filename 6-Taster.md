@@ -35,7 +35,7 @@ In einer endlos Schleife wird geprüft, ob der Taster
 (**Wert von Sensor gpio18=0**) gedrückt wird. Wenn der Taster betätigt wird, bekommt die eigene Variable **ausgabe** den Wert „Taster gedrückt“. Das Ergebnis wird auf dem Bildschirm angezeigt.
 
 ### Variablen
->Variablen können wir uns als kleine Boxen oder Container vorstellen, in denen wir Informationen speichern 	können.Wenn das Programm beendet wird, werden diese Variablen automatisch wieder geleert. Variablen 	müssen in Scratch erst einmal angelegt werden, bevor man die Variablen benutzen kann.
+<div class="alert alert-info" role="alert">Variablen können wir uns als kleine Boxen oder Container vorstellen, in denen wir Informationen speichern können. Wenn das Programm beendet wird, werden diese Variablen automatisch wieder geleert. Variablen 	müssen in Scratch erst einmal angelegt werden, bevor man die Variablen benutzen kann.</div>
 
 
 ## Python-Programm
