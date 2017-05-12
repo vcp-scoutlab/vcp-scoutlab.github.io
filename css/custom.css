@@ -42,6 +42,6 @@ div#main.container {
 {
     color: #004287;
 }
-p > span {
+p > span a{
 font-family: 'Roboto', sans-serif;
 }
