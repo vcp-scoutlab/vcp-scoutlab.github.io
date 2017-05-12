@@ -16,6 +16,7 @@ Starte das Scratch-Programm, indem Du auf Menü klickst, gefolgt von Entwicklung
 
 ![Scratch starten](images/scratch_starten.png)
 
+<iframe src="https://player.vimeo.com/video/217228128" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ### Starten eines Scratch-Programms
 
