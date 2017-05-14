@@ -6,7 +6,7 @@ permalink: /download
 # Download
 ## Downloads für das Scoutlab Session Kit 1
 <span class="glyphicon glyphicon-download-alt" aria-hidden="true">
-[Programme (Scratch & Python)](https://vcp-scoutlab.github.io/scoutlab-session-kit-1/appendix/code.zip)</span>
+[Programme Scoutlab Session Kit (Scratch & Python)](https://vcp-scoutlab.github.io/scoutlab-session-kit-1/appendix/code.zip)</span>
 
 ## Downloads für den Raspberry Pi
 
