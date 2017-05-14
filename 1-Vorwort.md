@@ -18,7 +18,7 @@ Das Besondere beim Raspberry Pi gegenüber einem normalen Computer ist, dass du 
 
 * Das sind Geräte wie Monitor, Maus und Tastatur, die du wahrscheinlich schon zu Hause hast und die du auch für andere Zwecke verwenden kannst.
 
-* Kleine elektronische Schaltungen, die du auf einem Steckbrett aus kleineren Bauteilen aus deinem Scoutlab Session Kit (z.B. Leuchtdioden, Taster, Widerstände) zusammensetzt.
+* Kleine elektronische Schaltungen, die du auf einem Steckbrett aus Bauteilen aus deinem Scoutlab Session Kit (z.B. Leuchtdioden, Taster, Widerstände) zusammensetzt.
 
 ### Aufbau
 
