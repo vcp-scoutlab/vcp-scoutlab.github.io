@@ -4,7 +4,7 @@ title: Vorbereitung
 permalink: /vorbereitung
 ---
 ## Downloads zum Scoutlab Session Kit 1
-<div class="alert alert-info" role="alert">Die verwendeten Programme findest du auf der [**Download-Seite**](https://vcp-scoutlab.github.io/scoutlab-session-kit-1/download) zum Download.
+<div class="alert alert-info" role="alert">Die verwendeten Programme findest du auf der <a href="https://vcp-scoutlab.github.io/scoutlab-session-kit-1/download"><strong>Download-Seite</strong></a> zum Download.
 Entpacke die Dateien aus dem ZIP-Archiv in das Verzeichnis /home/pi auf deinem Raspberry Pi.
 Die Scratch-Beispiele findest du im Verzeichnis scratch.
 Die Python-Beispiele findest du dann im Verzeichnis python.</div>
