@@ -21,7 +21,7 @@ permalink: /einrichtung-raspberrypi
 5. Wähle die SD-Karte aus.
 6. Überprüfe nochmals  deine Auswahl und klicke auf 'Flash!' Um das Schreiben von Daten auf die SD-Karte zu beginnen.
 
-![Quick Start Guide by the Raspberry Pi Foundation is licenced under a Creative Commons Attribution 4.0 International License.](https://github.com/raspberrypilearning/hardware-guide/blob/master/images/plug-in.gif)
-Quick Start Guide by the Raspberry Pi Foundation is licenced under a Creative Commons Attribution 4.0 International License. Based on a work at https://github.com/raspberrypilearning/hardware-guide
+![Quick Start Guide by the Raspberry Pi Foundation is licenced under a Creative Commons Attribution 4.0 International License.](https://github.com/raspberrypilearning/hardware-guide/raw/master/images/plug-in.gif)
+Quick Start Guide by the Raspberry Pi Foundation is licenced under a Creative Commons Attribution 4.0 International License. Based on a work at [https://github.com/raspberrypilearning/hardware-guide](https://github.com/raspberrypilearning/hardware-guide)
 
 Mehr Infos: [https://www.raspberrypi.org/downloads/raspbian/](https://www.raspberrypi.org/downloads/raspbian/)

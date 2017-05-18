@@ -40,7 +40,7 @@ an.
 
 ### Das ist gerade alles zu kompliziert?
 Dann hilft dir sicher unser
-<span class="glyphicon glyphicon-book" aria-hidden="true">[Schnelleinstieg: Raspberry Pi einrichten](https://vcp-scoutlab.github.io/scoutlab-session-kit-1/einrichtung-raspberrypi)</span> weiter.
+<span class="glyphicon glyphicon-book" aria-hidden="true"> [Schnelleinstieg: Raspberry Pi einrichten](https://vcp-scoutlab.github.io/scoutlab-session-kit-1/einrichtung-raspberrypi)</span> weiter.
 
 ## Link-Tipp
 Einen umfassenden Leitfaden zur Raspberry Pi Anschlussbelegung: [https://de.pinout.xyz/](https://de.pinout.xyz/)
