@@ -38,13 +38,15 @@ An der kleinen USB-Buchse schließt du das Netzteil an.
 Hier schließt du das HDMI-Kabel für den Monitor
 an.
 
-
+### Das ist gerade alles zu kompliziert?
+Dann hilft dir sicher unser
+<span class="glyphicon glyphicon-book" aria-hidden="true">[Schnelleinstieg: Raspberry Pi einrichten](https://vcp-scoutlab.github.io/scoutlab-session-kit-1/einrichtung-raspberrypi)</span> weiter.
 
 ## Link-Tipp
 Einen umfassenden Leitfaden zur Raspberry Pi Anschlussbelegung: [https://de.pinout.xyz/](https://de.pinout.xyz/)
 
-## Vorsicht
 <div class="alert alert-warning" role="alert">
+<h2>Vorsicht</h2>
 Unter keinen Umständen irgendwelche GPIO-Pins mit einander verbinden!
 Nicht alle GPIO-Pins lassen sich programmieren, einige sind fest vergeben oder führen Spannung.
 Ein Kurzschluss von den Pins kann deinen Raspberry Pi komplett zerstören!
