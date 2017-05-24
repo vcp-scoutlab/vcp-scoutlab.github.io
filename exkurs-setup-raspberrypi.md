@@ -29,6 +29,7 @@ permalink: /einrichtung-raspberrypi
 
 Quick Start Guide by the Raspberry Pi Foundation is licenced under a Creative Commons Attribution 4.0 International License. Based on a work at [https://github.com/raspberrypilearning/hardware-guide](https://github.com/raspberrypilearning/hardware-guide)
 
-<iframe src="https://player.vimeo.com/video/218269657" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<div class="hidden-print">
+<iframe src="https://player.vimeo.com/video/218269657" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 
 Mehr Infos: [https://www.raspberrypi.org/downloads/raspbian/](https://www.raspberrypi.org/downloads/raspbian/)
