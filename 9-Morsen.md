@@ -12,7 +12,7 @@ permalink: /morsen
 * 4x Kabel
 
 ![](images/material_morsen.png)
-
+<div style="page-break-after: always;"></div>
 ## Aufbau
 Wir erweitern die Schaltung aus dem Schritt "Taster auslesen" um einen Buzzer. Bitte beachte, dass du den Buzzer richtig anschließt. Stecke den Pin mit "-" in die obere Leiste auf deinem Breadboard. In der Zeichnung ist dieser Pin schwarz markiert.
 
@@ -22,7 +22,7 @@ Wir erweitern die Schaltung aus dem Schritt "Taster auslesen" um einen Buzzer. B
 >**Scratch**: `morsen.sb` in deinem Projekt-Ordner für Scratch.
 >
 >**Python**: `morsen.py` in deinem Projekt-Ordner für Python.
-
+<div style="page-break-after: always;"></div>
 ## Scratch-Programm
 
 ![](images/morsen.png)
@@ -30,7 +30,7 @@ Wir erweitern die Schaltung aus dem Schritt "Taster auslesen" um einen Buzzer. B
 Der Block **gpioserveron**  startet den notwendigen GPIO-Server, damit das Programm auf die GPIO-Pins zugreifen kann. Mit **config18in** wird der GPIO-Pin für den Taster als Eingang, mit **config21out** der GPIO-Pin 21für den Buzzer als Ausgang definiert. Eine fortlaufend wiederholende Schleife prüft, ob der Taster (**Wert von Sensor gpio18=0**) gedrückt wird. Wenn die Bedingung erfüllt ist, wird der Programmblock beep aufgerufen. Sonst schaltet **gpio21off** den Buzzer aus.
 Wissen: Eine Buzzer (Piezo-Lautsprecher) kann technisch nur einen kurzen Ton abgeben und ist für das Morsen ungeeignet. Um das auszugleichen hab wir einen eigene Funktion, oder Programmblock erstellt. Der Programmblock schaltet in einer Endlosschleife den Buzzer für eine 1/100 Sekunde ein, schaltet den Buzzer wieder für 1/100 Sekunde wieder an.
 Für das menschliche Ohr hört sich das nach einem Dauerton an. Damit ist das Summen jetzt so lange, wie der Taster gedrückt wird. Damit können beliebige Morse-Codes gesendet werden.
-
+<div style="page-break-after: always;"></div>
 ## Python-Programm
 
 ```python
@@ -55,7 +55,7 @@ while True:
         GPIO.output(BuzzerPin,GPIO.LOW)
 sleep(0.2)
 ```
-
+<div style="page-break-after: always;"></div>
 Buchstabe | Morse-Code
 ----------|-----------
 A         | **· −**

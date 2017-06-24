@@ -12,7 +12,7 @@ permalink: /zufallszahl
 
 ![](images/material_led1.png)
 
-
+<div style="page-break-after: always;"></div>
 ## Aufbau
 
 ![](images/led2_Steckplatine_gpio.png)
@@ -31,7 +31,7 @@ Nun wollen wir das Arbeitsblatt „LED mit einem Programm schalten“ etwas inte
 ![](images/programmblock_zufallszahl.png)
 
 In beiden Blöcken werden „warte 2 Sek.“ durch den neuen Block ersetzt. Ziehe einfach den Block in das Feld mit der „2“. Jetzt lässt das Programm die LED zufällig lang (zwischen 1 und 5 Sekunden) leuchten. Auch die Pause, während die LED nicht leuchtet, ist ebenfalls zufällig lang (zwischen 1 und 5 Sekunden).
-
+<div style="page-break-after: always;"></div>
 ## Python-Programm
 ```python
 import RPi.GPIO as GPIO #Import der notwendigen Bibliotheken
