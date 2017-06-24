@@ -37,7 +37,7 @@ In einer endlos Schleife wird geprüft, ob der Taster
 ### Variablen
 <div class="alert alert-info" role="alert">Variablen können wir uns als kleine Boxen oder Container vorstellen, in denen wir Informationen speichern können. Wenn das Programm beendet wird, werden diese Variablen automatisch wieder geleert. Variablen 	müssen in Scratch erst einmal angelegt werden, bevor man die Variablen benutzen kann.</div>
 
-<div style="page-break-after: always;"></div>
+<div style="page-break-before: always;"></div>
 
 ## Python-Programm
 
