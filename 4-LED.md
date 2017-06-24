@@ -12,11 +12,12 @@ permalink: /programm
 
 ![Material: LED mit einem Programm schalten](images/material_led1.png)
 
+<div style="page-break-after: always;"></div>
 ## Aufbau
 ![Aufbau: LED mit einem Programm schalten](images/led2_Steckplatine_gpio.png)
 
 
->**Scratch**: `led.sb` in deinem Projekt-Ordner für Scratch. 
+>**Scratch**: `led.sb` in deinem Projekt-Ordner für Scratch.
 >
 >**Python**: `led.py` in deinem Projekt-Ordner für Python.
 
@@ -26,7 +27,7 @@ permalink: /programm
 ![](images/scratch_led.png)
 
 Der Block **gpioserveron**  startet den notwendigen GPIO-Server, damit das Programm die GPIO-Pins nutzen kann. Mit dem Block **config21out** wird der GPIO-Pin 21 als Ausgang definiert. An diesem GPIO-Pin ist die LED angeschlossen. Jeder GPIO-Pin kann entweder Ausgang oder Eingang sein. Eine fortlaufend wiederholende Schleife schaltet mit **gpio21on** die LED ein. Wartet zwei Sekunden und schaltet mit **gpio21off** die LED wieder aus. Wartet zwei Sekunden und die Schleife beginnt wieder vorne. Die Schleife wird endlos wiederholt bis der Benutzer das Programm anhält.
-
+<div style="page-break-after: always;"></div>
 ## Python-Programm
 
 ```python
