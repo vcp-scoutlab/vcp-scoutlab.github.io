@@ -38,7 +38,9 @@ Falls die Variable  led_wahl = 2 ist, dann blinkt die gelbe LED
 Falls die Variable  led_wahl = 3 ist, dann blinkt die grüne LED
 Das  Programm wartet eine Sekunde und ändert die Variable anzahl um -1
 Jetzt wird die Schleife wiederholt, das geschieht nur wenn die Variable anzahl noch größer als 0 ist. Wurde die gewünschte Anzahl erreicht, wir die Schleife abgebrochen.
+
 <div style="page-break-after: always;"></div>
+
 ## Python-Programm
 ```python
 import RPi.GPIO as GPIO
