@@ -14,6 +14,8 @@ permalink: /eingabe
 
 ![](images/material_ampel.png)
 
+<div style="page-break-after: always;"></div>
+
 ## Aufbau
 
 ![](images/led_ampel_Steckplatine_gpio.png)
@@ -23,6 +25,8 @@ permalink: /eingabe
 >**Scratch**: `eingabe.sb` in deinem Projekt-Ordner für Scratch.
 >
 >**Python**: `eingabe.py` in deinem Projekt-Ordner für Python.
+
+<div style="page-break-after: always;"></div>
 
 ## Scratch-Programm
 

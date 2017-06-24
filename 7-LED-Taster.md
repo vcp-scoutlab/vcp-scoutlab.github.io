@@ -33,7 +33,6 @@ Der Block **gpioserveron**  startet den notwendigen GPIO-Server, damit das Progr
 GPIO-Pin ist die LED angeschlossen. Mit config18in wird der GPIO-Pin für den Taster als Eingang definiert.
 Eine fortlaufend wiederholende Schleife prüft, ob der Taster (**Wert von Sensor gpio18=0**) gedrückt wird. Wenn die Bedingung erfüllt ist, leuchtet mit gpio21on die LED. Sonst schaltet gpio21off die LED wieder aus.
 
-<div style="page-break-after: always;"></div>
 
 ## Python-Programm
 
