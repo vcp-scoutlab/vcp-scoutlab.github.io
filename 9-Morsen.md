@@ -102,7 +102,7 @@ Zahl   | Morse-Code
 0      | **− − − − −**
 {: class="table table-striped table-hover"}
 
-<div style="page-break-after: always;"></div>
+<div style="page-break-after: always;">
 
 ## Text in Morse-Code übersetzen
 
@@ -163,3 +163,4 @@ for char in msg:
 ```
 
 **Python:** `texteingabe -in-morsecode.py` in deinem Projekt-Ordner für Python. Bitte beachten: das Beispiel funktioniert nur mit Python2
+</div>
