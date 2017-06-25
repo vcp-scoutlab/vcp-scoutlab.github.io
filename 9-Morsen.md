@@ -56,7 +56,7 @@ while True:
         GPIO.output(BuzzerPin,GPIO.LOW)
 sleep(0.2)
 ```
-<div style="page-break-after: always;"></div>
+
 
 Buchstabe | Morse-Code
 ----------|-----------
@@ -88,6 +88,7 @@ Y         | **− · − −**
 Z         | **− − · ·**
 {: class="table table-striped table-hover"}
 
+
 Zahl   | Morse-Code
 -------|-----------
 1      | **· − − − −**
@@ -101,5 +102,3 @@ Zahl   | Morse-Code
 9      | **− − − − ·**
 0      | **− − − − −**
 {: class="table table-striped table-hover"}
-
-<div style="page-break-after: always;"></div>
