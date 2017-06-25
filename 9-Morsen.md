@@ -57,6 +57,7 @@ while True:
 sleep(0.2)
 ```
 <div style="page-break-after: always;"></div>
+
 Buchstabe | Morse-Code
 ----------|-----------
 A         | **· −**
