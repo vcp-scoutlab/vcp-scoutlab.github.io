@@ -102,6 +102,8 @@ Zahl   | Morse-Code
 0      | **− − − − −**
 {: class="table table-striped table-hover"}
 
+<div style="page-break-after: always;"></div>
+
 ## Text in Morse-Code übersetzen
 
 ```
