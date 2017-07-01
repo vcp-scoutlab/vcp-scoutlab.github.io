@@ -27,7 +27,7 @@ permalink: /ampel
 
 ![](images/ampel.png)
 
-Der Block **gpioserveron**  startet den notwendigen GPIO-Server, damit das Programm die GPIO-Pins nutzen kann. Mit dem Blöcken **config16out** **config20out** **config21out** werden die GPIO-Pins 16,20 und 21 als Ausgang definiert. Am GPIO-Pin 16 ist die rote LED, am GPIO-Pin 20 ist die gelbe LED und am GPIO-Pin 21 die grüne LED, angeschlossen. Eine fortlaufend wiederholende Schleife schaltet nun die Ampel. Die Schleife wird endlos wiederholt bis der Benutzer das Programm anhält. Frage: Kannst du im Programm ablesen, wie genau die Ampel geschaltet wird? Nutze dabei dein Wissen zur Steuerung von LEDs aus dem letzten Arbeitsblatt.
+Am GPIO-Pin 16 ist die rote LED, am GPIO-Pin 20 ist die gelbe LED und am GPIO-Pin 21 die grüne LED, angeschlossen. Eine fortlaufend wiederholende Schleife schaltet nun die Ampel. Die Schleife wird endlos wiederholt bis der Benutzer das Programm anhält. Frage: Kannst du im Programm ablesen, wie genau die Ampel geschaltet wird? Nutze dabei dein Wissen zur Steuerung von LEDs aus dem letzten Arbeitsblatt.
 <div style="page-break-after: always;"></div>
 ## Python-Programm
 

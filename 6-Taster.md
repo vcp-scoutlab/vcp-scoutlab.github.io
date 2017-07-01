@@ -30,8 +30,8 @@ Ein Taster schließt einen Stromkreis erst, wenn der Taster gedrückt wird. Der 
 
 ![](images/taster.png)
 
-Der Block **gpioserveron**  startet den notwendigen GPIO-Server, damit das Programm auf die GPIO-Pins zugreifen kann. Jetzt wird mit config18in der GPIO-Pin für den Taster als Eingang definiert.
-In einer endlos Schleife wird geprüft, ob der Taster
+Hier benötigen wir den GPIO-Pin 18 für den Taster als Eingabe.
+In der Schleife wird geprüft, ob der Taster
 (**Wert von Sensor gpio18=0**) gedrückt wird. Wenn der Taster betätigt wird, bekommt die eigene Variable **ausgabe** den Wert „Taster gedrückt“. Das Ergebnis wird auf dem Bildschirm angezeigt.
 
 ### Variablen
