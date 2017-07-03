@@ -32,16 +32,18 @@ permalink: /eingabe
 
 ![](images/eingabe.png)
 
-Der Block **gpioserveron**  startet den notwendigen GPIO-Server, damit das Programm die GPIO-Pins nutzen kann. Mit dem Blöcken **config16out config20out config21out** werden die GPIO-Pins 16,20 und 21 als Ausgang definiert. Am GPIO-Pin 16 ist die rote LED, am GPIO-Pin 20 ist die gelbe LED und am GPIO-Pin 21 die grüne LED, angeschlossen. Wir legen noch zwei eigene Variablen an: led_wahl, anzahl
+Am GPIO-Pin 16 ist die rote LED, am GPIO-Pin 20 ist die gelbe LED und am GPIO-Pin 21 die grüne LED, angeschlossen. Wir legen noch zwei eigene Variablen an: led_wahl, anzahl
+
 Wir erstellen zwei Fragen:
 Welche LED soll blinken? (1 für Rot, 2 für Gelb, 3 für Grün) → Antwort liefert die Variable led_wahl
 Wie oft soll die LED blinken? → Antwort liefert die Variable anzahl
-Eine fortlaufend wiederholende Schleife wird nur wiederholt, wenn die Variable anzahl > 0 ist.
+
+Die Schleife wird nur wiederholt, wenn die Variable anzahl > 0 ist.
 Falls die Variable  led_wahl = 1 ist, dann blinkt die rote LED
 Falls die Variable  led_wahl = 2 ist, dann blinkt die gelbe LED
 Falls die Variable  led_wahl = 3 ist, dann blinkt die grüne LED
 Das  Programm wartet eine Sekunde und ändert die Variable anzahl um -1
-Jetzt wird die Schleife wiederholt, das geschieht nur wenn die Variable anzahl noch größer als 0 ist. Wurde die gewünschte Anzahl erreicht, wir die Schleife abgebrochen.
+Die Schleife wiederholt, das geschieht nur wenn die Variable anzahl noch größer als 0 ist. Wurde die gewünschte Anzahl erreicht, wir die das Programm beendet.
 
 <div style="page-break-after: always;"></div>
 
