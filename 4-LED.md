@@ -27,6 +27,9 @@ permalink: /programm
 ![](images/scratch_led.png)
 
 Der Block **gpioserveron**  startet den notwendigen GPIO-Server, damit das Programm die GPIO-Pins nutzen kann. Mit dem Block **config21out** wird der GPIO-Pin 21 als Ausgang definiert. An diesem GPIO-Pin ist die LED angeschlossen. Jeder GPIO-Pin kann entweder Ausgang oder Eingang sein. Eine fortlaufend wiederholende Schleife schaltet mit **gpio21on** die LED ein. Wartet zwei Sekunden und schaltet mit **gpio21off** die LED wieder aus. Wartet zwei Sekunden und die Schleife beginnt wieder vorne. Die Schleife wird endlos wiederholt bis der Benutzer das Programm anhält.
+<div class="hidden-print" style="margin-top:1em;">
+<iframe src="https://player.vimeo.com/video/224094828" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+
 <div style="page-break-after: always;"></div>
 ## Python-Programm
 
