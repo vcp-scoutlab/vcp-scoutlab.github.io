@@ -13,6 +13,7 @@ permalink: /programm
 ![Material: LED mit einem Programm schalten](images/material_led1.png)
 
 <div style="page-break-after: always;"></div>
+
 ## Aufbau
 ![Aufbau: LED mit einem Programm schalten](images/led2_Steckplatine_gpio.png)
 
@@ -21,6 +22,7 @@ permalink: /programm
 >
 >**Python**: `led.py` in deinem Projekt-Ordner für Python.
 
+<div style="page-break-after: always;"></div>
 
 ## Scratch-Programm
 
