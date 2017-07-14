@@ -29,9 +29,8 @@ Wir erweitern die Schaltung aus dem Schritt "Taster auslesen" um eine LED und ei
 
 ![](images/taster_led.png)
 
-Der Block **gpioserveron**  startet den notwendigen GPIO-Server, damit das Programm die GPIO-Pins nutzen kann. Mit dem Block config21out wird der GPIO-Pin 21 als Ausgang definiert. An diesem
-GPIO-Pin ist die LED angeschlossen. Mit config18in wird der GPIO-Pin für den Taster als Eingang definiert.
-Eine fortlaufend wiederholende Schleife prüft, ob der Taster (**Wert von Sensor gpio18=0**) gedrückt wird. Wenn die Bedingung erfüllt ist, leuchtet mit gpio21on die LED. Sonst schaltet gpio21off die LED wieder aus.
+Am GPIO-Pin 21 ist die LED angeschlossen. Am GPIO-Pin 18 wir der Taster angeschlossen.
+Eine Schleife prüft, ob der Taster (**Wert von Sensor gpio18=0**) gedrückt wird. Wenn die Bedingung erfüllt ist, leuchtet die LED.
 
 
 ## Python-Programm
