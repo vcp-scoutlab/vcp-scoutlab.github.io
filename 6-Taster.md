@@ -11,7 +11,7 @@ permalink: /taster
 * 2 Kabel
 * Steckbrett
 
-![Materail](images/material_taster.png)
+![Material Taster](images/material_taster.png)
 
 Stecke den Taster auf das Steckbrett. Achte unbedingt darauf, dass der Taster exakt wie abgebildet eingesteckt
 wird.
