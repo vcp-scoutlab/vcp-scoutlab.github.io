@@ -35,8 +35,7 @@ Hier schließt du die Tastatur und die Maus an.
 An der kleinen USB-Buchse schließt du das Netzteil an.
 
 **HDMI-Buchse**
-Hier schließt du das HDMI-Kabel für den Monitor
-an.
+Hier schließt du das HDMI-Kabel für den Monitor an.
 
 ### Das ist gerade alles zu kompliziert?
 Dann hilft dir sicher unser <span class="glyphicon glyphicon-book" aria-hidden="true">[Schnelleinstieg: Raspberry Pi einrichten](https://vcp-scoutlab.github.io/scoutlab-session-kit-1/einrichtung-raspberrypi)</span> weiter.
