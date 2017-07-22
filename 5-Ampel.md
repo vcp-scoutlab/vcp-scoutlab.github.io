@@ -13,7 +13,9 @@ permalink: /ampel
 * 1x Steckbrett
 
 ![Material: Ampel](images/material_ampel.png)
+
 <div style="page-break-after: always;"></div>
+
 ## Aufbau
 
 ![Aufbau  Ampel](images/led_ampel_Steckplatine_gpio.png)
@@ -23,6 +25,7 @@ permalink: /ampel
 >**Python**: `ampel.py` in deinem Projekt-Ordner für Python.
 
 <div style="page-break-after: always;"></div>
+
 ## Scratch-Programm
 
 ![](images/ampel.png)
