@@ -5,7 +5,9 @@ permalink: /
 ---
 # Scoutlab-Session Kit - 1
 
+
 ![Scoutlab Session Kit 1](images/scoutlab-session-kit-1.jpg)
+
 
 ## Inhalt
 
