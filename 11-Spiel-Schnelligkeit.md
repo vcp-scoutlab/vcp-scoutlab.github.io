@@ -23,6 +23,8 @@ Wir verwenden die Schaltung aus dem Schritt „LED mit einem Taster schalten“ 
 >
 >**Python**: `led_spiel.py` in deinem Projekt-Ordner für Python.
 
+<div style="page-break-after: always;"></div>
+
 ## Scratch-Programm
 
 ![](images/led_spiel2.png)

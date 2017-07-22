@@ -22,6 +22,8 @@ permalink: /zufallszahl
 >
 >**Python**: `led_zufall.py` in deinem Projekt-Ordner für Python.
 
+<div style="page-break-after: always;"></div>
+
 ## Scratch-Programm
 
 ![](images/led_zufallszahl.png)
