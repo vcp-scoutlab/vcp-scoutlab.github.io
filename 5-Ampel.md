@@ -16,7 +16,7 @@ permalink: /ampel
 <div style="page-break-after: always;"></div>
 ## Aufbau
 
-![Aufbau: Ampel](images/led_ampel_Steckplatine_gpio.png)
+![Aufbau  Ampel](images/led_ampel_Steckplatine_gpio.png)
 
 >**Scratch**: `ampel.sb` in deinem Projekt-Ordner für Scratch.
 >

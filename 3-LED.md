@@ -22,7 +22,7 @@ LED’s leuchten nur, wenn der Strom in die richtige Richtung fließt. Das kürz
 Eine Steckbrett (englisch breadboard) verwenden wir, um elektronische Bauteile miteinander zu verbinden. Die mechanische Befestigung der elektronischen Bauteilen ermöglicht uns Versuchsschaltungen.
 Beim Steckbrett sind die Bauteile nicht gelötet, sondern in Federkontakte gesteckt. Dadurch kann die Schaltung durch einfaches Umstecken geändert werden.
 
-![Steckplatine](images/Steckplatine_BB-301_tutorial.png)
+![Die Steckplatine](images/Steckplatine_BB-301_tutorial.png)
 
 <div style="page-break-after: always;"></div>
 ## Aufbau

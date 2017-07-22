@@ -18,7 +18,7 @@ permalink: /led-taster
 
 Wir erweitern die Schaltung aus dem Schritt "Taster auslesen" um eine LED und einen Schutzwiderstand.
 
-![](images/button_led_Steckplatine_gpio.png)
+![Aufbau](images/button_led_Steckplatine_gpio.png)
 
 
 >**Scratch**: `taster_led.sb` in deinem Projekt-Ordner für Scratch.
