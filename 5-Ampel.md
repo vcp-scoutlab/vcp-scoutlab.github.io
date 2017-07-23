@@ -31,7 +31,7 @@ permalink: /ampel
 ![](images/ampel.png)
 
 Am GPIO-Pin 16 ist die rote LED, am GPIO-Pin 20 ist die gelbe LED und am GPIO-Pin 21 die grüne LED, angeschlossen. Eine Schleife schaltet nun die Ampel. Frage: Kannst du im Programm ablesen, wie genau die Ampel geschaltet wird? Nutze dabei dein Wissen zur Steuerung von LEDs aus dem letzten Arbeitsblatt.
-<div style="page-break-after: always;"></div>
+
 ## Python-Programm
 
 ```python
