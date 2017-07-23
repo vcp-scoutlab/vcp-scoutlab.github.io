@@ -24,7 +24,7 @@ permalink: /programm
 
 <div style="page-break-after: always;"></div>
 
-## Scratch-Programm 
+## Scratch-Programm
 
 ![](images/scratch_led.png)
 
@@ -32,7 +32,7 @@ Der Block **gpioserveron**  startet den notwendigen GPIO-Server, damit das Progr
 <div class="hidden-print" style="margin-top:1em;">
 <iframe src="https://player.vimeo.com/video/224094828" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 
-<div style="page-break-after: always;"></div>
+
 ## Python-Programm
 
 ```python
