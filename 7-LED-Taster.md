@@ -29,8 +29,8 @@ Wir erweitern die Schaltung aus dem Schritt "Taster auslesen" um eine LED und ei
 
 ![](images/taster_led.png)
 
-Am GPIO-Pin 21 ist die LED angeschlossen. Am GPIO-Pin 18 wir der Taster angeschlossen.
-Eine Schleife prüft, ob der Taster (**Wert von Sensor gpio18=0**) gedrückt wird. Wenn die Bedingung erfüllt ist, leuchtet die LED.
+Am GPIO-Pin 21 ist die LED angeschlossen. Am GPIO-Pin 14 wir der Taster angeschlossen.
+Eine Schleife prüft, ob der Taster (**Wert von Sensor gpio14=0**) gedrückt wird. Wenn die Bedingung erfüllt ist, leuchtet die LED.
 
 
 ## Python-Programm
@@ -40,7 +40,7 @@ import RPi.GPIO as GPIO
 GPIO.setmode(GPIO.BCM)
 GPIO.setwarnings(False)
 from time import sleep
-TasterPin = 18
+TasterPin = 14
 LED_Pin = 21
 GPIO.setup(TasterPin, GPIO.IN, pull_up_down=GPIO.PUD_UP)
 GPIO.setup(LED_Pin, GPIO.OUT)
