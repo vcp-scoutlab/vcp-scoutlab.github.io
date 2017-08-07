@@ -40,7 +40,7 @@ from time import sleep
 from random import uniform #Import der Bibliothek für die Zufallszahlen
 LED_Pin = 21 #LED ist am GPIO-Pin 21 angeschlossen
 GPIO.setup(LED_Pin, GPIO.OUT) #Pin21 wird als Ausgabe definiert
-TasterPin = 18
+TasterPin = 14
 GPIO.setup(TasterPin, GPIO.IN, pull_up_down=GPIO.PUD_UP)
 GPIO.output(LED_Pin, GPIO.HIGH) #LED ein schalten
 sleep(uniform(5, 10)) #per Zufallszahl zwischen 5 und 10 sek warten
