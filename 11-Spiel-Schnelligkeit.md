@@ -29,7 +29,7 @@ Wir verwenden die Schaltung aus dem Schritt „LED mit einem Taster schalten“ 
 
 ![](images/led_spiel2.png)
 
-Mit dem Block **config21out** wird der GPIO-Pin 21 als Ausgang definiert. An diesem GPIO-Pin ist die LED angeschlossen. Mit config18in wird der GPIO-Pin für den Taster als Eingang definiert. Wir legen noch zwei eigene Variablen an: **zeit, ergebnis** Das Programm lässt die LED zufällig lang (zwischen 5 und 5 Sekunden) leuchten und schaltet die LED mit gpio21off wieder aus. Die Schleife prüft, ob der Taster (**Wert von Sensor gpio18=0**) gedrückt wird. Wenn die Bedingung erfüllt ist, wird die Variable zeit als Ergebnis angezeigt und das Programm beendet. Sonst wird die Variable zeit um 0,1 Sekunden erhöht und die Schleife wartet auch 0,1 Sekunden bevor diese wiederholt wird.
+Mit dem Block **config21out** wird der GPIO-Pin 21 als Ausgang definiert. An diesem GPIO-Pin ist die LED angeschlossen. Mit config14in wird der GPIO-Pin für den Taster als Eingang definiert. Wir legen noch zwei eigene Variablen an: **zeit, ergebnis** Das Programm lässt die LED zufällig lang (zwischen 5 und 5 Sekunden) leuchten und schaltet die LED mit gpio21off wieder aus. Die Schleife prüft, ob der Taster (**Wert von Sensor gpio14=0**) gedrückt wird. Wenn die Bedingung erfüllt ist, wird die Variable zeit als Ergebnis angezeigt und das Programm beendet. Sonst wird die Variable zeit um 0,1 Sekunden erhöht und die Schleife wartet auch 0,1 Sekunden bevor diese wiederholt wird.
 
 ## Python – Programm
 ```python
