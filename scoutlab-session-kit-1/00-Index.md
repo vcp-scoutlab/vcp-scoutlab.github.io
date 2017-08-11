@@ -1,7 +1,7 @@
 ---
-layout: page
-title: Start
-permalink: /start
+layout: multipage
+title: Scoutlab Session Kit 1
+permalink: /scoutlab-session-kit-1/start
 ---
 # Scoutlab-Session Kit 1
 

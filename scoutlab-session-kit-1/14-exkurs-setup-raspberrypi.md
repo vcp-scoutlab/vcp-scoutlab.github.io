@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: multipage
 title: Einrichtung Raspberry Pi
-permalink: /einrichtung-raspberrypi
+permalink: /scoutlab-session-kit-1/einrichtung-raspberrypi
 ---
 # Einrichtung Raspberry Pi
 

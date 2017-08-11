@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: multipage
 title: Ampel
-permalink: /ampel
+permalink: /scoutlab-session-kit-1/ampel
 ---
 # Ampel
 ## Material

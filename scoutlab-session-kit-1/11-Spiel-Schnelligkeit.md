@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: multipage
 title: Computerspiel Schnelligkeit
-permalink: /computerspiel-schnelligkeit
+permalink: /scoutlab-session-kit-1/computerspiel-schnelligkeit
 ---
 # Computerspiel Schnelligkeit
 ## Material

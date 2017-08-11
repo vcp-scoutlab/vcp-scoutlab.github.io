@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: multipage
 title: Vorbereitung
-permalink: /vorbereitung
+permalink: /scoutlab-session-kit-1/vorbereitung
 ---
 ## Downloads zum Scoutlab Session Kit 1
 <div class="alert alert-info" role="alert">Die verwendeten Programme findest du auf der <a href="https://vcp-scoutlab.github.io/scoutlab-session-kit-1/download"><strong>Download-Seite</strong></a> zum Download.

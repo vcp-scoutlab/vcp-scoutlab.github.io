@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: multipage
 title: LED leuchtet
-permalink: /led
+permalink: /scoutlab-session-kit-1/led
+section_start: true
 ---
 # LED leuchtet
 

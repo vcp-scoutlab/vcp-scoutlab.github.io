@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: multipage
 title: LED mit einem Programm schalten
-permalink: /programm
+permalink: /scoutlab-session-kit-1/programm
 ---
 # LED mit einem Programm schalten
 ## Material

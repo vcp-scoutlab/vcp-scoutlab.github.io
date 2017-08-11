@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: multipage
 title: LEDs über Benutzer-Eingaben steuern
-permalink: /eingabe
+permalink: /scoutlab-session-kit-1/eingabe
 ---
 # LEDs über Benutzer-Eingaben steuern
 ## Material

@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: multipage
 title: Morsen
-permalink: /morsen
+permalink: /scoutlab-session-kit-1/morsen
 ---
 # Morsen
 # Morsegerät bauen

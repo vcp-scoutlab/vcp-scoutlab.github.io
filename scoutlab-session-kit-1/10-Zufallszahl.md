@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: multipage
 title: LED mittels Zufallszahl steuern
-permalink: /zufallszahl
+permalink: /scoutlab-session-kit-1/zufallszahl
 ---
 # LED mittels Zufallszahl steuern
 ## Material

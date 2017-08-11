@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: multipage
 title: LED mit einem Taster schalten
-permalink: /led-taster
+permalink: /scoutlab-session-kit-1/led-taster
 ---
 # LED mit einem Taster schalten
 

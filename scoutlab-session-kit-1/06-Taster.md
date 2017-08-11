@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: multipage
 title: Taster auslesen
-permalink: /taster
+permalink: /scoutlab-session-kit-1/taster
 ---
 
 # Taster auslesen

@@ -1,12 +1,13 @@
 ---
-layout: page
+layout: multipage
 title: Download
-permalink: /download
+permalink: /scoutlab-session-kit-1/download
+section_start: true
 ---
 # Download
 ## Downloads für das Scoutlab Session Kit 1
 <span class="glyphicon glyphicon-download-alt" aria-hidden="true">
-[Programme Scoutlab Session Kit (Scratch & Python)](https://vcp-scoutlab.github.io/scoutlab-session-kit-1/appendix/code.zip)</span>
+[Programme Scoutlab Session Kit (Scratch & Python)]({{ site.baseurl }}/scoutlab-session-kit-1/appendix/code.zip)</span>
 
 ## Downloads für den Raspberry Pi
 

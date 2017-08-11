@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Scoutlab Session Kit 1
+name: VCP Scoutlab
 
 # Short bio or description (displayed in the header)
 description:
@@ -16,7 +16,7 @@ url:
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/scoutlab-session-kit-1"
+baseurl:
 
 #
 # !! You don't need to change any of the configuration flags below !!
