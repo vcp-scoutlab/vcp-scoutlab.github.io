@@ -1,1 +1,0 @@
-# vcp-scoutlab.github.io
