@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }}</title>
+
+
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+
+
+    <!--[if lt IE 9]>
+      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/prism.css" />
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/custom.css" />
+    <!--  <link rel="stylesheet" type="text/css" href="{{ site.baseurl}}/css/print.css" />-->
+    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
+    <script src="{{ site.baseurl}}/js/prism.js"></script>
+
+    <link rel="icon" href="{{ site.baseurl }}/images/icon/cropped-scoutlab_white_favicon-32x32.png" sizes="32x32" />
+    <link rel="icon" href="{{ site.baseurl }}/images/icon/cropped-scoutlab_white_favicon-192x192.png" sizes="192x192" />
+    <link rel="apple-touch-icon-precomposed" href="{{ site.baseurl }}/images/icon/cropped-scoutlab_white_favicon-180x180.png" />
+    <meta name="msapplication-TileImage" content="{{ site.baseurl }}/images/icon/cropped-scoutlab_white_favicon-270x270.png" />
+
+  </head>
+
+  <body>
+
+
+    {% include navigation.html %}
+
+
+
+
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-xs-4 col-md-4 visible-print-inline-block"><img src="{{ site.baseurl}}/images/scoutlab_blau2.png"></div>
+        <div class="col-xs-4 col-md-4 visible-print-inline-block">
+          <h4>Scoutlab Session Kit 1</h4></div>
+        <div class="col-xs-4 col-md-4 visible-print-inline-block"><img src="{{ site.baseurl}}/images/vcp_wortbildmarke.png"></div>
+      </div>
+      <!--Druckausgabe ende-->
+      <!--Seite-->
+      {{ content }}
+    </div>
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+
+
+  </body>
+
+</html>

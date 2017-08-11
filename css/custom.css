@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+body {
+font-family: 'Roboto', sans-serif;
+font-size: 18px/1.4;
+line-height: 1.5em;
+padding-top: 50px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  /*font-family: $helveticaNeue;*/
+font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+}
+
+em, i {
+  font-style: italic;
+}
+
+blockquote {
+  margin: 1.8em .8em;
+  padding: 0.1em 1em;
+  font-style: italic;
+  font-weight: normal;
+}
+
+
+img {
+    max-width: 100%;
+}
+
+div#main.container {
+
+	padding-top:50px;
+}
+
+
+.navbar-default .navbar-nav>li>a, .navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:visited, .navbar-default .navbar-nav>li>a:focus {
+    color: #004287;
+}
+
+.navbar-default .navbar-brand, a.navbar-brand, .navbar-brand>a:hover, .navbar-default .navbar-brand>a:focus, .navbar-default .navbar-brand>a:visited
+{
+    color: #004287;
+}
+span a{
+font-family: 'Roboto', sans-serif;
+}
+
+iframe {
+  max-width: 100%;
+}
+
+
+/*
+ * Sidebar
+ */
+
+/* Hide for mobile, show later */
+.sidebar {
+  display: none;
+}
+@media (min-width: 768px) {
+  .sidebar {
+    position: fixed;
+    top: 51px;
+    bottom: 0;
+    left: 0;
+    z-index: 1000;
+    display: block;
+    padding: 20px;
+    overflow-x: hidden;
+    overflow-y: auto; /* Scrollable contents if viewport is shorter than content. */
+    background-color: #f5f5f5;
+    border-right: 1px solid #eee;
+  }
+}
+
+/* Sidebar navigation */
+.nav-sidebar {
+  margin-right: -21px; /* 20px padding + 1px border */
+  margin-bottom: 20px;
+  margin-left: -20px;
+}
+.nav-sidebar > li > a {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 20px;
+  padding-left: 20px;
+  font-size: 0.95em;
+  color: #004287;
+}
+.nav-sidebar > .active > a,
+.nav-sidebar > .active > a:hover,
+.nav-sidebar > .active > a:focus {
+  color: #fff;
+  background-color: #428bca;
+}
+
+
+/*
+ * Main content
+ */
+
+.main {
+  padding: 20px;
+}
+@media (min-width: 768px) {
+  .main {
+    padding-right: 40px;
+    padding-left: 40px;
+  }
+}
+.main .page-header {
+  margin-top: 0;
+}

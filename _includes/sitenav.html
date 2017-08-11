@@ -1,0 +1,13 @@
+<div class="col-sm-3 col-md-2 sidebar">
+  <ul class="nav nav-sidebar">
+    {% for p in site.pages | sort: 'name' %}
+    {% if p.dir == page.dir %}
+      {% if p.section_start %}
+        </ul>
+        <ul class="nav nav-sidebar">
+      {% endif %}
+      <li><a href="{{p.url}}"{% if p.url==page.url %}class="active" {% endif %}>{{ p.title }}</a>
+    {% endif %}
+    {% endfor %}
+  </ul>
+</div>
