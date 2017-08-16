@@ -1,9 +1,11 @@
 ---
 layout: page
 title: 3D-Druck Workshop
-permalink: /3d-druck/3d-druck-wokshop
+permalink: /3d-druck/3d-druck-workshop
 ---
 # 3D-Druck Workshop
+
+<!-- TODO: Add Images -->
 
 Im Rahmen des 3D Druck Worhsops sollen die Teilnehmer an grundlagen das 3D Druckens herangeführt werden. Am Beispiel eines Halstuch Rings werden sie erste 3D Objekte am Computer erstellen und am ende mit dem 3D Drucker ausdrucken.
 
@@ -33,7 +35,7 @@ Der erzeugte gcode (die Drucker Kommandos) werden dann via SD Karte, Wifi oder U
 Bevor wir mit der Modellierung beginnen, sollte das aufgezeichnet werden und alle relevanten abmessungen ermittelt werden.
 
 1. Anmelden bei TinkerCAD und vertraut machen mit der Oberfläche
-2. View ändern // TODO: propper description
+2. View ändern <!--  TODO: propper description -->
 3. Zylinder in die Arbeitsfläche ziehen und parametrisieren
 4. Zweiten Zylinder mit Material "Loch" in die Arbeitsfläche ziehen und parametrisieren.
 5. Beide Zylinder ausrichten.
@@ -59,6 +61,6 @@ Abweichend von den standrad einstellungen haben sich folgende optionen bewehrt.
 
 Anschliessend kann das projekt auf der SD Karte des Druckers gespeichert werden.
 
-Am Drucker sollte zunächst die Druckplatte ausgerichtet werden (TODO: Add programm path). Anschliessend  können sich die Teilnehmer eine Druck Farbe aussuchen und das passende Filament am Drucker einlegen (Druckmenü: "Change").
+Am Drucker sollte zunächst die Druckplatte ausgerichtet werden <!--( TODO: Add programm path) //-->. Anschliessend  können sich die Teilnehmer eine Druck Farbe aussuchen und das passende Filament am Drucker einlegen (Druckmenü: "Change").
 
 Sobald alle Vorbereitungen abgeschlossen sind, sollte die Druckplatte gereinigt werden und der Druck gestartet. Die Teilnehmer können die Resultate später am Tag oder in der nächste Gruppenstunde abholen.
