@@ -114,3 +114,17 @@ iframe {
 .main .page-header {
   margin-top: 0;
 }
+
+.vcp-jumbotron {
+  margin-top: 50px;
+}
+
+.navbar-brand {
+  padding-top: 5px;
+
+}
+
+img.brand {
+  height: 40px;
+  width: auto;
+}

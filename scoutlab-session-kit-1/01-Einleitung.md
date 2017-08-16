@@ -1,6 +1,7 @@
 ---
 layout: multipage
 title: Start
+category: Scoutlab Session Kit 1
 permalink: /scoutlab-session-kit-1/start
 ---
 # Scoutlab-Session Kit 1

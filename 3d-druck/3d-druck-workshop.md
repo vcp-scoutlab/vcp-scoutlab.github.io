@@ -25,6 +25,8 @@ Es ist wichtig, dass der Workshopleiter sich mit der Software auseinander setzt 
 
 3D-Drucken ist ein drei stufiger Prozess. Im ersten Schritt muss ein 3D-Modell erstellt werden. Hierzu eignen sich 3D CAD Anwendungen wie z.B. [TinkerCAD](http://tinkercad.com), [AutoCAD Fusion 360](https://www.autodesk.de/products/fusion-360/overview) oder [Blender](https://www.blender.org/). Im weiteren verlauf des Workshops werden wir TinkerCAD verwenden. Es ist ein  Borwser Basiertes 3D CAD Programm für Einsteiger.
 
+<img src="images/3dflow.jpg" class="img-responsive center-block" width="30%">
+
 Sobald das 3D Modell in form einer STL Datei vorliegt, kann es im Slicer für den 3D-Drucker vorbereitet werden. Der Slicer Zerscheidet das Modell in Schichten und erzeugt konkrete Komandos für den Drucker.
 
 Der erzeugte gcode (die Drucker Kommandos) werden dann via SD Karte, Wifi oder USB Kabel an den Drucker übetragen und der Druck kann beginnen.
@@ -32,23 +34,26 @@ Der erzeugte gcode (die Drucker Kommandos) werden dann via SD Karte, Wifi oder U
 
 ## Durchführung
 
-Bevor wir mit der Modellierung beginnen, sollte das aufgezeichnet werden und alle relevanten abmessungen ermittelt werden.
+Bevor wir mit der Modellierung beginnen, sollte die Idee das aufgezeichnet werden und alle relevanten abmessungen ermittelt werden.
 
-1. Anmelden bei TinkerCAD und vertraut machen mit der Oberfläche
-2. View ändern <!--  TODO: propper description -->
-3. Zylinder in die Arbeitsfläche ziehen und parametrisieren
-4. Zweiten Zylinder mit Material "Loch" in die Arbeitsfläche ziehen und parametrisieren.
-5. Beide Zylinder ausrichten.
-6. Zylinder Gruppieren (um die funktion der unterschiedlichen Materialien zu verdeutlichen)
-7. Box in die Arbeitsfläche ziehen und parametrisieren.
-8. Zylinder degruppieren und mit der Box ausrichten
-9. Alle drei Komponenten Gruppieren
+<img src="images/ring.jpg" class="img-responsive center-block" width="30%">
 
-Der Basis Halstuchring ist jetzt fertig und kann von den Teilnehmern verfeinert und dekoriert werden. Möglich ist z.B. einen Buchstaben, das Sippenabzeichen oder die VCP Lilie am Schild zu motieren. Des weiteren können die Ecken des Rings abgerundet werden oder komplett eigene Formen (e.g. ein Herz) für den  verwendet werden.
+Anschlissend gibt der Gruppenleiter eine kleine Einführung in das Tool TinkerCAD. Vor allem die unterschiedlichen Sichten sollten verdeutlicht werden, da es entscheidend ist, von wo man auf das Objekt sieht.
+
+<div class="alert alert-info" role="alert">
+  In TinkerCAD kann man zwischen ortogonaler und perspektivischer Ansicht umschalten. Wärend der Konstruktion macht es sinn die ortogonale Ansicht zu wählen.
+</div>
+
+<img src="images/dice.png" class="img-responsive center-block" width="10%">
+
+Sobald die Teilnehmer mit der Oberfläche vertraut sind, kann der Halstuchring gestaltet werden. Im wesentlichen Besteht er aus einem Zylinder und einer Box, die mit einem Zylinder "Loch" kombiniert werden.
+
+bald der Basisring fertig ist, kann er von den Teilnehmern weiter verfeinert werden. Möglich ist z.B. einen Buchstaben, das Sippenabzeichen oder die VCP Lilie am Schild zu motieren. Des weiteren können die Ecken des Rings abgerundet werden oder komplett eigene Formen (e.g. ein Herz) für den Ring verwendet werden.
 
 Etwa eine halbe stunde vor ende der Gruppenstunde sollten alle dateien zentral gesammelt werden und mit dem slicer für den Druck vorbereitet werden.
 
 ## Druck
+<img src="images/cura.png" class="img-responsive center-block" width="50%">
 
 Da es sehr viele unterschiedliche Drucker Typen gibt, sollte sich der Workshopleiter mit dem Drucker und der Slicer Software vertraut machen. Beispielhaft werden die Notwendigen Schritte für den Ultimaker 2 Go und Cura hier vorgestellt.
 
@@ -61,6 +66,6 @@ Abweichend von den standrad einstellungen haben sich folgende optionen bewehrt.
 
 Anschliessend kann das projekt auf der SD Karte des Druckers gespeichert werden.
 
-Am Drucker sollte zunächst die Druckplatte ausgerichtet werden <!--( TODO: Add programm path) //-->. Anschliessend  können sich die Teilnehmer eine Druck Farbe aussuchen und das passende Filament am Drucker einlegen (Druckmenü: "Change").
+Am Drucker sollte zunächst die Druckplatte ausgerichtet werden. Anschliessend  können sich die Teilnehmer eine Druck Farbe aussuchen und das passende Filament am Drucker einlegen.
 
 Sobald alle Vorbereitungen abgeschlossen sind, sollte die Druckplatte gereinigt werden und der Druck gestartet. Die Teilnehmer können die Resultate später am Tag oder in der nächste Gruppenstunde abholen.

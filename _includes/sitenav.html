@@ -6,7 +6,9 @@
         </ul>
         <ul class="nav nav-sidebar">
       {% endif %}
-      <li><a href="{{p.url}}"{% if p.url==page.url %}class="active" {% endif %}>{{ p.title }}</a>
+      {% if p.nav != false %}
+        <li><a href="{{p.url}}"{% if p.url==page.url %}class="active" {% endif %}>{{ p.title }}</a>
+      {% endif %}
     {% endif %}
     {% endfor %}
   </ul>

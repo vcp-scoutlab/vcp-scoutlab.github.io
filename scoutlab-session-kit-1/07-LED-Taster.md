@@ -1,6 +1,7 @@
 ---
 layout: multipage
 title: LED mit einem Taster schalten
+category: Scoutlab Session Kit 1
 permalink: /scoutlab-session-kit-1/led-taster
 ---
 # LED mit einem Taster schalten

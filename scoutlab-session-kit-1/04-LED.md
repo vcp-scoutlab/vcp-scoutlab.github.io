@@ -1,6 +1,7 @@
 ---
 layout: multipage
 title: LED mit einem Programm schalten
+category: Scoutlab Session Kit 1
 permalink: /scoutlab-session-kit-1/programm
 ---
 # LED mit einem Programm schalten

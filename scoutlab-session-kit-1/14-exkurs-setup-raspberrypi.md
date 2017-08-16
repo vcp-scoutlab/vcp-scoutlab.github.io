@@ -1,6 +1,7 @@
 ---
 layout: multipage
 title: Einrichtung Raspberry Pi
+category: Scoutlab Session Kit 1
 permalink: /scoutlab-session-kit-1/einrichtung-raspberrypi
 ---
 # Einrichtung Raspberry Pi
