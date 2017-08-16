@@ -20,5 +20,19 @@ permalink: /
         </div>
       </div>
     </div>
+    <div class="row">
+      {% for item in site.data.featured %}
+      <div class="col-sm-4 col-md-4">
+        <div class="thumbnail">
+          <img  src="{{item.thumbnail}}" class="vcp-thumb" alt="3D-Print">
+          <div class="caption">
+            <h3>{{item.title}}</h3>
+            <p>{{item.description}}</p>
+            <p><a href="{{item.url}}" class="btn btn-primary" role="button">{{item.title}}</a></p>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
   </div>
 </div>

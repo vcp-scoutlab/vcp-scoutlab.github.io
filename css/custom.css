@@ -132,3 +132,7 @@ img.brand {
 .vcp-index {
   margin-top: 50px;
 }
+
+img.vcp-thumb {
+  height: 200px;
+}
