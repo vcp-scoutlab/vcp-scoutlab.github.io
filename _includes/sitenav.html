@@ -1,3 +1,30 @@
+<div class="visible-xs-block row">
+  <div class="col-xs-1 col-xs-offset-10 vcp-index">
+    <div class="dropdown pull-right">
+      <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+        <span class="glyphicon glyphicon-folder-open"></span>
+      </button>
+      <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
+        {% for p in site.pages | sort: 'name' %}
+        {% if p.dir == page.dir %}
+        {% if p.section_start %}
+          <li role="separator" class="divider"></li>
+        {% endif %}
+          {% if p.nav != false %}
+          <li>
+            <a href="{{p.url}}" {% if p.url==page.url %}class="active"  {% endif %}>
+              {{ p.title }}
+            </a>
+          </li>
+          {% endif %}
+        {% endif %}
+        {% endfor %}
+
+      </ul>
+    </div>
+  </div>
+</div>
+
 <div class="col-sm-3 col-md-2 sidebar">
   <ul class="nav nav-sidebar">
     {% for p in site.pages | sort: 'name' %}
@@ -7,7 +34,9 @@
         <ul class="nav nav-sidebar">
       {% endif %}
       {% if p.nav != false %}
-        <li><a href="{{p.url}}"{% if p.url==page.url %}class="active" {% endif %}>{{ p.title }}</a>
+        <li>
+          <a href="{{p.url}}"{% if p.url==page.url %}class="active" {% endif %}>{{ p.title }}</a>
+        </li>
       {% endif %}
     {% endif %}
     {% endfor %}
