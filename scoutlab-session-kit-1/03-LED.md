@@ -26,6 +26,8 @@ Beim Steckbrett sind die Bauteile nicht gelötet, sondern in Federkontakte geste
 
 ![Die Steckplatine](images/Steckplatine_BB-301_tutorial.png)
 
+Bei diesem Steckbrett sind die äußeren Längsreihen über Kontakte (X und Y) alle miteinander verbunden. In den anderen Kontaktreihen sind jeweils fünf Kontakte (A bis E und F bis J) quer miteinander verbunden, wobei in der Mitte des Steckbretts eine Lücke (Isolator) ist.
+
 <div style="page-break-after: always;"></div>
 ## Aufbau
 ![Aufbau: Raspberry Pi als Stromquelle](images/led1_Steckplatine_gpio.png)
