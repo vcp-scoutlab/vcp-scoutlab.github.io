@@ -17,10 +17,13 @@ section_start: true
 
 Wir nutzen den Raspberry Pi als Stromquelle. Für dieses Experiment musst du nichts programmieren.
 
+<div style="page-break-after: always;"></div>
+
 ## Die LED (Leuchtdiode)
 LED’s leuchten nur, wenn der Strom in die richtige Richtung fließt. Das kürzere Bein wird an den GND-Pin(-), das längere Bein wird an den jeweiligen GPIO-Pin angeschlossen. Damit die LED nicht zu viel Strom bekommt und durchbrennt haben wir zwischen LED und Pin noch einen Widerstand geschaltet.
 
 ![Aufbau und Anschlüsse LED](images/LED-Aufbaue-leg.png)
+
 
 ## Wie funktioniert das Steckbrett?
 Eine Steckbrett (englisch breadboard) verwenden wir, um elektronische Bauteile miteinander zu verbinden. Die mechanische Befestigung der elektronischen Bauteilen ermöglicht uns Versuchsschaltungen.
