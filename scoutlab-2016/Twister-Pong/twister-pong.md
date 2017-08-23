@@ -23,14 +23,14 @@ Pfadfinder*rinnen
 
 ## Materialbedarf
 
--Alufolie
--Kabel
--Pappe
--Klebeband
--25MOhm Wiederstände
--vielleicht 100 pF kondestoren
--WS2801 Lichterkette (18€ bei Ebay)
--Arduirno Mega
+- Alufolie
+- Kabel
+- Pappe
+- Klebeband
+- 25MOhm Wiederstände
+- vielleicht 100 pF kondestoren
+- WS2801 Lichterkette (18€ bei Ebay)
+- Arduirno Mega
 
 ### Räumlichkeiten
 Ausreichend großer Gruppenraum, ist aber auch im Außenbereich möglich.
@@ -40,35 +40,35 @@ Ausreichend großer Gruppenraum, ist aber auch im Außenbereich möglich.
 
 ### Gruppenstunde 1
 
--       TN mit dem Material vertraut machen. Kabel, Lampen, Schalter
+- TN mit dem Material vertraut machen. Kabel, Lampen, Schalter
 verbinden.
--       Stromkreise bauen.
--       Mit Hilfe der Beispiele in der Aduino Software bspw. Lämpchen
+- Stromkreise bauen.
+- Mit Hilfe der Beispiele in der Aduino Software bspw. Lämpchen
 zum blinken bringen.
--       Schalter einbauen usw.
+- Schalter einbauen usw.
 
 
-### Gruppenstunde 2: {#h.8u6ckkcuvba4 .c14}
--       Spielidee spinnen, entwickeln.
--       Arbeitsschritte klären
--       Vorkenntnisse klären, Ideen einbringen, Aufgaben aufteilen.
+### Gruppenstunde 2:
+- Spielidee spinnen, entwickeln.
+- Arbeitss hritte klären
+- Vorkenntnisse klären, Ideen einbringen, Aufgaben aufteilen.
 
 ![](images/image1.png)
 
-### Gruppenstunde 3: {#h.s2e7qv4aj5pw .c14}
--       erste Arbeitsschritte ausprobieren.
+### Gruppenstunde 3:
+- erste Arbeitsschritte ausprobieren.
 
 AG 1: Fläche (2 Personen)
 AG 2: Gitter
--       LED´s
+- LED´s
 AG 3: Programmieren
-1.     Phase
+1. Phase
 Grobe Planung (Spielidee, verfügbares Material, Vorkenntnisse ...)
-2.     Phase
+2.  Phase
 Ausprobieren/ Testphase
--       Barfuß oder mit Schuhe?
--       Folie testen
--       LED´s testen
+- Barfuß oder mit Schuhe?
+- Folie testen
+- LED´s testen
 
 ### TwisterPong
 
