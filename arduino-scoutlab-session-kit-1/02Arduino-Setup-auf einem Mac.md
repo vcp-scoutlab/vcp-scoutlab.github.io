@@ -3,7 +3,6 @@ layout: multipage
 title: Arduino-Setup auf einem Mac
 category: Scoutlab Session Kit 1 für Arduino
 permalink: /arduino-scoutlab-session-kit-1/Arduino-Setup-auf-einem-Mac
-section_start: true
 ---
 
 # Arduino-Setup auf einem Mac
