@@ -15,10 +15,10 @@ Entpacke die Dateien aus dem ZIP-Archiv in ein Verzeichnis auf deinem Rechner.
 
 ## Arduino-Entwicklungsumgebung einrichten
 
-<span class="glyphicon glyphicon-book" aria-hidden="true">[Arduino unter Windows einrichten](Arduino-Setup-auf-einem-Windows-PC)</span>
+<span class="glyphicon glyphicon-book" aria-hidden="true">[ Arduino unter Windows einrichten](Arduino-Setup-auf-einem-Windows-PC)</span>
 
-<span class="glyphicon glyphicon-book" aria-hidden="true">[Arduino auf einem Mac einrichten](Arduino-Setup-auf-einem-Mac)</span>
+<span class="glyphicon glyphicon-book" aria-hidden="true">[ Arduino auf einem Mac einrichten](Arduino-Setup-auf-einem-Mac)</span>
 
-<span class="glyphicon glyphicon-book" aria-hidden="true">[Arduino auf einem Linux-PC einrichten](Arduino-Setup-auf-einem-Linux-PC)</span>
+<span class="glyphicon glyphicon-book" aria-hidden="true">[ Arduino auf einem Linux-PC einrichten](Arduino-Setup-auf-einem-Linux-PC)</span>
 
-<div class="alert alert-info" role="alert">Nur wenn die Software mit deinem Arduino funktioniert, kannst du mit den Experimenten starten.</div>
+<div class="alert alert-info" role="alert">Nur wenn die Software mit deinem Arduino funktioniert, kannst du mit den Experimenten aus dem Scoutlab Session Kit starten.</div>
