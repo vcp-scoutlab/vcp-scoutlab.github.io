@@ -9,4 +9,9 @@
   description: "Erste Schritte mit dem Raspberry Pi."
   thumbnail: /scoutlab-session-kit-1/images/ampel.png
 
+- title: "Scoutlab Session Kit für Arduino"
+  url: /arduino-scoutlab-session-kit-1/
+  description: "Erste Schritte mit dem Arduino."
+  thumbnail: /arduino-scoutlab-session-kit-1/images/led2_arduiono_Steckplatine.png
+
 # - url: /foo/bar
