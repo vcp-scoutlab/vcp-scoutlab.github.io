@@ -10,8 +10,11 @@ Entpacke die Dateien aus dem ZIP-Archiv in das Verzeichnis /home/pi auf deinem R
 Die Scratch-Beispiele findest du im Verzeichnis scratch.
 Die Python-Beispiele findest du dann im Verzeichnis python.</div>
 
-
-<div class="alert alert-info" role="alert">Die im Scoutlab-Session Kit 1 beschriebenen Experimente funktionieren mit den aktuellen Raspberry Pi-Modellen A+, B+, Raspberry Pi 2 und Raspberry Pi 3.</div>
+<div class="alert alert-info" role="alert">
+<h3>Tipp für Lager & Gruppenstunden</h3>
+Nimm das Steckbrett aus der Tüte und leere nun die ganzen Bauteile in ein sauberes und trockenes Berghaferl.
+Damit fallen dir keine Bauteile vom Tisch oder gehen auf dem Lager verloren.
+</div>
 
 ## Scratch verwenden
 Starte das Scratch-Programm, indem Du auf Menü klickst, gefolgt von Entwicklung und dann Scratch auswählen
