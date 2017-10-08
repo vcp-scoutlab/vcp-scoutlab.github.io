@@ -24,7 +24,7 @@ permalink: /
       {% for item in site.data.featured %}
       <div class="col-sm-4 col-md-4">
         <div class="thumbnail">
-          <img  src="{{item.thumbnail}}" class="vcp-thumb" alt="3D-Print">
+          <a href="{{item.url}}"><img  src="{{item.thumbnail}}" class="vcp-thumb" alt="{{item.title}}"></a>
           <div class="caption">
             <h3>{{item.title}}</h3>
             <p>{{item.description}}</p>
