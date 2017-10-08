@@ -4,7 +4,7 @@ title: Start
 category: Scoutlab Session Kit 1 für Arduino
 permalink: /arduino-scoutlab-session-kit-1/start
 ---
-# Arduino Scoutlab-Session Kit 1
+# Scoutlab-Session Kit 1 für Arduino
 
 
 <div class="alert alert-warning" role="alert">

@@ -9,6 +9,12 @@ permalink: /arduino-scoutlab-session-kit-1/vorbereitung
 Entpacke die Dateien aus dem ZIP-Archiv in ein Verzeichnis auf deinem Rechner.
 </div>
 
+<div class="alert alert-info" role="alert">
+<h3>Tipp für Lager & Gruppenstunden</h3>
+Nimm das Steckbrett aus der Tüte und leere nun die ganzen Bauteile in ein sauberes und trockenes Berghaferl.
+Damit fallen dir keine Bauteile vom Tisch oder gehen auf dem Lager verloren.
+</div>
+
 ## Arduino-Entwicklungsumgebung (Software) herunterladen
 
 <div class="alert alert-info" role="alert">Der Arduino liefert eine eigene Entwicklungsumgebung mit. Ihr könnt sie für euren Laptop unter <strong><a href="https://www.arduino.cc/en/Main/Software" target="_blank">arduino.cc</a></strong> herunterladen.</div>
