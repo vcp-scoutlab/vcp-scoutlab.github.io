@@ -13,6 +13,8 @@
 - page: Projekte
   url: /projekte
   subfolderitems:
+   - page: Scoutlab Projekte 2016
+     url: /scoutlab-2016  
    - page: 2016 - PfaDJ
      url: /scoutlab-2016/PfaDJ/pfadj
    - page: 2016 - Wetterstation
