@@ -42,7 +42,6 @@ void loop() {
   digitalWrite(LED_Pin, LOW);    // turn the LED off by making the voltage LOW
   delay(1000);                       // wait for a second
 }
-}
 ```
 Jetzt kann das Programm in ein maschinenlesbares Format übersetzt und an den Arduino übertragen werden. Hierzu drücke wir einfach auf Upload.
 

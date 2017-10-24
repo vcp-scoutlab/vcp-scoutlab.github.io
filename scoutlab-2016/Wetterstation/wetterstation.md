@@ -1,6 +1,8 @@
 ---
-layout: page
+layout: multipage
+subdir: scoutlab-2016
 title: Scoutlab-Projekt 2016 - Wetterstation
+navtitle: Wetterstation
 permalink: /scoutlab-2016/Wetterstation/wetterstation
 ---
 

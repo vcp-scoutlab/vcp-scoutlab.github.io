@@ -1,7 +1,9 @@
 ---
-layout: page
+layout: multipage
 title: Scoutlab-Projekt 2016 - Digitales Geländespiel
+navtitle: Digitales Geländespiel
 permalink: /scoutlab-2016/Digitales-Gelaendespiel/digitales-gelaendespiel
+subdir: scoutlab-2016
 ---
 
 # Projektname: Digitales Geländespiel
