@@ -1,5 +1,5 @@
 ---
-layout: multipage
+layout: page
 title: Scoutlab Projekte 2016
 category: Scoutlab Projekte 2016
 nav: false
