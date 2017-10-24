@@ -75,7 +75,7 @@ Luftfeuchte
 
 ### Programmierung mit Node-Red über Firmata
 
-![](images/image3.png)
+[![](images/image3-small.png)](images/image3.png)
 
 Block
 
@@ -119,9 +119,11 @@ Gibt dem Stellmotor eine bestimmte Gradzahl
 
 Eingabe: Grad des angeschlossenen Stellmotors
 
-### Schaltbild Lichtsensor![](images/image1.png)
+### Schaltbild Lichtsensor
 
-### ![](images/image2.png)
+[![](images/image1-small.png)](images/image1.png)
+
+[![](images/image2-small.png)](images/image2.png)
 
 ### Node-Red Code
 

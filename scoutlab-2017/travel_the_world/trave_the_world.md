@@ -10,8 +10,9 @@ subdir: scoutlab-2017
 ## Kurzbeschreibung:
 Interaktive Weltkarte: Durch Anfassen einer Stadt auf der Karten wird der Ortsnamen und Ortszeit auf einem Display angezeigt. Daneben wir die passende Nationalhymne als Musik über einen PC-Lautsprecher ausgegeben. Der Lautsprecher wir am Audio-Anschluss des Raspberry Pi eingesteckt.
 
-![Foto: Angelika Beranek](images/travel_the_world_foto_a_beranek.jpg)
+![Foto: Angelika Beranek](images/travel_the_world_foto_a_beranek.jpg)<br/>
 Foto: Prof. Dr. Angelika Beranek
+
 
 ## Zielgruppe
 
@@ -32,7 +33,7 @@ Für die Umsetzung: Pfadfinder*innen // Ranger/Rover
 
 ## Aufbau
 
-![](images/travel_the_world_Steckplatine.png)
+[![](images/travel_the_world_Steckplatine-small.png)](images/travel_the_world_Steckplatine.png)
 
 ## Arbeitsschritte
 1. Herunterladen einer Weltkarte als Vektordatei.

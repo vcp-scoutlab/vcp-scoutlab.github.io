@@ -56,7 +56,7 @@ werden → gerade wird das händisch eingegeben
 
 Sonderzeichen Workaround für die Sonderzeichen (eigene Zeichen gezeichnet)
 
-![Aufbau PfaDJ](images/aufbau_pfadj.jpg)
+[![Aufbau PfaDJ](images/aufbau_pfadj-small.jpg)](images/aufbau_pfadj.jpg)
 
 ## Quellcode
 

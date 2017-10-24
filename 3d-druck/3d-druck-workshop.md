@@ -25,7 +25,7 @@ Es ist wichtig, dass der Workshopleiter sich mit der Software auseinander setzt 
 
 3D-Drucken ist ein drei stufiger Prozess. Im ersten Schritt muss ein 3D-Modell erstellt werden. Hierzu eignen sich 3D CAD Anwendungen wie z.B. [TinkerCAD](http://tinkercad.com), [AutoCAD Fusion 360](https://www.autodesk.de/products/fusion-360/overview) oder [Blender](https://www.blender.org/). Im weiteren verlauf des Workshops werden wir TinkerCAD verwenden. Es ist ein  Borwser Basiertes 3D CAD Programm für Einsteiger.
 
-<img src="images/3dflow.jpg" class="img-responsive center-block" width="30%">
+<img src="images/3dflow.jpg" class="img-responsive center-block">
 
 Sobald das 3D Modell in form einer STL Datei vorliegt, kann es im Slicer für den 3D-Drucker vorbereitet werden. Der Slicer Zerscheidet das Modell in Schichten und erzeugt konkrete Komandos für den Drucker.
 
@@ -44,7 +44,7 @@ Anschlissend gibt der Gruppenleiter eine kleine Einführung in das Tool TinkerCA
   In TinkerCAD kann man zwischen ortogonaler und perspektivischer Ansicht umschalten. Wärend der Konstruktion macht es sinn die ortogonale Ansicht zu wählen.
 </div>
 
-<img src="images/dice.png" class="img-responsive center-block" width="10%">
+<img src="images/dice.png" class="img-responsive center-block">
 
 Sobald die Teilnehmer mit der Oberfläche vertraut sind, kann der Halstuchring gestaltet werden. Im wesentlichen Besteht er aus einem Zylinder und einer Box, die mit einem Zylinder "Loch" kombiniert werden.
 
@@ -53,7 +53,7 @@ bald der Basisring fertig ist, kann er von den Teilnehmern weiter verfeinert wer
 Etwa eine halbe stunde vor ende der Gruppenstunde sollten alle dateien zentral gesammelt werden und mit dem slicer für den Druck vorbereitet werden.
 
 ## Druck
-<img src="images/cura.png" class="img-responsive center-block" width="50%">
+<img src="images/cura.png" class="img-responsive center-block">
 
 Da es sehr viele unterschiedliche Drucker Typen gibt, sollte sich der Workshopleiter mit dem Drucker und der Slicer Software vertraut machen. Beispielhaft werden die Notwendigen Schritte für den Ultimaker 2 Go und Cura hier vorgestellt.
 

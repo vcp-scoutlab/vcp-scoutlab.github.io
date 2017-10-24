@@ -48,7 +48,7 @@ Für isolierende Knete eignet sich handelsübliche Bastelknete, sonst gibt es on
 
 ## Aufbau
 
-![](images/Pfad-Findr_Steckplatine.png)
+[![](images/Pfad-Findr_Steckplatine-small.png)](images/Pfad-Findr_Steckplatine.png)
 
 ## Quelltext
 
