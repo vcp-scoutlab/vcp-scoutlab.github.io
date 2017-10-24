@@ -23,9 +23,10 @@ Für die Umsetzung: Pfadfinder*innen // Ranger/Rover
 + [Adafruit MPR121](https://learn.adafruit.com/mpr121-capacitive-touch-sensor-on-raspberry-pi-and-beaglebone-black) (Kapazitiver Sensor der 12 Kontakten verarbeiten kann) - Anleitung vom Hersteller: [Adafruit](https://learn.adafruit.com/mpr121-capacitive-touch-sensor-on-raspberry-pi-and-beaglebone-black)
 + LCD-Display
 + Widerstand 560 Ohm (für das LCD-Display)
-+ Potentiometer (für die Steuerung vom Kontrast des LCD-Display)
++ Potentiometer 15 kOhm (für die Steuerung vom Kontrast des LCD-Display)
 + Kabel
 + Rolle selbstklebende Kupferfolie
++ Rolle Schaltdraht
 
 ## Aufbau
 
