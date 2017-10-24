@@ -67,7 +67,7 @@ Blink.
 Jetzt kann das Programm in ein maschinenlesbares Format übersetzt und an
 den Arduino übertragen werden. Hierzu drücke wir einfach auf Upload.
 
-![arduino\_windows\_blink\_upload](images/arduino_windows_blink_upload-250x300.png)
+![arduino\_windows\_blink\_upload](images/arduino_windows_blink_upload.png)
 
 Nach ein paar Sekunden sollten die LED auf dem Arduino-Board beginnen zu
 blinken. Der Prozess kann im Bereich Statusmeldungen überprüft werden.
