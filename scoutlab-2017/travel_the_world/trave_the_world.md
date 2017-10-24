@@ -8,7 +8,7 @@ subdir: scoutlab-2017
 # Projektname: Travel the world        
 
 ## Kurzbeschreibung:
-Interaktive Weltkarte: Durch Anfassen einer Stadt auf der Karten wird der Ortsnamen und Ortszeit auf einem Display angezeigt. Daneben wir die passende Nationalhymne als Musik über einen PC-Lautsprecher ausgegeben. Der Lautsprecher wir am Audio-Anschluss des Raspberry Pi eingesteckt.
+Interaktive Weltkarte: Durch Anfassen einer Stadt auf der Karten wird der Ortsnamen und Ortszeit auf einem Display angezeigt. Daneben wir die passende Nationalhymne als Musik über einen PC-Lautsprecher ausgegeben. Der Lautsprecher wird am Audio-Anschluss des Raspberry Pi eingesteckt.
 
 ![Foto: Angelika Beranek](images/travel_the_world_foto_a_beranek.jpg)
 Foto: Prof. Dr. Angelika Beranek
