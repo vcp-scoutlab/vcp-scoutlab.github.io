@@ -1,0 +1,22 @@
+
+- title: "PfaDJ"
+  url: /scoutlab-2016/PfaDJ/pfadj
+  description: "Der PfaDJ wählt per Zufall ein Lied für die Singerunde aus. Der Titel des Liedes und Seitenangabe im Liederheft werden auf einem LCD-Display angezeigt."
+  thumbnail: /scoutlab-2016/images/pfadj.jpg
+
+- title: "Digitales Geländespiel"
+  url: /scoutlab-2016/Digitales-Gelaendespiel/digitales-gelaendespiel
+  description: "Entwicklung eines Konzepts für ein Geländespiel IoT"
+  thumbnail: /scoutlab-2016/images/digitalesgelaendespiel.jpg
+
+- title: "Wetterstation"
+  url: /scoutlab-2016/Wetterstation/wetterstation
+  description: "Aufbau einer modularen Wetterstation, die je nach Zeit und Zweck verschiedene Umweltdaten aufnimmt, auswertet und für die Gruppe aufbereitet."
+  thumbnail: /scoutlab-2016/images/wetterstation.jpg
+
+- title: "Twister-Pong"
+  url: /scoutlab-2016/Twister-Pong/twister-pong
+  description: "Es wird ein interaktives Spiel kreiert, dass auf dem Computerspiel PingPong basiert."
+  thumbnail: /scoutlab-2016/images/twisterpong.jpg
+
+# - url: /foo/bar
