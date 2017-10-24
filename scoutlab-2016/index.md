@@ -4,6 +4,7 @@ title: Scoutlab Projekte 2016
 category: Scoutlab Projekte 2016
 nav: false
 permalink: /scoutlab-2016/index
+subdir: scoutlab-2016
 ---
 # Scoutlab Projekte 2016
 

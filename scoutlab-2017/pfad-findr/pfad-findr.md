@@ -1,7 +1,9 @@
 ---
-layout: page
+layout: multipage
 title: Scoutlab-Projekt 2017 - Pfad-Findr
-permalink: /scoutlab-2017/pfad-findr/pfad-findr
+navtitle: Pfad-Findr
+permalink: /scoutlab-2017/pfad-findr/index
+subdir: scoutlab-2017
 ---
 # Projektname: Pfad-Findr        
 
@@ -41,8 +43,8 @@ Luftdicht verpackt hält sich die Knete mehrere Wochen und kann für längere La
 Für isolierende Knete eignet sich handelsübliche Bastelknete, sonst gibt es online auch ein Rezept für nicht leitende Knete.
 
 #### Dateien von squishycircuits.com - Rezepte
-+ [Making Conductive Dough](/scoutlab-2017/pfadfindr/appendix/Making-Conductive-Dough.pdf)
-+ [Making Insulating Dough](/scoutlab-2017/pfadfindr/appendix/Making-Insulating-Dough.pdf)
++ [Making Conductive Dough](appendix/Making-Conductive-Dough.pdf)
++ [Making Insulating Dough](appendix/Making-Insulating-Dough.pdf)
 
 ## Aufbau
 

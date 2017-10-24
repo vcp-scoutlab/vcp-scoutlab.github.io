@@ -6,14 +6,18 @@
       </button>
       <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
         {% for p in site.pages | sort: 'name' %}
-        {% if p.dir == page.dir %}
+        {% if p.dir == page.dir or p.dir contains page.subdir %}
         {% if p.section_start %}
           <li role="separator" class="divider"></li>
         {% endif %}
           {% if p.nav != false %}
           <li>
             <a href="{{p.url}}" {% if p.url==page.url %}class="active"  {% endif %}>
-              {{ p.title }}
+              {% if p.navtitle %}
+                {{ p.navtitle }}
+              {%else%}
+                {{ p.title }}
+              {%endif%}
             </a>
           </li>
           {% endif %}
@@ -28,14 +32,20 @@
 <div class="col-sm-3 col-md-2 sidebar">
   <ul class="nav nav-sidebar">
     {% for p in site.pages | sort: 'name' %}
-    {% if p.dir == page.dir %}
+    {% if p.dir == page.dir or p.dir contains page.subdir  %}
       {% if p.section_start %}
         </ul>
         <ul class="nav nav-sidebar">
       {% endif %}
       {% if p.nav != false %}
         <li>
-          <a href="{{p.url}}"{% if p.url==page.url %}class="active" {% endif %}>{{ p.title }}</a>
+          <a href="{{p.url}}"{% if p.url==page.url %}class="active" {% endif %}>
+            {% if p.navtitle %}
+              {{ p.navtitle }}
+            {%else%}
+              {{ p.title }}
+            {%endif%}
+          </a>
         </li>
       {% endif %}
     {% endif %}

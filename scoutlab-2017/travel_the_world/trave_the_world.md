@@ -1,7 +1,9 @@
 ---
-layout: page
+layout: multipage
 title: Scoutlab-Projekt 2017 - Travel the World
-permalink: /scoutlab-2017/travel_the_world/travel_the_world
+navtitle: Travel the World
+permalink: /scoutlab-2017/travel_the_world/index
+subdir: scoutlab-2017
 ---
 # Projektname: Travel the world        
 

@@ -1,7 +1,9 @@
 ---
-layout: page
+layout: multipage
 title: Scoutlab-Projekt 2016 - PfaDJ
+navtitle: PfaDJ
 permalink: /scoutlab-2016/PfaDJ/pfadj
+subdir: scoutlab-2016
 ---
 # Projektname: PfaDJ        
 
