@@ -37,7 +37,7 @@ Für die Umsetzung: Pfadfinder*innen // Ranger/Rover
 
 ## Arbeitsschritte
 1. Herunterladen einer Weltkarte als Vektordatei.
-2. Vektordatei von Information befreien, die Fräse nicht auflösen kann.
+2. Vektordatei von Information befreien, die die Fräse nicht auflösen kann.
 3. Fräsen der MDF-Platte mit den Kartendaten
 4. aus selbstklebender Kupferfolie werden Kreise für die Städte ausgeschnitten. Die Punkte werden entsprechend der Städte auf der Karte aufgeklebt.
 5. neben jeder Stadt wird mit einem Akku-Bohrer ein kleines Loch gebohrt.
