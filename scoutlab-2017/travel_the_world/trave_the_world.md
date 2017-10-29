@@ -29,7 +29,7 @@ Für die Umsetzung: Pfadfinder*innen // Ranger/Rover
 + Potentiometer 15 kOhm (für die Steuerung vom Kontrast des LCD-Display)
 + Kabel
 + Rolle selbstklebende Kupferfolie
-+ Rolle Schaltdraht
++ Rolle Schaltdraht (Querschnitt 0.2 mm&sup2;)
 
 ## Aufbau
 
