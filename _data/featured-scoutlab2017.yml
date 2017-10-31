@@ -1,7 +1,7 @@
 
 - title: "Travel the world"
   url: /scoutlab-2017/travel_the_world
-  description: "Interaktive Weltkarte: Durch Anfassen einer Stadt auf der Karten wird der Ortsnamen und Ortszeit auf einem Display angezeigt. Daneben wir die passende Nationalhymne als Musik über einen PC-Lautsprecher ausgegeben. Der Lautsprecher wir am Audio-Anschluss des Raspberry Pi eingesteckt."
+  description: "Interaktive Weltkarte: Durch Anfassen einer Stadt auf der Karten wird der Ortsnamen und Ortszeit auf einem Display angezeigt. Daneben wir die passende Nationalhymne als Musik über einen PC-Lautsprecher ausgegeben."
   thumbnail: /scoutlab-2017/images/travel_the_world_foto_a_beranek.jpg
 
 - title: "Pfad-Findr"
