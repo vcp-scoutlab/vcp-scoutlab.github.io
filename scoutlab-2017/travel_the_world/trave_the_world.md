@@ -174,7 +174,7 @@ sounds = [0,0,0,0,0,0,0,0,0,0,0,0]
 for key,soundfile in SOUND_MAPPING.iteritems():
         sounds[key] =  pygame.mixer.Sound(soundfile)
         sounds[key].set_volume(1);
-3
+
 # Main loop to print a message every time a pin is touched.
 print('Press Ctrl-C to quit.')
 last_touched = cap.touched()
@@ -266,6 +266,24 @@ while True:
 + Eingabe der Zeitzone im Verhältnis zur aktuellen Uhrzeit für jede Stadt
 + Berechnung und Ausgabe der Uhrzeit
 + optimieren des Quell-Code
+
+### Berechnung und Ausgabe der Uhrzeit (Python-Funktion für die Berechnung der Ortszeit)
+Die Berechnung erfolgt in der UTC-Zeit.
+```python
+#!/usr/bin/env python
+import datetime
+from datetime import timedelta
+
+def weltuhr(x):
+ global ortszeit
+ ortszeit = datetime.datetime.utcnow() + timedelta(hours = x)
+
+while True:
+  # Ortszeit liegt -5 h hinter der UTC-Zeit  
+ weltuhr(-5)
+ print  ortszeit.strftime("%H:%M Uhr")
+```
+
 
 ## Credits
 Dank an den [Erfindergarden](https://www.erfindergarden.de) für das Fräsen der Karte.
