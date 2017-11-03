@@ -17,7 +17,7 @@ Die Anleitung erklärt, wie du das Arduino-Board an den Computer anschließt.
 
 Lade die neueste Version von der [Download – Seite](https://www.arduino.cc/en/Main/Software). Wähle das 32- oder 64 – Bit – Paket passend zu deiner Linux – Version. Wenn der Download abgeschlossen ist, entpacke das Arduino tar.xz Paket in einen Ordner, in dem die Arduino Software später ausgeführt werden soll.
 
-![arduino\_linux\_entpacken](images/arduino_linux_entpacken-300x143.png)
+![arduino\_linux\_entpacken](images/arduino_linux_entpacken.png)
 
 ## Installieren der Software
 
@@ -38,7 +38,7 @@ Damit die Änderung aktiv wird, melde dich komplett am System ab und direkt wied
 
 Die USB-Verbindung mit dem PC ist notwendig, um die Karte zu programmieren & mit Strom zu versorgen.
 
-![arduino\_uno\_angeschlossen\_neu](images/arduino_uno_angeschlossen_neu-300x245.png)
+![arduino\_uno\_angeschlossen\_neu](images/arduino_uno_angeschlossen_neu.png)
 
 Wenn der Arduino mit dem Computer verbunden ist, dann leuchtet die Power-LED auf dem Arduino.
 
@@ -53,23 +53,23 @@ Starte die Software mit einem Doppelklick auf das Symbol auf dem Desktop.
 Für die Übertragung muss zunächst der angeschlossenen Arduino ausgewählt werden. Hierzu unter Tools -\> Board das verwendete Board auswählen. (z.B. Arduino UNO)
  Board auswählen. Der Boardname steht auf der Platine
 
-![arduino\_linux\_selectboard](images/arduino_linux_selectboard-300x180.png)
+![arduino\_linux\_selectboard](images/arduino_linux_selectboard.png)
 
 ## Wähle die Schnittstelle
 
 Anschließend sucht ihr den Port, an dem der Arduino angeschlossen ist aus.
 
-![arduino\_linux\_selectport](images/arduino_linux_selectport-300x181.png)
+![arduino\_linux\_selectport](images/arduino_linux_selectport.png)
 
 ## Erster Versuch mit dem Blink Beispiel
 
 Öffne das LED – Blink Beispiel über Datei\> Beispiele\> 01.Basics\> Blink.
 
-![](images/arduino_linux_blink-300x180.png)
+![](images/arduino_linux_blink.png)
 
 Jetzt kann das Programm in ein maschinenlesbares Format übersetzt und an den Arduino übertragen werden. Hierzu drücke wir einfach auf Upload.
 
-![arduino\_linux\_blink](images/arduino_linux_blink_upload-300x180.png)
+![arduino\_linux\_blink](images/arduino_linux_blink_upload.png)
 
 Nach ein paar Sekunden sollten die LED auf dem Arduino-Board beginnen zu blinken. Der Prozess kann im Bereich Statusmeldungen überprüft werden. Wenn etwas nicht funktioniert, reicht es in der Regel, wenn man die Fehlermeldung bei Google sucht. Irgendjemand hatte bestimmt schon mal das gleiche Problem.
 
