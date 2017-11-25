@@ -2,7 +2,7 @@
 layout: multipage
 subdir: scoutlab-2016
 title: Scoutlab-Projekt 2016 - Twister-Pong
-category: Scoutlab-Projekt 2016 - Twister-Pong
+category: Scoutlab-Projekt 2016
 navtitle: Twister-Pong
 permalink: /scoutlab-2016/Twister-Pong/twister-pong
 ---

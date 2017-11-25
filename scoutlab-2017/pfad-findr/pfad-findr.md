@@ -1,7 +1,7 @@
 ---
 layout: multipage
 title: Scoutlab-Projekt 2017 - Pfad-Findr
-category: Scoutlab-Projekt 2017 - Pfad-Findr
+category: Scoutlab-Projekt 2017
 navtitle: Pfad-Findr
 permalink: /scoutlab-2017/pfad-findr/index
 subdir: scoutlab-2017

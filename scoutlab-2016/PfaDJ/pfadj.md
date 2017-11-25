@@ -1,7 +1,7 @@
 ---
 layout: multipage
 title: Scoutlab-Projekt 2016 - PfaDJ
-category: Scoutlab-Projekt 2016 - PfaDJ
+category: Scoutlab-Projekt 2016
 navtitle: PfaDJ
 permalink: /scoutlab-2016/PfaDJ/pfadj
 subdir: scoutlab-2016

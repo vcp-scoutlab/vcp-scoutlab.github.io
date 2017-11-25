@@ -1,7 +1,7 @@
 ---
 layout: multipage
 title: Scoutlab-Projekt 2017 - Touch Me - Play Me
-category: Scoutlab-Projekt 2017 - Touch Me - Play Me
+category: Scoutlab-Projekt 2017
 permalink: /scoutlab-2017/touch_me-play_me
 nav: false
 ---
