@@ -1,6 +1,7 @@
 ---
 layout: multipage
 title: Scoutlab-Projekt 2017 - Travel the World
+category: Scoutlab-Projekt 2017
 navtitle: Travel the World
 permalink: /scoutlab-2017/travel_the_world/index
 subdir: scoutlab-2017
