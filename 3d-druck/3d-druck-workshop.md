@@ -7,20 +7,20 @@ permalink: /3d-druck/3d-druck-workshop
 
 <!-- TODO: Add Images -->
 
-Im Rahmen des 3D Druck Workshops sollen die Teilnehmer*innen an Grundlagen das 3D Druckens herangeführt werden. Am Beispiel eines Halstuch Rings werden sie erste 3D Objekte am Computer erstellen und am Ende mit dem 3D Drucker ausdrucken.
+Im Rahmen des 3D Druck Workshops sollen die Teilnehmer * innen an Grundlagen das 3D Druckens herangeführt werden. Am Beispiel eines Halstuch Rings werden sie erste 3D Objekte am Computer erstellen und am Ende mit dem 3D Drucker ausdrucken.
 
 ## Vorraussetzungen
 Folgende Materialien und Werkzeuge sollten zur Verfügung stehen:
 
 - 3D Drucker
-- 1 Laptop für 2 Teilnehmer*innen (mit Chrome Browser)
+- 1 Laptop für 2 Teilnehmer * innen (mit Chrome Browser)
 - Internet Verbindung
 
 Altersgruppe: ab 11 Jahre
 
 Zeit: 2 Std.
 
-Es ist wichtig, dass die*der Workshopleiter*in sich mit der Software auseinander setzt um bei aufkommenden Fragen den Teilnehmern*innen helfen zu können.
+Es ist wichtig, dass die * der Workshopleiter * in sich mit der Software auseinander setzt um bei aufkommenden Fragen den Teilnehmern*innen helfen zu können.
 
 ## Einleitung
 
@@ -39,7 +39,7 @@ Bevor wir mit der Modellierung beginnen, sollte die Idee das aufgezeichnet werde
 
 <img src="images/ring.jpg" class="img-responsive center-block" width="30%">
 
-Anschliessend gibt die*der Gruppenleiter*n eine kleine Einführung in das Tool TinkerCAD. Vor allem die unterschiedlichen Sichten sollten verdeutlicht werden, da es entscheidend ist, von wo man auf das Objekt sieht.
+Anschliessend gibt die * der Gruppenleiter * n eine kleine Einführung in das Tool TinkerCAD. Vor allem die unterschiedlichen Sichten sollten verdeutlicht werden, da es entscheidend ist, von wo man auf das Objekt sieht.
 
 <div class="alert alert-info" role="alert">
   In TinkerCAD kann man zwischen ortogonaler Ansicht und perspektivischer Ansicht umschalten. Während der Konstruktion macht es Sinn die ortogonale Ansicht zu wählen.
@@ -56,7 +56,7 @@ Etwa eine halbe Stunde vor Ende der Gruppenstunde sollten alle Dateien zentral g
 ## Druck
 <img src="images/cura.png" class="img-responsive center-block">
 
-Da es sehr viele unterschiedliche Drucker Typen gibt, sollte sich der*die Workshopleiter*in mit dem Drucker und der Slicer Software vertraut machen. Beispielhaft werden die Notwendigen Schritte für den Ultimaker 2 Go und Cura hier vorgestellt.
+Da es sehr viele unterschiedliche Drucker Typen gibt, sollte sich der * die Workshopleiter * in mit dem Drucker und der Slicer Software vertraut machen. Beispielhaft werden die Notwendigen Schritte für den Ultimaker 2 Go und Cura hier vorgestellt.
 
 Um Zeit zu sparen, sollten so viele Halstuchringe, wie möglich, gleichzeitig gedruckt werden. Hierzu importiert man die STL Dateien und positioniert sie auf der Druckplatte. Unter Umständen macht es Sinn, das Objekt zu rotieren um die Anzahl der Überhänge zu minimieren.
 
@@ -69,4 +69,4 @@ Anschliessend kann das Projekt auf der SD-Karte des Druckers gespeichert werden.
 
 Am Drucker sollte zunächst die Druckplatte ausgerichtet werden. Anschliessend  können sich die Teilnehmer*innen eine Druck Farbe aussuchen und das passende Filament am Drucker einlegen.
 
-Sobald alle Vorbereitungen abgeschlossen sind, sollte die Druckplatte gereinigt werden und der Druck gestartet. Die Teilnehmer*innen können die Resultate später am Tag oder in der nächste Gruppenstunde abholen.
+Sobald alle Vorbereitungen abgeschlossen sind, sollte die Druckplatte gereinigt werden und der Druck gestartet. Die Teilnehmer * innen können die Resultate später am Tag oder in der nächste Gruppenstunde abholen.
