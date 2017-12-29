@@ -7,7 +7,7 @@ permalink: /3d-druck/3d-druck-workshop
 
 <!-- TODO: Add Images -->
 
-Im Rahmen des 3D Druck Workshops sollen die Teilnehmer * innen an Grundlagen das 3D Druckens herangeführt werden. Am Beispiel eines Halstuch Rings werden sie erste 3D Objekte am Computer erstellen und am Ende mit dem 3D Drucker ausdrucken.
+Im Rahmen des 3D Druck Workshops sollen die Teilnehmer\*innen an Grundlagen das 3D Druckens herangeführt werden. Am Beispiel eines Halstuch Rings werden sie erste 3D Objekte am Computer erstellen und am Ende mit dem 3D Drucker ausdrucken.
 
 ## Vorraussetzungen
 Folgende Materialien und Werkzeuge sollten zur Verfügung stehen:
