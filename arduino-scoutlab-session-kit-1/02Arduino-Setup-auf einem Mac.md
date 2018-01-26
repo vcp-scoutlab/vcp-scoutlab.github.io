@@ -25,7 +25,7 @@ Um die Arduino-Software zu Installieren kopiere die Arduino-Anwendung in den Pro
 
 Die USB-Verbindung mit dem PC ist notwendig, um die Karte zu programmieren & mit Strom zu versorgen.
 
-![arduino\_uno\_angeschlossen\_neu](images/arduino_uno_angeschlossen_neu-300x245.png)
+![arduino\_uno\_angeschlossen\_neu](images/arduino_uno_angeschlossen_neu.png)
 
 Wenn der Arduino mit dem Computer verbunden ist, dann leuchtet die Power-LED auf dem Arduino.
 
@@ -34,13 +34,13 @@ Wenn der Arduino mit dem Computer verbunden ist, dann leuchtet die Power-LED auf
 Für die Übertragung muss zunächst der angeschlossenen Arduino ausgewählt werden. Hierzu unter Tools -\> Board das verwendete Board auswählen. (z.B. Arduino UNO)
  Board auswählen. Der Boardname steht auf der Platine
 
-![selectboard](images/selectboard-300x122.png)
+![selectboard](images/selectboard.png)
 
 ## Wähle die Schnittstelle
 
 Anschließend sucht ihr den Port, an dem der Arduino angeschlossen ist aus.
 
-![selectport](images/selectport-300x101.png)
+![selectport](images/selectport.png)
 
 ## Erster Versuch mit dem Blink Beispiel
 
@@ -48,7 +48,7 @@ Anschließend sucht ihr den Port, an dem der Arduino angeschlossen ist aus.
 
 Jetzt kann das Programm in ein maschinenlesbares Format übersetzt und an den Arduino übertragen werden. Hierzu drücke wir einfach auf Upload.
 
-![upload](images/upload-252x300.png)
+![upload](images/upload.png)
 
 Nach ein paar Sekunden sollten die LED auf dem Arduino-Board beginnen zu blinken. Der Prozess kann im Bereich Statusmeldungen überprüft werden. Wenn etwas nicht funktioniert, reicht es in der Regel, wenn man die Fehlermeldung bei Google sucht. Irgendjemand hatte bestimmt schon mal das gleiche Problem.
 

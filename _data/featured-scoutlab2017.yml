@@ -1,22 +1,22 @@
 
 - title: "Travel the world"
   url: /scoutlab-2017/travel_the_world
-  description: "Interaktive Weltkarte: Durch Anfassen einer Stadt auf der Karten wird der Ortsnamen und Ortszeit auf einem Display angezeigt. Daneben wir die passende Nationalhymne als Musik über einen PC-Lautsprecher ausgegeben. Der Lautsprecher wir am Audio-Anschluss des Raspberry Pi eingesteckt."
+  description: "Interaktive Weltkarte: Durch Anfassen einer Stadt auf der Karten wird der Ortsnamen und Ortszeit auf einem Display angezeigt. Daneben wir die passende Nationalhymne als Musik über einen PC-Lautsprecher ausgegeben."
   thumbnail: /scoutlab-2017/images/travel_the_world_foto_a_beranek.jpg
 
 - title: "Pfad-Findr"
   url: /scoutlab-2017/pfad-findr
   description: "Brettspiel mit leitender Knete"
-#  thumbnail: /scoutlab-2016/images/digitalesgelaendespiel.jpg
+  thumbnail: /scoutlab-2017/images/pfad-findr.jpg
 
-#- title: "Wetterstation"
-#  url: /scoutlab-2016/Wetterstation/wetterstation
-#  description: "Aufbau einer modularen Wetterstation, die je nach Zeit und Zweck verschiedene Umweltdaten aufnimmt, auswertet und für die Gruppe aufbereitet."
-#  thumbnail: /scoutlab-2016/images/wetterstation.jpg
+#- title: "Touch Me - Play Me"
+#  url: /scoutlab-2017/touch_me-play_me
+#  description: "Wecker mit Loop-Machinen-Funktion. 8 Verschiedene Töne können miteinander kombiniert, gespeichert und abgespielt werden. Mit Hilfe von Scratch können auch andere Töne, wie z.B. Trompeten oder Katzen verwendet werden.  Inkl. LED zur Anzeige der Aufnahme."
+#  thumbnail: /scoutlab-2017/images/touch_mep_play_me.jpg
 
-#- title: "Twister-Pong"
-#  url: /scoutlab-2016/Twister-Pong/twister-pong
+#- title: "Zombie-Run"
+#  url: /scoutlab-2017/zombie-run
 #  description: "Es wird ein interaktives Spiel kreiert, dass auf dem Computerspiel PingPong basiert."
-#  thumbnail: /scoutlab-2016/images/twisterpong.jpg
+#  thumbnail: /scoutlab-2017/images/zombie-run.jpg
 
 # - url: /foo/bar

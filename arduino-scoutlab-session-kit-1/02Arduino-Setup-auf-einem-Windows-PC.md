@@ -20,13 +20,13 @@ Seite](https://www.arduino.cc/en/Main/Software) herunter. Wir empfehlen
 dir die .exe, die direkt alles installiert. Die benötigen die Arduino
 Software und einschließlich der passenden Treiber.
 
-![arduino\_windows\_select\_options](images/arduino_windows_select_options-300x207.png)
+![arduino\_windows\_select\_options](images/arduino_windows_select_options.png)
 
 ## Den Arduino mit dem Computer verbinden
 
 Die USB-Verbindung mit dem PC ist notwendig, um die Karte zu programmieren & mit Strom zu versorgen.
 
-![arduino\_uno\_angeschlossen\_neu](images/arduino_uno_angeschlossen_neu-300x245.png)
+![arduino\_uno\_angeschlossen\_neu](images/arduino_uno_angeschlossen_neu.png)
 
 Wenn der Arduino mit dem Computer verbunden ist, dann leuchtet die
 Power-LED auf dem Arduino.
@@ -50,14 +50,14 @@ werden. Hierzu unter Tools -\> Board das verwendete Board auswählen.
 (z.B. Arduino UNO)\
  Board auswählen. Der Boardname steht auf der Platine
 
-![arduino\_windows\_selectboard](images/arduino_windows_selectboard-300x272.png)
+![arduino\_windows\_selectboard](images/arduino_windows_selectboard.png)
 
 ## Wähle die Schnittstelle
 
 Anschließend sucht ihr den Port, an dem der Arduino angeschlossen ist
 aus.
 
-![arduino\_windows\_selectport](images/arduino_windows_selectport-300x300.png)
+![arduino\_windows\_selectport](images/arduino_windows_selectport.png)
 
 ## Erster Versuch mit dem Blink Beispiel
 
