@@ -9,14 +9,10 @@
   description: "Brettspiel mit leitender Knete"
   thumbnail: /scoutlab-2017/images/pfad-findr.jpg
 
-#- title: "Touch Me - Play Me"
-#  url: /scoutlab-2017/touch_me-play_me
-#  description: "Wecker mit Loop-Machinen-Funktion. 8 Verschiedene Töne können miteinander kombiniert, gespeichert und abgespielt werden. Mit Hilfe von Scratch können auch andere Töne, wie z.B. Trompeten oder Katzen verwendet werden.  Inkl. LED zur Anzeige der Aufnahme."
-#  thumbnail: /scoutlab-2017/images/touch_mep_play_me.jpg
+- title: "Zombie-Run"
+  url: /scoutlab-2017/zombie-run
+  description: 'Bei "Zombie Night" handelt es sich um ein Nachtgelände Adventure Spiel, bei dem zwei Teams gegeneinander antreten (mind. 8 Spieler).'
+  thumbnail: /scoutlab-2017/images/zombie-run.jpg
 
-#- title: "Zombie-Run"
-#  url: /scoutlab-2017/zombie-run
-#  description: "Es wird ein interaktives Spiel kreiert, dass auf dem Computerspiel PingPong basiert."
-#  thumbnail: /scoutlab-2017/images/zombie-run.jpg
 
-# - url: /foo/bar
+
