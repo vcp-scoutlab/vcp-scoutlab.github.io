@@ -1,10 +1,12 @@
 ---
 layout: multipage
 title: Scoutlab-Projekt 2017 - Zombie-Run
+navtitle: Zombie-Run
 category: Scoutlab-Projekt 2017
 permalink: /scoutlab-2017/zombie-run
-nav: true
+subdir: scoutlab-2017
 ---
+
 # Projektname: Zombie-Run        
 
 ![https://pixabay.com/de/horror-zombie-geister-gruselig-1848697/](images/horror.jpg)
