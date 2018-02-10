@@ -113,6 +113,5 @@ Bei Dunkelheit die Taschenlampe, die für die Zombie Night genutzt wird, über
 
 ## Anhang
 
-- Spielanleitung
-- Code
-- Aufbauanleitung (original)
+- [Spielanleitung](data/spielanleitung.pdf)
+- [Code](code/zombie-run.ino)
