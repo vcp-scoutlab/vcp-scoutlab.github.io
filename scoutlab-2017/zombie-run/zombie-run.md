@@ -107,6 +107,8 @@ Bei Dunkelheit die Taschenlampe, die für die Zombie Night genutzt wird, über
 
 ## Credits
 
+Das Projekt ist in Kooperation mit der Hochschule München (Vertreten durch Prof. Dr. Angelika Beranek und Dominik Hanakam FK11) entstanden und wurde durch QualiFIVE gefördert.
+
 - Michael La
 - Kathrin Gökceli
 - Elisabeth Pohl
