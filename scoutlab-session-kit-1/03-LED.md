@@ -4,7 +4,6 @@ title: LED leuchtet
 category: Scoutlab Session Kit 1
 permalink: /scoutlab-session-kit-1/led
 section_start: true
-comments: true
 ---
 # LED leuchtet
 
