@@ -1,6 +1,7 @@
 ---
 layout: multipage
-title: LED mittels Zufallszahl steuern
+title: Scoutlab Session Kit 1 - LED mittels Zufallszahl steuern
+navtitle: LED mittels Zufallszahl steuern
 category: Scoutlab Session Kit 1
 permalink: /scoutlab-session-kit-1/zufallszahl
 ---

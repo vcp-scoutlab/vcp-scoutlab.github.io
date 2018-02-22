@@ -1,6 +1,7 @@
 ---
 layout: multipage
-title: LED mittels Zufallszahl steuern
+title: Scoutlab Session Kit 1 für Arduino - LED mittels Zufallszahl steuern
+navtitle: LED mittels Zufallszahl steuern
 category: Scoutlab Session Kit 1 für Arduino
 permalink: /arduino-scoutlab-session-kit-1/zufallszahl
 ---

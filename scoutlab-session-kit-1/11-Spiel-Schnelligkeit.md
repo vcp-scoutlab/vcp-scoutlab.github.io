@@ -1,6 +1,7 @@
 ---
 layout: multipage
-title: Computerspiel Schnelligkeit
+title: Scoutlab Session Kit 1 - Computerspiel Schnelligkeit
+navtitle: Computerspiel Schnelligkeit
 category: Scoutlab Session Kit 1
 permalink: /scoutlab-session-kit-1/computerspiel-schnelligkeit
 ---

@@ -1,6 +1,7 @@
 ---
 layout: multipage
-title: LED leuchtet
+title: Scoutlab Session Kit 1 für Arduino - LED leuchtet
+navtitle: LED leuchtet
 category: Scoutlab Session Kit 1 für Arduino
 permalink: /arduino-scoutlab-session-kit-1/led
 section_start: true

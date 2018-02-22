@@ -1,6 +1,7 @@
 ---
 layout: multipage
-title: Download
+title: Scoutlab Session Kit 1 - Download
+navtitle: Download
 category: Scoutlab Session Kit 1
 permalink: /scoutlab-session-kit-1/download
 section_start: true

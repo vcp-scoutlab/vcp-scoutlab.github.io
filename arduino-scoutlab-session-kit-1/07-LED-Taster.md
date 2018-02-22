@@ -1,6 +1,7 @@
 ---
 layout: multipage
-title: LED mit einem Taster schalten
+title: Scoutlab Session Kit 1 für Arduino - LED mit einem Taster schalten
+navtitle: LED mit einem Taster schalten
 category: Scoutlab Session Kit 1 für Arduino
 permalink: /arduino-scoutlab-session-kit-1/led-taster
 ---

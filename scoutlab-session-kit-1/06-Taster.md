@@ -1,6 +1,7 @@
 ---
 layout: multipage
-title: Taster auslesen
+title: Scoutlab Session Kit 1 - Taster auslesen
+navtitle: Taster auslesen
 category: Scoutlab Session Kit 1
 permalink: /scoutlab-session-kit-1/taster
 ---

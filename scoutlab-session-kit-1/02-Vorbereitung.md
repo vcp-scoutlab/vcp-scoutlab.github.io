@@ -1,6 +1,7 @@
 ---
 layout: multipage
-title: Vorbereitung
+title: Scoutlab Session Kit 1 - Vorbereitung
+navtitle: Vorbereitung
 category: Scoutlab Session Kit 1
 permalink: /scoutlab-session-kit-1/vorbereitung
 ---
