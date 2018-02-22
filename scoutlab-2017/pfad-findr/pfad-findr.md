@@ -8,10 +8,7 @@ subdir: scoutlab-2017
 ---
 # Projektname: Pfad-Findr        
 
-## Kurzbeschreibung:
-
-
-
+Pfad-Findr ist ein spiel mit leitfähiger Knete. Es ermöglicht eine spielerische einführung in das Thema Elektrizität und Stromkreise.
 ## Zielgruppe
 
 Pfadfinder*innen // Ranger/Rover
@@ -54,3 +51,7 @@ Für isolierende Knete eignet sich handelsübliche Bastelknete, sonst gibt es on
 ## Quelltext
 
 [Pfad-Findr.ino](code/Pfad-Findr.ino)
+
+## Credits
+
+Das Projekt ist in Kooperation mit der Hochschule München (Vertreten durch Prof. Dr. Angelika Beranek und Dominik Hanakam FK11) entstanden und wurde durch QualiFIVE gefördert.
