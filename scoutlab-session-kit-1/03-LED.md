@@ -1,8 +1,9 @@
 ---
 layout: multipage
-title: LED leuchtet
+title: Scoutlab Session Kit 1 - LED leuchtet
 category: Scoutlab Session Kit 1
 permalink: /scoutlab-session-kit-1/led
+navtitle: LED leuchtet
 section_start: true
 # comments: true
 ---

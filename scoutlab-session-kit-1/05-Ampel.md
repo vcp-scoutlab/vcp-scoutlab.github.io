@@ -1,6 +1,7 @@
 ---
 layout: multipage
-title: Ampel
+title: Scoutlab Session Kit 1 - Ampel
+navtitle: Ampel
 category: Scoutlab Session Kit 1
 permalink: /scoutlab-session-kit-1/ampel
 ---

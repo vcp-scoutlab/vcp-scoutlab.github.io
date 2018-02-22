@@ -1,6 +1,7 @@
 ---
 layout: multipage
-title: Morsen
+title: Scoutlab Session Kit 1 für Arduino - Morsen
+navtitle: Morsen
 category: Scoutlab Session Kit 1 für Arduino
 permalink: /arduino-scoutlab-session-kit-1/morsen
 ---

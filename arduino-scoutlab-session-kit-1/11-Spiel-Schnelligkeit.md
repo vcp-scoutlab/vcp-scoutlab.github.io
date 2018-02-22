@@ -1,6 +1,7 @@
 ---
 layout: multipage
-title: Computerspiel Schnelligkeit
+title: Scoutlab Session Kit 1 für Arduino - Computerspiel Schnelligkeit
+navtitle: Computerspiel Schnelligkeit
 category: Scoutlab Session Kit 1 für Arduino
 permalink: /arduino-scoutlab-session-kit-1/computerspiel-schnelligkeit
 ---

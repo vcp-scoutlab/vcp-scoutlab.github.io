@@ -1,6 +1,7 @@
 ---
 layout: multipage
-title: LED mit einem Programm schalten
+title: Scoutlab Session Kit 1 für Arduino - LED mit einem Programm schalten
+navtitle: LED mit einem Programm schalten
 category: Scoutlab Session Kit 1 für Arduino
 permalink: /arduino-scoutlab-session-kit-1/programm
 ---

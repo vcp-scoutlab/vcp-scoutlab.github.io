@@ -1,6 +1,7 @@
 ---
 layout: multipage
-title: Morsen
+title: Scoutlab Session Kit 1 - Morsen
+navtitle: Morsen
 category: Scoutlab Session Kit 1
 permalink: /scoutlab-session-kit-1/morsen
 ---
