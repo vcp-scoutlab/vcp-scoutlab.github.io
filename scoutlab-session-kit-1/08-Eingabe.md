@@ -1,7 +1,7 @@
 ---
 layout: multipage
-title: LEDs über Benutzer-Eingaben steuern
-navtitle: Scoutlab Session Kit 1 - LEDs über Benutzer-Eingaben steuern
+title: Scoutlab Session Kit 1 - LEDs über Benutzer-Eingaben steuern
+navtitle: LEDs über Benutzer-Eingaben steuern
 category: Scoutlab Session Kit 1
 permalink: /scoutlab-session-kit-1/eingabe
 ---
