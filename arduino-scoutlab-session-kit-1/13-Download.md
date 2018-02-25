@@ -1,6 +1,6 @@
 ---
 layout: multipage
-title: Scoutlab Session Kit 1 für Arduino - Download
+title: Arduino - Download
 navtitle: Download
 category: Scoutlab Session Kit 1 für Arduino
 permalink: /arduino-scoutlab-session-kit-1/download

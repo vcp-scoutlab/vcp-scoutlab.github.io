@@ -1,6 +1,6 @@
 ---
 layout: multipage
-title: Scoutlab Session Kit 1 für Arduino - Ampel
+title: Arduino - Ampel
 navtitle: Ampel
 category: Scoutlab Session Kit 1 für Arduino
 permalink: /arduino-scoutlab-session-kit-1/ampel
