@@ -24,7 +24,7 @@ import pygame
 import Adafruit_CharLCD as LCD
 import time, subprocess, datetime
 
-lcd_rs = 21 
+lcd_rs = 21
 lcd_en = 20
 lcd_d4 = 25
 lcd_d5 = 24
@@ -98,7 +98,7 @@ pygame.init()
 SOUND_MAPPING = {
    0: '/home/pi/Scoutlab/usa.wav',
    1: '/home/pi/Scoutlab/australien.wav',
-   2: '/home/pi/Scoutlab/barsilien.wav',
+   2: '/home/pi/Scoutlab/brasilien.wav',
    3: '/home/pi/Scoutlab/groenland.wav',
    4: '/home/pi/Scoutlab/indien.wav',
    5: '/home/pi/Scoutlab/mexiko.wav',
@@ -188,7 +188,7 @@ while True:
 
     # Update last state and wait a short period before repeating.
     last_touched = current_touched
-    
+
 
     # Alternatively, if you only care about checking one or a few pins you can
     # call the is_touched method with a pin number to directly check that pin.
