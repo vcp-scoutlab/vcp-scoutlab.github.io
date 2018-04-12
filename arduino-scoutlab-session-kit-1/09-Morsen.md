@@ -9,7 +9,7 @@ permalink: /arduino-scoutlab-session-kit-1/morsen
 # Morsegerät bauen
 ## Material
 * 1x Steckbrett
-* 1x Buzzer
+* 1x Mini-Lautsprecher
 * 1x Taster
 * 4x Kabel
 
@@ -17,7 +17,7 @@ permalink: /arduino-scoutlab-session-kit-1/morsen
 
 <div style="page-break-after: always;"></div>
 ## Aufbau
-Wir ersetzen in der Schaltung aus dem Schritt "LED mit einem Taster schalten" die LED um einen Buzzer. Bitte beachte, dass du den Buzzer richtig anschließt. Stecke den Pin mit "-" in die obere Leiste auf deinem Breadboard. In der Zeichnung ist dieser Pin schwarz markiert.
+Wir ersetzen in der Schaltung aus dem Schritt "LED mit einem Taster schalten" die LED um einen Mini-Lautsprecher. Bitte beachte, dass du den Mini-Lautsprecher richtig anschließt. Stecke den Pin mit "-" in die obere Leiste auf deinem Breadboard. In der Zeichnung ist dieser Pin schwarz markiert.
 
 ![](images/button_buzzer_arduino_Steckplatine.png)
 

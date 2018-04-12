@@ -9,14 +9,14 @@ permalink: /scoutlab-session-kit-1/morsen
 # Morsegerät bauen
 ## Material
 * 1x Steckbrett
-* 1x Mini Lautsprecher
+* 1x Mini-Lautsprecher
 * 1x Taster
 * 4x Kabel
 
 ![](images/material_morsen.png)
 <div style="page-break-after: always;"></div>
 ## Aufbau
-Wir erweitern die Schaltung aus dem Schritt "Taster auslesen" um einen Mini Lautsprecher. Bitte beachte, dass du den Mini Lautsprecher richtig anschließt. Stecke den Pin mit "-" in die obere Leiste auf deinem Breadboard. In der Zeichnung ist dieser Pin schwarz markiert.
+Wir erweitern die Schaltung aus dem Schritt "Taster auslesen" um einen Mini-Lautsprecher. Bitte beachte, dass du den Mini-Lautsprecher richtig anschließt. Stecke den Pin mit "-" in die obere Leiste auf deinem Breadboard. In der Zeichnung ist dieser Pin schwarz markiert.
 
 ![](images/button_buzzer_Steckplatine_gpio.png)
 
@@ -29,10 +29,10 @@ Wir erweitern die Schaltung aus dem Schritt "Taster auslesen" um einen Mini Laut
 
 ![](images/morsen.png)
 
-Mit **config14in** wird der GPIO-Pin für den Taster als Eingang, mit **config21out** der GPIO-Pin 21für den Mini Lautsprecher als Ausgang definiert. Eine Schleife prüft, ob der Taster (**Wert von Sensor gpio14=0**) gedrückt wird. Wenn die Bedingung erfüllt ist, wird der Programmblock beep aufgerufen. Sonst schaltet wird der Mini Lautsprecher aus geschaltet.
+Mit **config14in** wird der GPIO-Pin für den Taster als Eingang, mit **config21out** der GPIO-Pin 21für den Mini-Lautsprecher als Ausgang definiert. Eine Schleife prüft, ob der Taster (**Wert von Sensor gpio14=0**) gedrückt wird. Wenn die Bedingung erfüllt ist, wird der Programmblock beep aufgerufen. Sonst schaltet wird der Mini-Lautsprecher aus geschaltet.
 
 <div class="alert alert-info" role="alert" style="margin-top:1.2em">
-Eine Mini Lautsprecher (passive Buzzer) kann technisch nur einen kurzen Ton abgeben und ist für das Morsen ungeeignet. Um das auszugleichen hab wir einen eigene Funktion, oder Programmblock "beep" erstellt. Der Programmblock schaltet in einer Endlosschleife den Mini Lautsprecher für eine 1/100 Sekunde ein, für eine 1/100 Sekunde aus und  wieder für 1/100 Sekunde wieder an und so weiter.
+Eine Mini-Lautsprecher kann technisch nur einen kurzen Ton abgeben und ist für das Morsen ungeeignet. Um das auszugleichen hab wir einen eigene Funktion, oder Programmblock "beep" erstellt. Der Programmblock schaltet in einer Endlosschleife den Mini-Lautsprecher für eine 1/100 Sekunde ein, für eine 1/100 Sekunde aus und  wieder für 1/100 Sekunde wieder an und so weiter.
 Für das menschliche Ohr hört sich das nach einem Dauerton an. Damit ist das Summen jetzt so lange, wie der Taster gedrückt wird. Damit können beliebige Morse-Codes gesendet werden.</div>
 <div style="page-break-after: always;"></div>
 
