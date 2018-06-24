@@ -13,9 +13,9 @@ subdir: scoutlab-2017
 
 Bei "Zombie Night" handelt es sich um ein Nachtgelände Adventure Spiel, bei dem zwei Teams gegeneinander antreten (mind. 8 Spieler). Ein Team nimmt dabei die Rolle der "Zombies" ein, während das andere Team die Rolle der "Überlebenden" einnehmen. Zu Beginn gibt es genauso viele Zombies wie Überlebende. Das "Zombie" Team muss versuchen alle Überlebende zu "infizieren" während die Überlebenden darauf achten müssen nicht "infiziert" zu werden. Im Team der Überlebenden gibt es immer einen "Heiler", der versuchen muss die Zombies zu heilen.
 
-**Zielgruppe:** Pfadfinder*innen
+**Zielgruppe:** Pfadfinder\*innen
 
-## Material 
+## Material
 
 - 1x Lilypad
 - 1x Rolle Isolierkabel um 12x Kabel zuzuschneiden
@@ -68,7 +68,7 @@ Um das "Zombie-Kit" bauen zu können, werden die vier, oben ge- nannten Kompone
 
 #### Lilypad mit dem Computer verbinden
 
-Um den Code auf die Hauptplatine draufspielen zu können ("Flashen") muss man die Hauptplatine mit einem Computer verbinden, auf dem später der Code programmiert wird. Hier kommt der USB-TTL Adapter ins Spiel. Dieser wird mit Hilfe eines USB-Kabels an den Computer angeschlossen. Der Adapter wird, je nach Modell entweder direkt mit der den Kontaktstiften des Lilypads. 
+Um den Code auf die Hauptplatine draufspielen zu können ("Flashen") muss man die Hauptplatine mit einem Computer verbinden, auf dem später der Code programmiert wird. Hier kommt der USB-TTL Adapter ins Spiel. Dieser wird mit Hilfe eines USB-Kabels an den Computer angeschlossen. Der Adapter wird, je nach Modell entweder direkt mit der den Kontaktstiften des Lilypads.
 
 ![Lily Pad Verbindung](images/connect_1.png)
 
@@ -86,7 +86,7 @@ Öffnet man das Programm befindet man sich bereits direkt auf der Programmierob
 
 #### Code Schreiben
 
-Hat man die ersten Einstellungen getätigt, kann es direkt in die Programmierung gehen. Um eine Idee dafür zu bekommen wie und was man programmieren kann, gibt es vorgefertigte "Code-Snippets" (Vorlagen), welche man öffnen kann. Für dieses Projekt wurde das Code Beispiel "BlinkWithoutDelay" ausgewählt und als Grundgerüst benutzt. 
+Hat man die ersten Einstellungen getätigt, kann es direkt in die Programmierung gehen. Um eine Idee dafür zu bekommen wie und was man programmieren kann, gibt es vorgefertigte "Code-Snippets" (Vorlagen), welche man öffnen kann. Für dieses Projekt wurde das Code Beispiel "BlinkWithoutDelay" ausgewählt und als Grundgerüst benutzt.
 
 ![Code Beispiele](images/examples.png)
 

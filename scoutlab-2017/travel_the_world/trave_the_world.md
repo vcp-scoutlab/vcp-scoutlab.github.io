@@ -17,8 +17,8 @@ Foto: Prof. Dr. Angelika Beranek
 
 ## Zielgruppe
 
-Für die Umsetzung: Pfadfinder*innen // Ranger/Rover
-"Lernen der Welt" ist auch schon für einen jüngerere Zielgruppe geeignet.
+Für die Umsetzung: Pfadfinder\*innen // Ranger\*Rover
+"Lernen der Welt" ist auch schon für einen jüngere Zielgruppe geeignet.
 
 ## Materialbedarf
 + MDF-Platte
