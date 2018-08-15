@@ -12,7 +12,7 @@ Pfad-Findr ist ein Spiel mit leitfähiger Knete. Es ermöglicht eine spielerisch
 
 ## Zielgruppe
 
-Pfadfinder*innen // Ranger/Rover
+Pfadfinder\*innen // Ranger\*Rover
 
 ## Materialbedarf
 + leitende Knete

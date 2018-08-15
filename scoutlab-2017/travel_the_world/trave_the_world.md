@@ -17,8 +17,8 @@ Foto: Prof. Dr. Angelika Beranek
 
 ## Zielgruppe
 
-Für die Umsetzung: Pfadfinder*innen // Ranger/Rover
-"Lernen der Welt" ist auch schon für einen jüngerere Zielgruppe geeignet.
+Für die Umsetzung: Pfadfinder\*innen // Ranger\*Rover
+"Lernen der Welt" ist auch schon für einen jüngere Zielgruppe geeignet.
 
 ## Materialbedarf
 + MDF-Platte
@@ -155,7 +155,7 @@ pygame.init()
 SOUND_MAPPING = {
    0: '/home/pi/Scoutlab/usa.wav',
    1: '/home/pi/Scoutlab/australien.wav',
-   2: '/home/pi/Scoutlab/barsilien.wav',
+   2: '/home/pi/Scoutlab/brasilien.wav',
    3: '/home/pi/Scoutlab/groenland.wav',
    4: '/home/pi/Scoutlab/indien.wav',
    5: '/home/pi/Scoutlab/mexiko.wav',

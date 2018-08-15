@@ -46,7 +46,7 @@ void loop() {
 ```
 Jetzt kann das Programm in ein maschinenlesbares Format übersetzt und an den Arduino übertragen werden. Hierzu drücke wir einfach auf Upload.
 
-![Upload Windows](http://dev-blog.vcp.de/wp-content/uploads/2016/07/arduino_windows_blink_upload-250x300.png)
+![Upload Windows](images/arduino_windows_blink_upload.png)
 
 Upload Code. Unten kann man überprüfen, ob die Übertragung funktioniert.
 

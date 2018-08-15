@@ -16,7 +16,7 @@ permalink: /scoutlab-session-kit-1/index
 * LED rot
 * 3x 220 Ohm Widerstände
 * Taster
-* Mini Lautsprecher (passive buzzer)
+* Mini-Lautsprecher
 * Kabel
 * Steckbrett
 

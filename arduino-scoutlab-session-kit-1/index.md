@@ -16,7 +16,7 @@ permalink: /arduino-scoutlab-session-kit-1/index
 * LED rot
 * 3x 220 Ohm Widerstände
 * Taster
-* Buzzer
+* Mini-Lautsprecher
 * Kabel
 * Steckbrett
 

@@ -26,7 +26,7 @@ import time, subprocess, datetime
 from datetime import timedelta
 
 
-lcd_rs = 21 
+lcd_rs = 21
 lcd_en = 20
 lcd_d4 = 25
 lcd_d5 = 24
@@ -80,7 +80,7 @@ pygame.init()
 SOUND_MAPPING = {
    0: '/home/pi/Scoutlab/usa.wav',
    1: '/home/pi/Scoutlab/australien.wav',
-   2: '/home/pi/Scoutlab/barsilien.wav',
+   2: '/home/pi/Scoutlab/brasilien.wav',
    3: '/home/pi/Scoutlab/groenland.wav',
    4: '/home/pi/Scoutlab/indien.wav',
    5: '/home/pi/Scoutlab/mexiko.wav',
@@ -119,14 +119,14 @@ while True:
 	     stadt = 'Washington DC    '
              lcd.set_cursor(0, 0)
              lcd.message('%s' % stadt)
-	     weltuhr(-41)
+	     weltuhr(-4)
              lcd.set_cursor(0, 1)
              lcd.message('%s' % uhrzeit)
 	   if i == 1:
 	     stadt = 'Canberra        '
              lcd.set_cursor(0, 0)
              lcd.message('%s' % stadt)
-             weltuhr(11)
+             weltuhr(10)
              lcd.set_cursor(0, 1)
              lcd.message('%s' % uhrzeit)
 	   if i == 2:
@@ -161,14 +161,14 @@ while True:
 	     stadt = 'Moskau      '
              lcd.set_cursor(0, 0)
              lcd.message('%s' % stadt)
-             weltuhr(2)
+             weltuhr(3)
              lcd.set_cursor(0, 1)
              lcd.message('%s' % uhrzeit)
 	   if i == 7:
 	     stadt = 'Dakar       '
 	     lcd.set_cursor(0, 0)
              lcd.message('%s' % stadt)
-             weltuhr(-1)
+             weltuhr(0)
              lcd.set_cursor(0, 1)
              lcd.message('%s' % uhrzeit)
 	   if i == 8:
@@ -182,7 +182,7 @@ while True:
 	     stadt = 'Bangkok         '
 	     lcd.set_cursor(0, 0)
              lcd.message('%s' % stadt)
-             weltuhr(6)
+             weltuhr(7)
              lcd.set_cursor(0, 1)
              lcd.message('%s' % uhrzeit)
 	   if i == 10:
@@ -208,7 +208,7 @@ while True:
 
     # Update last state and wait a short period before repeating.
     last_touched = current_touched
-    
+
 
     # Alternatively, if you only care about checking one or a few pins you can
     # call the is_touched method with a pin number to directly check that pin.
