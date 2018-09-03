@@ -3,7 +3,7 @@ layout: page
 title: 3D-Druck Workshop
 permalink: /3d-druck/3d-druck-workshop
 excerpt: Im Rahmen des 3D Druck Workshops sollen die Teilnehmer*innen an Grundlagen das 3D Druckens herangeführt werden. Am Beispiel eines Halstuch Rings werden sie erste 3D Objekte am Computer erstellen und am Ende mit dem 3D Drucker ausdrucken.
-image: /3d-druck/3d-druck-workshop/images/3dflow.jpg
+image: /3d-druck/images/3dflow.jpg
 ---
 # 3D-Druck Workshop
 
