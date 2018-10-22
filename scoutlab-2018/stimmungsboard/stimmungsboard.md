@@ -26,6 +26,7 @@ Für die Umsetzung: Pfadfinder\*innen // Ranger\*Rover
 + LED grün
 + 220 Ohm Widerstand
 
+
 ## Aufbau
 ![](images/abstimmunungsgenerator_Steckplatine.png)
 
