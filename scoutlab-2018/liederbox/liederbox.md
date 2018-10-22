@@ -30,8 +30,6 @@ Für die Umsetzung: Pfadfinder\*innen // Ranger\*Rover
 ## 3-Druck Gehäuse
 - [Gehäuse](data/3D-Modell/MachtKiste_bottom.stl)
 - [Deckel](data/3D-Modell/MachtKiste_top.stl)
-[Gehäuse 3D][https://a360.co/2NQIqeJ]
-
-  [fee6bf4d]: https://a360.co/2NQIqeJ "Gehäuse 3D"
+- [Gehäuse in 3D Ansicht](https://a360.co/2NQIqeJ)
 
 ## Team
