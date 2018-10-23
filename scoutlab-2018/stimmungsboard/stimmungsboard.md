@@ -43,4 +43,6 @@ Für die Umsetzung: Pfadfinder\*innen // Ranger\*Rover
 - [Deckel](appendix/3D-Modell/Deckel.stl)
 
 ## Team
-Julius, PiDi, Spike
+- Peter	Diehl
+- Tobias Gilberg
+- Julius Henf

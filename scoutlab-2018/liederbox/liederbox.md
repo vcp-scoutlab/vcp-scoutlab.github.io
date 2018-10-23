@@ -33,3 +33,7 @@ Für die Umsetzung: Pfadfinder\*innen // Ranger\*Rover
 - [Gehäuse in 3D Ansicht](https://a360.co/2NQIqeJ)
 
 ## Team
+- Albert Butzmann
+- Hinnerk	Rey
+- Felix	Teupke
+- Robert (Döner) Walther
