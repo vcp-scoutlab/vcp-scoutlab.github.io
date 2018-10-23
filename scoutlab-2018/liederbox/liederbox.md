@@ -3,7 +3,7 @@ layout: multipage
 title: Scoutlab-Projekt 2018 - Liederbox
 category: Scoutlab-Projekt 2018
 navtitle: Liederbox
-permalink: /scoutlab-2018/liederbox
+permalink: /scoutlab-2018/liederbox/index
 subdir: scoutlab-2018
 ---
 # Projektname: Liederbox
