@@ -33,9 +33,9 @@ Für die Umsetzung: Pfadfinder\*innen // Ranger\*Rover
 ## Code
 [Arduino-Code](code/Arduino_Code.ino)
 
-## Aufsetzen Webseite und SQL-Datenbank
+## Webseite, SQL-Datenbank und Python
 - [SQL-Dump](appendix/SQL_Dump/stimmungsboard.sql)
-- [Python-Programm und Schnittstelle](appendix/Python-Code/Programm.py)
+- [Python-Programm und Auslesen der Schnittstelle](appendix/Python-Code/Programm.py)
 - [Webseite](appendix/Website/Website.zip)
 
 ## 3-Druck Gehäuse
