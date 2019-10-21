@@ -49,19 +49,19 @@ Bei "Zombie Night" handelt es sich um ein Nachtgelände Adventure Spiel, bei de
 Beim Lilypad Arduino Entwicklungsboard handelt es sich um einen Arduino-kompatiblen Mikrocontroller mit analogen, sowie digitalen Ausgängen. Es ist mit Hilfe der Arduino IDE frei programmierbar (Download unter: https://www.arduino.cc/en/Main/Software). Aufgrund der modularen Bauweise des Lilypad, und der daraus resultierenden Erweiterbarkeit dieses Arduino Boards ist es ideal geeignet für "Wearables". In dieser Bauanleitung bzw. Projekt wurde das "Lilypad – protosnap" eingesetzt, da es bereits diverse Module mit sich bringt. Im folgenden Abschnitt werden die einzelnen Komponenten kurz erläutert, die für das "Zombie-Kit" benötigt werden.
 
 - **Hauptplatine (1)** – Hier handelt es sich um den eigentlichen Mikrocontroller. Alle Befehle, die programmiert werden, werden von der Hauptplatine verarbeitet und an die weiteren Komponenten weitergegeben.
-- **RGB – LED (2)** – Hier liegt die RGB (Red-Green-Blue) LED. Durch bestimmte Programmierbefehle kann die LED in ver- schiedenen Farben leuchten.
+- **RGB – LED (2)** – Hier liegt die RGB (Red-Green-Blue) LED. Durch bestimmte Programmierbefehle kann die LED in verschiedenen Farben leuchten.
 - **Lichtsensor (3)** – Diese Komponente reagiert auf Lichtreize und kann dies der Hauptplatine mitteilen. Dies kann genutzt werden um auf Lichtquellen bestimmte Aktion folgen zu lassen.
 - **Taster (4)** – Der Taster reagiert auf Druck. Mit Hilfe des Tasters kann man auf, z.B. Druck durch einen Finger reagieren (im weiteren Verlauf wird der Taster mitverwendet. Dieser ist allerdings optional, da die RGB – LED für das Projekt hauptsächlich auf Lichtquellen reagieren soll).
 - **Ein-/Ausschalter (4)** – Mit dieser Schalter kann man das Lilypad Ein-, bzw. ausschalten.
 
-Um das "Zombie-Kit" bauen zu können, werden die vier, oben ge- nannten Komponente des Lilypad benötigt. Diese müssen zunächst aus der Schablone vorsichtig herausgebrochen werden.
+Um das "Zombie-Kit" bauen zu können, werden die vier, oben genannten Komponente des Lilypad benötigt. Diese müssen zunächst aus der Schablone vorsichtig herausgebrochen werden.
 
 ### Aufbau
 
 ![Schaltplan](images/schaltplan.jpg)
 
-1. Als Erstes platziert man die benötigten Platinen auf ein ca. arm- breites Stück Stoff. Wichtig ist, dass man sich hierbei bereits über die Anordnung der Platinen Gedanken macht. Da, diese spä- ter mit Kabeln miteinander verlötet werden (s. Schaltplan im An- hang). Hat man die Einzelteile richtig platziert, können diese im Anschluss mit einem Heißkleber auf dem Stoff fixiert werden.
-2. Als nächstes schneidet man ein ungefähr 2cm großes Loch in den Schwamm. Anschließend klebt man auf die Unter- und Ober- seite des Schwammes ein Stück Kupferband. Das Loch sollte von dem Kupferband abgedeckt sein. Wenn man nun mit der flachen Hand nun auf dem Schwamm drückt, oder klopft, sollten sich die beiden Kupferbänder bei dem Loch berühren können. Dadurch wird später der Stromkreislauf geschlossen und die Berührung kann somit registriert werden. An beiden Kupferbänder müssen zum Schluss noch jeweils ein Kabel angelötet werden. Der fertige Schwamm wird anschließend ebenfalls auf dem Stoff angebracht und fixiert.
+1. Als Erstes platziert man die benötigten Platinen auf ein ca. armbreites Stück Stoff. Wichtig ist, dass man sich hierbei bereits über die Anordnung der Platinen Gedanken macht. Da, diese später mit Kabeln miteinander verlötet werden (s. Schaltplan im An- hang). Hat man die Einzelteile richtig platziert, können diese im Anschluss mit einem Heißkleber auf dem Stoff fixiert werden.
+2. Als nächstes schneidet man ein ungefähr 2cm großes Loch in den Schwamm. Anschließend klebt man auf die Unter- und Oberseite des Schwammes ein Stück Kupferband. Das Loch sollte von dem Kupferband abgedeckt sein. Wenn man nun mit der flachen Hand nun auf dem Schwamm drückt, oder klopft, sollten sich die beiden Kupferbänder bei dem Loch berühren können. Dadurch wird später der Stromkreislauf geschlossen und die Berührung kann somit registriert werden. An beiden Kupferbänder müssen zum Schluss noch jeweils ein Kabel angelötet werden. Der fertige Schwamm wird anschließend ebenfalls auf dem Stoff angebracht und fixiert.
 3. Beim nächsten Schritt werden alle Komponenten zusammen an den jeweiligen Ports (Löcher) an den Platinen verbunden bzw. verlötet, sodass sie miteinander kommunizieren können.
 
 ### Programmierung
