@@ -60,7 +60,7 @@ Um das "Zombie-Kit" bauen zu können, werden die vier, oben genannten Komponent
 
 ![Schaltplan](images/schaltplan.jpg)
 
-1. Als Erstes platziert man die benötigten Platinen auf ein ca. armbreites Stück Stoff. Wichtig ist, dass man sich hierbei bereits über die Anordnung der Platinen Gedanken macht. Da, diese später mit Kabeln miteinander verlötet werden (s. Schaltplan im An- hang). Hat man die Einzelteile richtig platziert, können diese im Anschluss mit einem Heißkleber auf dem Stoff fixiert werden.
+1. Als Erstes platziert man die benötigten Platinen auf ein ca. armbreites Stück Stoff. Wichtig ist, dass man sich hierbei bereits über die Anordnung der Platinen Gedanken macht. Da, diese später mit Kabeln miteinander verlötet werden (s. Schaltplan im Anhang). Hat man die Einzelteile richtig platziert, können diese im Anschluss mit einem Heißkleber auf dem Stoff fixiert werden.
 2. Als nächstes schneidet man ein ungefähr 2cm großes Loch in den Schwamm. Anschließend klebt man auf die Unter- und Oberseite des Schwammes ein Stück Kupferband. Das Loch sollte von dem Kupferband abgedeckt sein. Wenn man nun mit der flachen Hand nun auf dem Schwamm drückt, oder klopft, sollten sich die beiden Kupferbänder bei dem Loch berühren können. Dadurch wird später der Stromkreislauf geschlossen und die Berührung kann somit registriert werden. An beiden Kupferbänder müssen zum Schluss noch jeweils ein Kabel angelötet werden. Der fertige Schwamm wird anschließend ebenfalls auf dem Stoff angebracht und fixiert.
 3. Beim nächsten Schritt werden alle Komponenten zusammen an den jeweiligen Ports (Löcher) an den Platinen verbunden bzw. verlötet, sodass sie miteinander kommunizieren können.
 
@@ -78,7 +78,7 @@ Oder mit Hilfe von sogenannten Steckbrücken angeschlossen. Verbindet man das L
 
 #### Eintwicklungsumgebung einrichten / starten
 
-Hat man den Computer erfolgreich mit der Hauptplatine des Lilypad angeschlossen kann man mit der Programmierung des Codes begin- nen. Dies wird mit Hilfe des Programms "Arduino" bewerkstelligt und kann direkt von der Arduino Homepage heruntergeladen werden (www.arduino.cc/en/Main/Software). Es gibt dabei eine Cloud-basierte Version, "Arduino Web Editor", sowie eine lokale Version, "Arduino IDE" (IDE = integrated development environment; dt: Entwicklungsumgebung). Die lokale Version existiert für Windows, Mac OSX sowie Linux.
+Hat man den Computer erfolgreich mit der Hauptplatine des Lilypad angeschlossen kann man mit der Programmierung des Codes beginnen. Dies wird mit Hilfe des Programms "Arduino" bewerkstelligt und kann direkt von der Arduino Homepage heruntergeladen werden (www.arduino.cc/en/Main/Software). Es gibt dabei eine Cloud-basierte Version, "Arduino Web Editor", sowie eine lokale Version, "Arduino IDE" (IDE = integrated development environment; dt: Entwicklungsumgebung). Die lokale Version existiert für Windows, Mac OSX sowie Linux.
 
 Öffnet man das Programm befindet man sich bereits direkt auf der Programmieroberfläche, wo man den Code schreiben kann. Hier sollte man zunächst dem Programm mitteilen, dass man auf einem Lilypad programmiert.
 
@@ -100,7 +100,7 @@ In der "Konsole" wird ausgegeben, ob das "Kompilieren" erfolgreich war oder nich
 
 ### Auf Funktion Prüfen
 
-Hat man den Code auf das Lilypad geladen, muss das "Zombie-Kit" nur noch auf Funktion getestet werden. Wenn man es einschaltet sollte die LED zunächst grün blinken (Mensch / Überlebender). Klopft man nun auf den Schwamm sollte die LED anschließend rot blinken (Infizierter / Zombie). Als nächstes leuchtet man in mög- lichst dunkler Umgebung auf den Lichtsensor. Nun sollte die LED wieder grün blinken.
+Hat man den Code auf das Lilypad geladen, muss das "Zombie-Kit" nur noch auf Funktion getestet werden. Wenn man es einschaltet sollte die LED zunächst grün blinken (Mensch / Überlebender). Klopft man nun auf den Schwamm sollte die LED anschließend rot blinken (Infizierter / Zombie). Als nächstes leuchtet man in möglichst dunkler Umgebung auf den Lichtsensor. Nun sollte die LED wieder grün blinken.
 
 ***HINWEIS:***
 Bei Dunkelheit die Taschenlampe, die für die Zombie Night genutzt wird, über den Sensor halten und überprüfen welcher Lichtwert (im Code rot markiert) eingegeben werden muss! Wahrscheinlich muss ein niedrigerer Wert eingegeben werden, als bei Tageslicht. Funktioniert nun alles wie gewünscht, muss das Zombie-Kit nur noch mit dem Stoff verkleidet und mit zwei Bändern beschmückt werden, sodass es an den Arm eines Spielers angebracht werden kann.
