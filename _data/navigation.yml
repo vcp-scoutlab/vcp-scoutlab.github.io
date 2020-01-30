@@ -13,6 +13,8 @@
 - page: Projekte
   url: /projekte
   subfolderitems:
+   - page: Scoutlab Projekte 2018
+     url: /scoutlab-2018/
    - page: Scoutlab Projekte 2017
      url: /scoutlab-2017/
    - page: Scoutlab Projekte 2016

@@ -31,9 +31,9 @@ Email: info(at)vcp.de
 ## Vertretungsberechtigter Vorstand
 VCP Bundesvorstand bestehend aus:
 
-+ Julia Lumma
-+ Thomas Kramer
-+ Gero W. Beisel
++ Natascha Sonnenberg
++ Oliver Mahn
++ Neals Nowitzki
 
 Registergericht
 Kassel, VR 5169
