@@ -3,8 +3,7 @@ layout: multipage
 title: LED mit Tastern ein- und ausschalten mit dem micro:bit
 navtitle: LED mit einem Taster schalten
 category: micro:bit
-permalink: /micro-bit/led
-section_start: true
+permalink: /micro-bit/led-taster
 ---
 # LED mit Tastern ein- und ausschalten mit dem micro:bit
 
