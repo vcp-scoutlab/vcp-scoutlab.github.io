@@ -42,6 +42,6 @@ Bei diesem Steckbrett sind die äußeren Längsreihen über Kontakte (X und Y) a
 <div style="page-break-after: always;"></div>
 
 ## Aufbau
-![Aufbau: micro:bit als Stromquelle](images/led1_Steckplatine_pins.png)
+![Aufbau: micro:bit als Stromquelle](images/mircobit_led_großes_Steckbrett_Steckplatine.png)
 
 Die LED wird mit dem Schutzwiderstand (am längeren Bein) am 3V - Pin angeschlossen. Das kürze Bein (GND) wird am GND-Pin angeschlossen. Wenn du alles richtig an geschlossen hast, leuchtet die LED.
