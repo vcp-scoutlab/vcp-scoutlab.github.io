@@ -3,17 +3,13 @@ layout: multipage
 title: Schere-Stein-Papier Spiel
 navtitle: Schere-Stein-Papier Spiel
 category: micro:bit
-permalink: /microb-it/schere-stein-papier
+permalink: /micro-bit/schere-stein-papier
 ---
 
 
 # Spiel Schere-Stein-Papier
 ## Material
 * 1x micro:bit
-
-
-## Material
-* microbit
 
 <div style="page-break-after: always;"></div>
 ## Editor:

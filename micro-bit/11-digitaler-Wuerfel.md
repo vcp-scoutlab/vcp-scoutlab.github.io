@@ -3,7 +3,7 @@ layout: multipage
 title: Digitaler Würfel mit dem micro:bit
 navtitle: Digitaler Würfel
 category: micro:bit
-permalink: /microbit/komfortWuerfel
+permalink: /micro-bit/komfortWuerfel
 ---
 ![](images/IMG_20191224_163152_105.jpg)
 

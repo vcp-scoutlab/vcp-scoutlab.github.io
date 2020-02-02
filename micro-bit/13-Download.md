@@ -9,7 +9,7 @@ section_start: true
 # Download
 ## Downloads der Programmbeispiele
 <span class="glyphicon glyphicon-download-alt" aria-hidden="true">
-[Programmbeispiele]({{ site.baseurl }}/micro-bit/appendix/code.zip)</span>
+[Programmbeispiele]({{ site.baseurl }}/micro-bit/appendix/microbit-code.zip)</span>
 
 <div class="alert alert-warning" role="alert">
 <h2>Importieren der Programmbeispiele</h2>
