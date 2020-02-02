@@ -43,4 +43,9 @@ Erst Blöcke, die zusammen ein lauffähiges Programm ergeben, nehmen wieder ihre
 
 <div class="alert alert-warning" role="alert">
 <h2>Importieren der Programmbeispiele</h2>
-Die verwendeten Programme. Entpacken Sie das Zip-Archiv in ein Verzeichnis auf Ihrer Festplatte.  Klicke auf der Startseite makecode.microbit.org auf Importieren, um ein Programm zu öffnen. Du kannst die Programme aber auch einfach anhand der Abbildungen selbst zusammenbauen.</div>
+Die verwendeten Programme. Entpacken Sie das Zip-Archiv in ein Verzeichnis auf Ihrer Festplatte.  Klicke auf der Startseite makecode.microbit.org auf Importieren, um ein Programm zu öffnen.
+
+![Importieren](images/makecode_import.jpg)
+
+Du kannst die Programme aber auch einfach anhand der Abbildungen selbst zusammenbauen.
+</div>
