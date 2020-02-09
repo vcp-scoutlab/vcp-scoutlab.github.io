@@ -5,6 +5,9 @@ navtitle: Digitaler Würfel
 category: micro:bit
 permalink: /micro-bit/komfortWuerfel
 ---
+
+# Digitaler Würfel
+
 ![](images/IMG_20191224_163152_105.jpg)
 
 ## Material:

@@ -7,7 +7,7 @@ permalink: /micro-bit/ampel
 ---
 
 # Ampel
-## Material
+
 ![](images/20191225_123915.jpg)
 
 ## Material:

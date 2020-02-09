@@ -26,7 +26,7 @@ Klicke oben rechts auf das Einstellungen-Symbol, wähle im Menü Language und da
 
 ### Der Makecode-Editor
 
-![](/images/makecode.jpg)
+![](images/makecode.jpg)
 
 Für die Programme verwenden wir die Programmierplattform Makecode von Microsoft – [https://makecode.microbit.org/](https://makecode.microbit.org/). In Makecode braucht man beim Programmieren keinen Programm- code zu tippen. Die Blöcke werden einfach per Drag and Drop aneinander gehängt. Der Makecode-Editor läuft im Browser. Es braucht kein Programm installiert zu werden. Klicke oben rechts auf das Einstellungen-Symbol, wähle im Menü Klicken oben rechts auf das Einstellungen-Symbol, wähle im Menü Language und dann die Sprache Deutsch.
 
@@ -44,8 +44,6 @@ Erst Blöcke, die zusammen ein lauffähiges Programm ergeben, nehmen wieder ihre
 <div class="alert alert-warning" role="alert">
 <h2>Importieren der Programmbeispiele</h2>
 Die verwendeten Programme. Entpacken Sie das Zip-Archiv in ein Verzeichnis auf Ihrer Festplatte.  Klicke auf der Startseite makecode.microbit.org auf Importieren, um ein Programm zu öffnen.
-
-![Importieren](images/makecode_import.jpg)
-
 Du kannst die Programme aber auch einfach anhand der Abbildungen selbst zusammenbauen.
 </div>
+![Importieren](images/makecode_import.jpg)
