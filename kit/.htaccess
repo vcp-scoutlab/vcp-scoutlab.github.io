@@ -1,0 +1,6 @@
+<IfModule mod_rewrite.c>
+
+Redirect 301 /scoutlab/kit https://www.vcp.de/pfadfinden/scoutlab-session-kit/
+
+</IfModule>
+
