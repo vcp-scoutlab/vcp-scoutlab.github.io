@@ -47,3 +47,28 @@ Die verwendeten Programme. Entpacken Sie das Zip-Archiv in ein Verzeichnis auf I
 Du kannst die Programme aber auch einfach anhand der Abbildungen selbst zusammenbauen.
 </div>
 ![Importieren](images/makecode_import.jpg)
+
+# Wie bekomme ich meinen Code auf den micro:bit via USB?
+
+Um den micro:bit in Betrieb zu nehmen, braucht man:
++ PC mit Windows 10, 8.1, 7 (Mac OSX oder Linux)
++ MicroUSB-Kabel
+
+## Schritt 1: Verbinde den micro:bit mit deinem Computer
+
+![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/19022191134/original/78CKWQghpVcUan_OolK6-dM5hfe-MHCucg.gif?1519817674)
+
++ Verbinde das kleine Ende des USB Kabel mit dem USB-Anschluss auf deinem micro:bit
++ Verbinde das andere Ende des USB-Kabels mit einem USB-Anschluss an deinem Computer.
+
+Sobald die Verbindung zum micro:bit steht, wir der micro:bit wird als Stick / Laufwerk (MICROBIT) angezeigt.
+
+![](images/microbit-laufwerk.gif)
+
+## Schritt 2: Lade eine hex-Datei auf den micro:bit
+
++ schreibe die hex-Datei auf das Laufwerk (MICROBIT)
++ Die LED am USB-Anschluss blinkt, solange der Schreibvorgang läuft. Das kennst du sicher von einem USB-Stick. Sobald der Schreibvorgang abgeschlossen ist. Verschwindet kurz das Laufwerk, dass dann sofort wieder erscheint.
++ Die Datenübertragung und die Kompielerung sind nun abgeschlossen.
+
+![](images/microbit-laufwerk-hex.gif)
