@@ -56,6 +56,11 @@ Um den micro:bit in Betrieb zu nehmen, braucht man:
 
 ## Schritt 1: Verbinde den micro:bit mit deinem Computer
 
+<div class="alert alert-warning" role="alert">
+<h2>Vorsicht</h2>
+Bitte entferne jetzt das Batterie-Kit! Das Batterie-Kit darf nicht verbunden sein, wenn du den micro:bit über USB verbindest.
+</div>
+
 ![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/19022191134/original/78CKWQghpVcUan_OolK6-dM5hfe-MHCucg.gif?1519817674)
 
 + Verbinde das kleine Ende des USB Kabel mit dem USB-Anschluss auf deinem micro:bit
@@ -69,6 +74,6 @@ Sobald die Verbindung zum micro:bit steht, wir der micro:bit wird als Stick / La
 
 + schreibe die hex-Datei auf das Laufwerk (MICROBIT)
 + Die LED am USB-Anschluss blinkt, solange der Schreibvorgang läuft. Das kennst du sicher von einem USB-Stick. Sobald der Schreibvorgang abgeschlossen ist. Verschwindet kurz das Laufwerk, dass dann sofort wieder erscheint.
-+ Die Datenübertragung und die Kompielerung sind nun abgeschlossen.
++ Die Datenübertragung und die Kompilierung sind nun abgeschlossen.
 
 ![](images/microbit-laufwerk-hex.gif)
