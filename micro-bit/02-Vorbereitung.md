@@ -77,3 +77,7 @@ Sobald die Verbindung zum micro:bit steht, wir der micro:bit wird als Stick / La
 + Die Datenübertragung und die Kompilierung sind nun abgeschlossen.
 
 ![](images/microbit-laufwerk-hex.gif)
+
+## Set up your micro:bit -  Micro:bit Educational Foundation
+
+[https://microbit.org/get-started/first-steps/set-up/](https://microbit.org/get-started/first-steps/set-up/)
