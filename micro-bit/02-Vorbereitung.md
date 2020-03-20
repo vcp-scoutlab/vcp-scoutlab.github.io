@@ -82,4 +82,7 @@ Sobald die Verbindung zum micro:bit steht, wir der micro:bit wird als gewöhnlic
 
 ## Set up your micro:bit -  Micro:bit Educational Foundation
 
+
+[https://archive.microbit.org/de/guide/quick/](https://archive.microbit.org/de/guide/quick/)
+
 [https://microbit.org/get-started/first-steps/set-up/](https://microbit.org/get-started/first-steps/set-up/)
