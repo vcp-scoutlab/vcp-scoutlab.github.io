@@ -31,7 +31,7 @@ permalink: /micro-bit/programm
 
 ## Funktion:
 
-Die LED wird endlos über ein Programm aus und wieder eingeschaltet.
+Die LED wird über ein Programm aus und wieder eingeschaltet.
 
 ## Schaltplan
 
