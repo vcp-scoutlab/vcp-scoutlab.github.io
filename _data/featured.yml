@@ -13,8 +13,8 @@
   description: "Erste Schritte mit dem Scoutlab session kit."
   thumbnail: /scoutlab-session-kit-1/images/teaser.png
 
-- title: "Zombie Run"
-  link_1: /scoutlab-2017/zombie-run
-  link_title_1: "Zombie Run"
-  description: 'Bei "Zombie Night" handelt es sich um ein Nachtgelände Adventure Spiel, bei dem zwei Teams gegeneinander antreten (mind. 8 Spieler).'
-  thumbnail: /scoutlab-2017/images/zombie-run.jpg
+- title: "micro:bit"
+  link_1: /micro-bit/
+  link_title_1: "micro:bit"
+  description: 'Erste Schritte mit dem micro:bit.'
+  thumbnail: /micro-bit/images/microbit-front.png
