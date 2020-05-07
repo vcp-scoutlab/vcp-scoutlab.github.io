@@ -19,9 +19,6 @@ permalink: /micro-bit/programm_ohne_kit
 
 Die LED wird über ein Programm aus und wieder eingeschaltet.
 
-## Schaltplan
-
-
 ![](images/microbit-Screenshot_led_ohne_kit.png)
 
 ## Code

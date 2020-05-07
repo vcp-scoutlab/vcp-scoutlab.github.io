@@ -12,6 +12,8 @@ Hinweis: Das benötigte Material ist im Scoutlab Session Kit enthalten. Das Kit 
 <a href="https://www.vcp.de/service/materialbestellung/#c288">https://www.vcp.de/service/materialbestellung/</a>
 </div>
 
+[Die Anleitung **ohne** das Kit](https://scoutlab.de/micro-bit/led-taster_ohne_kit).
+
 ## Material:
 
 + mirco:bit
