@@ -8,8 +8,8 @@ permalink: /micro-bit/led-taster
 # LED mit Tastern ein- und ausschalten mit dem micro:bit
 
 <div class="alert alert-warning" role="alert">
-Hinweis: Das benötigte Material ist im Scoutlab Session Kit enthalten. Das Kit muss vorher separat bestellt werden:   
-[https://www.vcp.de/service/materialbestellung/](https://www.vcp.de/service/materialbestellung/#c288)
+Hinweis: Das benötigte Material ist im Scoutlab Session Kit enthalten. Das Kit muss vorher separat bestellt werden:
+<a href="https://www.vcp.de/service/materialbestellung/#c288">https://www.vcp.de/service/materialbestellung/</a>
 </div>
 
 ## Material:
