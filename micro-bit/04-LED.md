@@ -12,6 +12,8 @@ Hinweis: Das benötigte Material ist im Scoutlab Session Kit enthalten. Das Kit 
 <a href="https://www.vcp.de/service/materialbestellung/#c288">https://www.vcp.de/service/materialbestellung/</a>
 </div>
 
+[Die Anleitung **ohne** das Kit](https://scoutlab.de/micro-bit/programm_ohne_kit).
+
 ## Material
 * 1x LED
 * 1x 220 Ohm Widerstand
