@@ -6,6 +6,12 @@ category: micro:bit
 permalink: /micro-bit/programm
 ---
 # LED mit einem Programm schalten
+
+<div class="alert alert-warning" role="alert">
+Hinweis: Das benötigte Material ist im Scoutlab Session Kit enthalten. Das Kit muss vorher separat bestellt werden:   
+[https://www.vcp.de/service/materialbestellung/](https://www.vcp.de/service/materialbestellung/#c288)
+</div>
+
 ## Material
 * 1x LED
 * 1x 220 Ohm Widerstand

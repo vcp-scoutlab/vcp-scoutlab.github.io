@@ -10,6 +10,11 @@ permalink: /micro-bit/ampel
 
 ![](images/20191225_123915.jpg)
 
+<div class="alert alert-warning" role="alert">
+Hinweis: Das benötigte Material ist im Scoutlab Session Kit enthalten. Das Kit muss vorher separat bestellt werden:   
+[https://www.vcp.de/service/materialbestellung/](https://www.vcp.de/service/materialbestellung/#c288)
+</div>
+
 ## Material:
 
 + mirco:bit
