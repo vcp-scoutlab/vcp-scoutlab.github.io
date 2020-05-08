@@ -1,9 +1,9 @@
 ---
 layout: multipage
 title: LED mit Tastern ein- und ausschalten mit dem micro:bit
-navtitle: LED mit einem Taster schalten
+nav: false
 category: micro:bit
-permalink: /micro-bit/led-taster
+permalink: /micro-bit/led-taster_mit_kit
 ---
 # LED mit Tastern ein- und ausschalten mit dem micro:bit
 
@@ -11,8 +11,6 @@ permalink: /micro-bit/led-taster
 Hinweis: Das benötigte Material ist im Scoutlab Session Kit enthalten. Das Kit muss vorher separat bestellt werden:
 <a href="https://www.vcp.de/service/materialbestellung/#c288">https://www.vcp.de/service/materialbestellung/</a>
 </div>
-
-[Die Anleitung **ohne** das Kit](https://scoutlab.de/micro-bit/led-taster_ohne_kit).
 
 ## Material:
 
@@ -38,4 +36,4 @@ Mit dem Taster A wird die LED eingeschaltet. Mit dem Taster B wird die LED wiede
 ![](images/microbit-Screenshot_led_taster.png)
 
 ## Code
-[microbit-led_taster.hex](appendix/microbit-led_taster.hex)
+[microbit-led_taster_mit_kit.hex](appendix/microbit-led_taster_mit_kit.hex)
