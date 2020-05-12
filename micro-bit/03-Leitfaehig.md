@@ -31,6 +31,8 @@ Gegenstände an.
 
 Das Programm zeigt beim Berühren ein Häkchen auf der LED-Matrix an, beim Loslassen wird ein X-Symbol angezeigt.
 
+![](images/leitfaehigeit_microbit.gif)
+
 ## Schaltplan
 
 ![](images/microbit_knete.png)
