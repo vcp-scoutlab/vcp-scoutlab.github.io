@@ -25,8 +25,8 @@ Mit dem Taster A wird die LED eingeschaltet. Mit dem Taster B wird die LED wiede
 ## Code
 [microbit-led_taster.hex](appendix/microbit-led_taster.hex)
 
-<div class="alert alert-warning" role="alert">
+<!--<div class="alert alert-warning" role="alert">
 Hinweis: Das benötigte Material ist im Scoutlab Session Kit enthalten.
 Falls du dieses Kit schon hast. Dann haben wir eine <a href="../micro-bit/led-taster_mit_kit">Anleitung</a> für dich.
 <a href="https://www.vcp.de/service/materialbestellung/#c288">https://www.vcp.de/service/materialbestellung/</a>
-</div>
+</div>-->
