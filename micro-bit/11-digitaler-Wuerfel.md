@@ -28,6 +28,10 @@ Das Ergebnis wird als "Augen" auf einem Würfel angezeigt.
 ### So funktioniert das Programm
 Der neue Würfel zeigt das Ergebnis nicht direkt als Zahl an, sondern soll je nach gewürfeltem Wert eines von sechs Bildern anzeigen. Die zufällig ermittelte Zahl wird diesmal nicht sofort angezeigt, sondern zunächst in der **Variable wuerfel** gespeichert.
 
+<div class="alert alert-info" role="alert">
+<b>Variablen:</b>Variablen sind kleine Speicherplätze, in denen man sich während eines Programms eine Zahl oder irgendetwas anders merken kann. Wenn das Programm beendet wird, werden diese Variablenspeicher automatisch wieder geleert. Variablen müssen im Makecode-Editor erst einmal auf der Blockpalette Variablen mit dem <b><i>Button Make a Variable</i></b> angelegt werden, bevor man diese benutzen kann.
+</div>
+
 #### Variablen im Makecode-Editor
 Variablen sind kleine Speicherplätze, in denen man sich während eines Programms eine Zahl oder irgendetwas anders merken kann. Wenn das Programm beendet wird, werden diese Variablenspeicher automatisch wieder geleert. Variablen müssen im Makecode-Editor erst einmal auf der Blockpalette Variablen mit dem **Button Make a Variable** angelegt werden, bevor man diese benutzen kann. Anschließend kannst du das Symbol der neu angelegten Variablen in ein dafür vorgesehenes Feld eines Blocks im Programm ziehen. In der Gruppe Variablen stehen zusätzlich zwei verschiedene Blöcke zum Verändern der Variablen zur Verfügung, die leicht zu verwechseln sind, aber unterschiedliche Funktionen haben.
 + ändere Variable auf ... setzt die Variable auf einen bestimmten Wert.
