@@ -64,6 +64,8 @@ Zahl   | Morse-Code
 0      | **− − − − −**
 {: class="table table-striped table-hover"}
 
+[Morse_Code.pdf](appendix/Morse_Code.pdf)
+
 ### Funktion:
 Damit sich die beiden micro:bit miteinander über Bluetooth unterhalten können, müssen beide micro:bit in der gleichen Gruppe und einer passenden Signalstärke arbeiten. Diese beiden Funktionen legen wir im ersten Schritt an:
 ![](images/microbit-Screenshot_morse_start.png)
