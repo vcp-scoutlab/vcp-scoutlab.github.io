@@ -28,6 +28,10 @@ Die Lichtstärke wird als wachsendes Diagramm angezeigt. Die Lichtstärke kann b
 Die LED-Matrix kann nicht nur zur Anzeige genutzt werden, sondern da Feld liefert auch die Lichtstärke an den micro:bit.
 Die Lichtstärke wird zunächst in der **Variable level** gespeichert.
 
+<div class="alert alert-info" role="alert">
+<b>Variablen:</b>Variablen sind kleine Speicherplätze, in denen man sich während eines Programms eine Zahl oder irgendetwas anders merken kann. Wenn das Programm beendet wird, werden diese Variablenspeicher automatisch wieder geleert. Variablen müssen im Makecode-Editor erst einmal auf der Blockpalette Variablen mit dem **Button Make a Variable** angelegt werden, bevor man diese benutzen kann.
+</div>
+
 #### Variablen im Makecode-Editor
 Variablen sind kleine Speicherplätze, in denen man sich während eines Programms eine Zahl oder irgendetwas anders merken kann. Wenn das Programm beendet wird, werden diese Variablenspeicher automatisch wieder geleert. Variablen müssen im Makecode-Editor erst einmal auf der Blockpalette Variablen mit dem **Button Make a Variable** angelegt werden, bevor man diese benutzen kann. Anschließend kannst du das Symbol der neu angelegten Variablen in ein dafür vorgesehenes Feld eines Blocks im Programm ziehen. In der Gruppe Variablen stehen zusätzlich zwei verschiedene Blöcke zum Verändern der Variablen zur Verfügung, die leicht zu verwechseln sind, aber unterschiedliche Funktionen haben.
 + ändere Variable auf ... setzt die Variable auf einen bestimmten Wert.
