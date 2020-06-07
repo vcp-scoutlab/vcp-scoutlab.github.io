@@ -27,7 +27,7 @@ Benutze den Beschleunigungssensor und die LED-Anzeige um ein Schere-Stein-Papier
 Die zufällig ermittelte Zahl (zwischen 1 und 3) wird  nicht sofort angezeigt, sondern zunächst in der **Variable hand** gespeichert.
 
 <div class="alert alert-info" role="alert">
-<b>Variablen:</b>Variablen sind kleine Speicherplätze, in denen man sich während eines Programms eine Zahl oder irgendetwas anders merken kann. Wenn das Programm beendet wird, werden diese Variablenspeicher automatisch wieder geleert. Variablen müssen im Makecode-Editor erst einmal auf der Blockpalette Variablen mit dem <b><i>Button Make a Variable</i></b> angelegt werden, bevor man diese benutzen kann.
+<b>Variablen:</b> Variablen sind kleine Speicherplätze, in denen man sich während eines Programms eine Zahl oder irgendetwas anders merken kann. Wenn das Programm beendet wird, werden diese Variablenspeicher automatisch wieder geleert. Variablen müssen im Makecode-Editor erst einmal auf der Blockpalette Variablen mit dem <b><i>Button Make a Variable</i></b> angelegt werden, bevor man diese benutzen kann.
 </div>
 
 #### Variablen im Makecode-Editor
