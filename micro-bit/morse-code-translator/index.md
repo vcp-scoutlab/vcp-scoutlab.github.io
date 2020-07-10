@@ -6,8 +6,12 @@ nav: false
 permalink: /micro-bit/morse-code-translator/index
 subdir: micro-bit
 ---
-> Verwandle einfachen Text in Morsezeichen und verwandle den Morsezeichen in einfachen Text mit diesem einfachen Werkzeug.
 
+### Verwandle einfachen Text in Morsezeichen und verwandle den Morsezeichen in einfachen Text mit diesem einfachen Werkzeug.
+
+<div class="alert alert-info" role="alert">
+Denkt daran, dass Umlaute wie ä,ü,ö im in den Morsezeichen als ae, ue und oe geschrieben werden.
+</div>
 
 <html>
 <label>Eingabe:</label>
