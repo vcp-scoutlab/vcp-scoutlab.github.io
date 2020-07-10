@@ -44,3 +44,4 @@ subdir: micro-bit
 	<!-- load Javascript scrips -->
 	<script type="text/javascript" src="script.js "></script>
 	<script type="text/javascript" src="morse.js"></script>
+</html>
