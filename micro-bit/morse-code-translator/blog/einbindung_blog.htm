@@ -9,6 +9,22 @@
 	<meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
 
 	<style type="text/css">
+		body {
+			display: flex;
+			min-height: 100vh;
+			flex-direction: column;
+			width: 100%;
+		}
+		main {
+			flex: 1 0 auto;
+		}
+
+		blockquote{
+		  margin: 20px 0;
+		  padding-left: 1.5rem;
+		  border-left: 5px solid #b71c1c;
+		}
+
 
 	.input-field textarea[class=materialize-textarea]:focus {
 		border-bottom: 1px solid #b71c1c;
@@ -30,17 +46,13 @@ position: absolute;
 top: 0;
 left: 0;
 width: 100%;
-min-height: 800px;
+min-height: 600px;
 height: 100%;
 }
 
 /* ratio 4x3 */
 .embed-container.ratio4x3 {
 /*  padding-bottom: 75%; */
-}
-
-iframe {
-min-height: 800px;
 }
 
 	</style>
@@ -73,7 +85,7 @@ min-height: 800px;
 <!--<div class="embed-container">
 
 
-<iframe src="https://scoutlab.de/micro-bit/morse-code-translator/blog/einbindung_blog.htm" id="idIframe" onload="iframeLoaded()" style="border: none; width:100%; margin: 0 0 0 1%;" allowfullscreen scrolling="no"> </iframe>
+<iframe src="https://scoutlab.de/micro-bit/morse-code-translator/blog/einbindung_blog.htm" id="idIframe" onload="iframeLoaded()" style="border: none; width:100%; min-height:800px; margin: 0 0 0 1%;" allowfullscreen scrolling="no"> </iframe>
 
 
 </div>-->
