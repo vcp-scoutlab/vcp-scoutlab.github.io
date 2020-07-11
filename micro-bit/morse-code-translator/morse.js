@@ -2,6 +2,8 @@
 var morse = (function() {
 	var isSilent = true,
 		alpha = {
+      ß:"...---..",
+			Ö:"---.",
       Ü:"..--",
 			Ä:"·-.-",
 			A: ".-",
