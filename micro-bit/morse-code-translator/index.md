@@ -15,10 +15,10 @@ Denkt daran, dass Umlaute wie ä,ü,ö in den Morsezeichen als ae, ue und oe ges
 
 <html>
 <label>Eingabe:</label>
-<textarea rows="10" cols="50" id="msgInput" oninput="MorseTranslator()" placeholder="Gib hier deinen Text oder deine Morsezeichen ein." class="materialize-textarea" style="width:95%; font-size: 1.5em;"></textarea>
+<textarea rows="5" cols="50" id="msgInput" oninput="MorseTranslator()" placeholder="Gib hier deinen Text oder deine Morsezeichen ein." class="materialize-textarea" style="width:95%; font-size: 1.5em;"></textarea>
 
 <label>Ausgabe:</label>
-<textarea rows="10" cols="50" id="msgOutput" class="materialize-textarea" style="width:95%; font-size: 1.5em;">
+<textarea rows="5" cols="50" id="msgOutput" class="materialize-textarea" style="width:95%; font-size: 1.5em;">
 </textarea>
 
 
