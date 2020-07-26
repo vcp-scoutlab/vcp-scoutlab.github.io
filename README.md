@@ -4,7 +4,7 @@
 
 In diesem Repository befindet sich [vcp-scoutlab.github.io](http://vcp-scoutlab.github.io).
 
-Das Scoutlab ist eine Sammlung von Veranstaltungen, Gruppenstunden und Workshops rund um die Themen Internet, Elektronik und Maker Bewegung. Auf diesen Seiten werden alle Dokumentationen gesammelt. Aktuelle Informationen befinden sich in unserem [Blog](http://scoutlab.de).
+Das Scoutlab ist eine Sammlung von Veranstaltungen, Gruppenstunden und Workshops rund um die Themen Internet, Elektronik und Maker Bewegung. Auf diesen Seiten werden alle Dokumentationen gesammelt. Aktuelle Informationen befinden sich in unserem [Blog](https://www.vcp.de/pfadfinden/rubrik/scoutlab/).
 
 # Mitmachen
 
