@@ -23,5 +23,5 @@ Eine Reaktion auf die beiden Tasten wird umgesetzt.
 
 ![](images/microbit-Screenshot_tasten.png)
 
-## Code
+## Programmbeispiel
 [microbit-tasten.hex](appendix/microbit-tasten.hex)

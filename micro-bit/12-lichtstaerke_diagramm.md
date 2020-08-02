@@ -41,5 +41,5 @@ Jetzt zeichnen wir ein wachsendes Diagramm der aktuellen Lichtstärke und geben 
 
 ![](images/microbit-Screenshot_lichtstaerke_diagramm.png)
 
-## Code
+## Programmbeispiel
 [microbit-lichtstaerke_diagramm.hex](appendix/microbit-lichtstaerke_diagramm.hex)

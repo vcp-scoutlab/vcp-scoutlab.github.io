@@ -35,5 +35,5 @@ Mit dem Taster A wird die LED eingeschaltet. Mit dem Taster B wird die LED wiede
 
 ![](images/microbit-Screenshot_led_taster.png)
 
-## Code
+## Programmbeispiel
 [microbit-led_taster_mit_kit.hex](appendix/microbit-led_taster_mit_kit.hex)

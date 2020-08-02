@@ -39,5 +39,5 @@ Das Programm zeigt beim Berühren ein Häkchen auf der LED-Matrix an, beim Losla
 
 ![](images/microbit-Screenshot_knete_leitfaehigkeit.png)
 
-## Code
+## Programmbeispiel
 [microbit-leitfaehigkeit.hex](appendix/microbit-leitfaehigkeit.hex)
