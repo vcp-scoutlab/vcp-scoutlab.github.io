@@ -106,3 +106,7 @@ Zahl   | Morse-Code
 9      | **− − − − ·**
 0      | **− − − − −**
 {: class="table table-striped table-hover"}
+
+[Morse_Code.pdf](appendix/Morse_Code.pdf)
+
+[Morsezeichen-Übersetzer (Online-Tool)](morse-code-translator/)
