@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: mutlipage
 title: Scoutlab Session Kit 1 - Morsen
 category: Scoutlab Session Kit 1
 nav: false
