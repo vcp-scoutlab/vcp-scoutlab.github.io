@@ -1,6 +1,6 @@
 ---
 layout: multipage
-title: micro:bit
+title: Scoutlab Session Kit 1 für Arduino
 category: Scoutlab Session Kit 1 für Arduino
 nav: false
 permalink: /arduino-scoutlab-session-kit-1/morse-code-translator/index
