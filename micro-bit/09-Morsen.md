@@ -105,6 +105,6 @@ Unser micro:bit muss darauf reagieren, wenn Nachrichten empfangen werden. Dies m
 
 Jetzt haben wir alle notwendigen Funktionen und können mit einem Test starten.
 
-## Code
+## Programmbeispiel
 
 [microbit-morsen.hex](appendix/microbit-morsen.hex)

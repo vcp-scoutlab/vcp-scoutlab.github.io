@@ -8,7 +8,7 @@ subdir: impressum
 # Impressum
 Das Scoutlab ist eine Sammlung von Veranstaltungen, Gruppenstunden und Workshops rund um die Themen Internet, Elektronik und Maker Bewegung des Verbandes Christlicher Pfadfinderinnen und Pfadfinder (VCP) e.V. . Auf diesen Seiten werden alle Dokumentationen gesammelt. Aktuelle Informationen befinden sich in unserem Blog: [https://www.vcp.de/pfadfinden/rubrik/scoutlab/](https://www.vcp.de/pfadfinden/rubrik/scoutlab/).
 
-Redaktion: Johannes Engelke, Peter Diehl, Peter Mestel, Niklas Tüpker.
+Redaktion: Johannes Engelke, Peter Diehl, Peter Mestel.
 
 
 ## Haftungshinweis

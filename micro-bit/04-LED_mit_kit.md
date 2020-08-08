@@ -47,5 +47,5 @@ Die LED wird über ein Programm aus und wieder eingeschaltet.
 
 ![](images/microbit-Screenshot_led.png)
 
-## Code
+## Programmbeispiel
 [microbit-led_mit_kit.hex](appendix/microbit-led_mit_kit.hex)

@@ -55,5 +55,5 @@ Alle diese Abfragen verwenden den Block **... = ... aus der Gruppe Logik**, um z
 #### Papier:
 ![Papier](images/papier.png)
 
-## Code
+## Programmbeispiel
 [microbit-Schere-Stein-Papier.hex](appendix/microbit-Schere-Stein-Papier.hex)

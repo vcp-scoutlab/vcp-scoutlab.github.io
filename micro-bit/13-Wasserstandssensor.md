@@ -36,5 +36,5 @@ Der Wasserstand wird auch immer optisch in einem Diagramm dargestellt.
 ![](images/microbit-Screenshot-Wassersensor.png)
 
 
-## Code
+## Programmbeispiel
 [microbit-wasserstandssensor.hex](appendix/microbit-wasserstandssensor.hex)

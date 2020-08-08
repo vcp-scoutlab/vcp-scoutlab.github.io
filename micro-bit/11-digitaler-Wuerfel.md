@@ -44,5 +44,5 @@ Alle diese Abfragen verwenden den Block **... = ... aus der Gruppe Logik**, um z
 #### Blöcke duplizieren
 Ähnliche Programmblöcke, wie hier die sechs** wenn ... dann ... Abfragen**, brauchen nicht jedes Mal komplett neu zusammengebaut zu werden. Klicke mit der rechten Maustaste auf einen Block und wähle im Kontextmenü Duplizieren. Automatisch wird eine Kopie des Blocks und aller ineinander verschachtelten Blöcke angelegt, die du an die gewünschte Position im Programm ziehen und weiter bearbeiten könnt.
 
-## Code
+## Programmbeispiel
 [microbit-wuerfel_schuettel.hex](appendix/microbit-wuerfel_schuettel.hex)
