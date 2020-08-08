@@ -2,7 +2,7 @@
 layout: multipage
 title: Scoutlab Session Kit 1
 category: Scoutlab Session Kit 1
-#nav: false
+nav: false
 permalink: /scoutlab-session-kit-1/morse-code-translator/index
 subdir: scoutlab-session-kit-1
 ---
