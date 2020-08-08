@@ -1,6 +1,6 @@
 ---
 layout: mutlipage
-title: Scoutlab Session Kit 1 - Morsezeichen
+title: Scoutlab Session Kit 1
 category: Scoutlab Session Kit 1
 nav: false
 permalink: /scoutlab-session-kit-1/morse-code-translator/index
