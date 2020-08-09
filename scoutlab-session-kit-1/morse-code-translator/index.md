@@ -1,5 +1,6 @@
 ---
-layout: multipage
+#layout: multipage
+layout: page
 title: Scoutlab Session Kit 1 - Morsezeichen
 category: Scoutlab Session Kit 1
 navtitle: Morsezeichen Übersetzer
