@@ -15,7 +15,7 @@ permalink: /micro-bit/morsen
 
 
 ## Funktion:
-Mit dieser Anleitung lernst du, wie sich mehrere micro:bit über Bluetooth unterhalten können. Betrachten wollen wir in diesem Experiment die Möglichkeit des Morsens.
+Mit dieser Anleitung lernst du, wie sich mehrere micro:bit über Funk unterhalten können. Betrachten wollen wir in diesem Experiment die Möglichkeit des Morsens.
 
 ### Morse-Alphabet
 
@@ -69,7 +69,7 @@ Zahl   | Morse-Code
 [Morsezeichen-Übersetzer (Online-Tool)](morse-code-translator/)
 
 ### Funktion:
-Damit sich die beiden micro:bit miteinander über Bluetooth unterhalten können, müssen beide micro:bit in der gleichen Gruppe und einer passenden Signalstärke arbeiten. Diese beiden Funktionen legen wir im ersten Schritt an:
+Damit sich die beiden micro:bit miteinander über Funk unterhalten können, müssen beide micro:bit in der gleichen Gruppe und einer passenden Signalstärke arbeiten. Diese beiden Funktionen legen wir im ersten Schritt an:
 ![](images/microbit-Screenshot_morse_start.png)
 
 In diesem Beispiel verwenden wir den Kanal "1" und eine Übertragungsstärke von "7".
