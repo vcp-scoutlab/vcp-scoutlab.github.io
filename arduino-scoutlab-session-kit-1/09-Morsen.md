@@ -104,4 +104,4 @@ Zahl   | Morse-Code
 
 [Morse_Code.pdf](appendix/Morse_Code.pdf)
 
-[Morsezeichen-Übersetzer (Online-Tool)](morse-code-translator/)
+[Morsezeichen-Übersetzer (Online-Tool)](arduino-morse-code-translator/)
