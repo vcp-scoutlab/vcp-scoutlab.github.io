@@ -22,7 +22,7 @@ Altersgruppe: ab 11 Jahre
 
 Zeit: 2 Std.
 
-Es ist wichtig, dass die\*der Workshopleiter\*in sich mit der Software auseinander setzt um bei aufkommenden Fragen den Teilnehmern*innen helfen zu können.
+Es ist wichtig, dass die\*der Workshopleiter\*in sich mit der Software auseinander setzt um bei aufkommenden Fragen den Teilnehmer\*innen helfen zu können.
 
 ## Einleitung
 
