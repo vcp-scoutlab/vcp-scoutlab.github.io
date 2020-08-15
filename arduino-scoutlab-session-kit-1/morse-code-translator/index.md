@@ -3,8 +3,8 @@ layout: multipage
 title: Scoutlab Session Kit 1 für Arduino
 category: Scoutlab Session Kit 1 für Arduino
 nav: false
-permalink: /arduino-scoutlab-session-kit-1/arduino-morse-code-translator/index
-subdir: arduino-scoutlab-session-kit-1
+permalink: /arduino-scoutlab-session-kit-1/morse-code-translator/index
+subdir: /arduino-scoutlab-session-kit-1
 ---
 
 ### Verwandle einfachen Text in Morsezeichen und verwandle den Morsezeichen in einfachen Text mit diesem einfachen Werkzeug.
