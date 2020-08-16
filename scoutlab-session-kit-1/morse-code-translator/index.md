@@ -1,12 +1,10 @@
 ---
 layout: multipage
-#layout: page
-title: Scoutlab Session Kit 1 - Morsezeichen
+title: Scoutlab Session Kit 1
 category: Scoutlab Session Kit 1
-#navtitle: Morsezeichen Übersetzer
 nav: false
-permalink: /scoutlab-session-kit-1/morse-code-translator/
-subdir: /scoutlab-session-kit-1/
+permalink: /scoutlab-session-kit-1/morse-code-translator/index
+subdir: /scoutlab-session-kit-1
 ---
 
 ### Verwandle einfachen Text in Morsezeichen und verwandle den Morsezeichen in einfachen Text mit diesem einfachen Werkzeug.
