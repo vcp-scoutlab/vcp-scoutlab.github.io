@@ -4,6 +4,8 @@ title: micro:bit - Berührungsloser Zeitmesser zum Händewaschen
 navtitle: Berührungsloser Zeitmesser
 category: micro:bit
 permalink: /micro-bit/touchless_handwash-timer
+excerpt: Händewaschen ist in Zeiten der Pandemie wichtiger denn je. Lerne, wie man mit dem micro:bit einen berührungslosen Zeitmesser erstellt.
+image: /micro-bit/images/handwashtimer_beitragsbild.jpg
 ---
 
 # Berührungsloser Zeitmesser beim Händewaschen
