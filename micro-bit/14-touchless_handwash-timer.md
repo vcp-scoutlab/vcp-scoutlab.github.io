@@ -49,6 +49,10 @@ Die Lichtverhältnisse sind am Nachmittag oder an einem wolkigen Tag wieder ande
 Das Programmbeispiel berücksichtigt die Veränderung der Lichtstärke. Gleichzeitig wird auch die Batterie geschont, da nur Veränderungen der Lichtstärke berücksichtigt werden.
 <!--Anleitung Ende-->
 
+<div class="hidden-print">
+<iframe src="https://player.vimeo.com/video/453672586" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+</div>
+
 ![](images/microbit-Screenshot_touchless_handwash-timer.png)
 
 ## Programmbeispiel
