@@ -33,7 +33,7 @@ Der Wasserstand wird auch immer optisch in einem Diagramm dargestellt.
 
 ![](images/wasserstandssensor_Steckplatine.png)
 
-![](images/microbit-Screenshot-Wassersensor.png)
+![](images/micro-bit-Screenshot-Wassersensor.png)
 
 
 ## Programmbeispiel

@@ -53,7 +53,7 @@ Das Programmbeispiel berücksichtigt die Veränderung der Lichtstärke. Gleichze
 <iframe src="https://player.vimeo.com/video/453672586" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
 
-![](images/microbit-Screenshot_touchless_handwash-timer.png)
+![](images/micro-bit-Screenshot_touchless_handwash-timer.png)
 
 ## Programmbeispiel
 [microbit-touchless_handwash-timer.hex](appendix/microbit-touchless_handwash-handwashtimer.hex)

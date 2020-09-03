@@ -23,7 +23,7 @@ mirco:bit
 Durch Schütteln des mirco:bit wird in ein Zufallszahl (zwischen 1 und 6) generiert.
 Das Ergebnis wird als "Augen" auf einem Würfel angezeigt.
 
-![](images/microbit-Screenshot_wuzerfel.png)
+![](images/micro-bit-Screenshot_wuzerfel.png)
 
 ### So funktioniert das Programm
 Der neue Würfel zeigt das Ergebnis nicht direkt als Zahl an, sondern soll je nach gewürfeltem Wert eines von sechs Bildern anzeigen. Die zufällig ermittelte Zahl wird diesmal nicht sofort angezeigt, sondern zunächst in der **Variable wuerfel** gespeichert.

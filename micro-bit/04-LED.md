@@ -19,7 +19,7 @@ permalink: /micro-bit/programm
 
 Die LED wird über ein Programm aus und wieder eingeschaltet.
 
-![](images/microbit-Screenshot_led_ohne_kit.png)
+![](images/micro-bit-Screenshot_led_ohne_kit.png)
 
 ## Programmbeispiel
 [microbit-led.hex](appendix/microbit-led.hex)

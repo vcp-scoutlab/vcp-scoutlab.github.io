@@ -20,7 +20,7 @@ permalink: /micro-bit/led-taster
 
 Mit dem Taster A wird die LED eingeschaltet. Mit dem Taster B wird die LED wieder ausgeschaltet.
 
-![](images/microbit-Screenshot_led_taster_ohne_kit.png)
+![](images/micro-bit-Screenshot_led_taster_ohne_kit.png)
 
 ## Programmbeispiel
 [microbit-led_taster.hex](appendix/microbit-led_taster.hex)

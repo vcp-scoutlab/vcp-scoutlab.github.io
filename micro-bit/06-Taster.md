@@ -21,7 +21,7 @@ Eine Reaktion auf die beiden Tasten wird umgesetzt.
 
 ## Schaltplan
 
-![](images/microbit-Screenshot_tasten.png)
+![](images/micro-bit-Screenshot_tasten.png)
 
 ## Programmbeispiel
 [microbit-tasten.hex](appendix/microbit-tasten.hex)
