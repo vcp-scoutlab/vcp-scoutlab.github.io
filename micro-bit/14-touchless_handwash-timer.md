@@ -34,7 +34,7 @@ Sicher ein Button ist sehr einfach. Aber das bedeutet auch, dass man den micro:b
 
 Eine Lösung könnte ein Winken vor dem Helligkeitssensensor sein. Wir erinnern uns, dass die LED-Matrix auch als Helligkeitssensensor genutzt werden kann.
 
-Die Lösung scheint zu einfach. Nur eine Variable für einen Schwellenwert setzten. Wenn der Helligkeitsmesser unter den Wert fällt, läuft der Zeitmmesser an und zeigt die 30 Sekunden optisch an. Dann kommen noch zwei Herzen. Dann ist die Anzeige leer.
+Die Lösung scheint zu einfach. Nur eine Variable für einen Schwellenwert setzten. Wenn der Helligkeitsmesser unter den Wert fällt, läuft der Zeitmesser an und zeigt die 30 Sekunden optisch an. Dann kommen noch zwei Herzen. Dann ist die Anzeige leer.
 
 #### Problem mit dem Umgebungslicht
 Das Umgebungslicht ändert sich von Raum zu Raum und
