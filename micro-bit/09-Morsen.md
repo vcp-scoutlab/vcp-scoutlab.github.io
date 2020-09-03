@@ -70,12 +70,12 @@ Zahl   | Morse-Code
 
 ### Funktion:
 Damit sich die beiden micro:bit miteinander über Funk unterhalten können, müssen beide micro:bit in der gleichen Gruppe und einer passenden Signalstärke arbeiten. Diese beiden Funktionen legen wir im ersten Schritt an:
-![](images/microbit-Screenshot_morse_start.png)
+![](images/micro-bit-Screenshot_morse_start.png)
 
 In diesem Beispiel verwenden wir den Kanal "1" und eine Übertragungsstärke von "7".
 Der Knopf "A" soll ein kurzes Signal senden, der Knopf "B" steht für ein langes Signal.
 Beginnen wir nun mit dem Knopf "A" und einem kurzen Signal:
-![](images/microbit-Screenshot_morse_ab.png)
+![](images/micro-bit-Screenshot_morse_ab.png)
 
 ### Zum Aufbau:
 
@@ -93,7 +93,7 @@ Machen wir weiter mit dem Knopf "B" und einem langen Signal:
 
 Unser micro:bit muss darauf reagieren, wenn Nachrichten empfangen werden. Dies müssen wir in einem weiteren Schritt festlegen. Danach haben wir auch das Programm komplett abgeschlossen.
 
-![](images/microbit-Screenshot_morse.png)
+![](images/micro-bit-Screenshot_morse.png)
 
 ### Zum Aufbau:
 

@@ -21,7 +21,7 @@ Benutze den Beschleunigungssensor und die LED-Anzeige um ein Schere-Stein-Papier
 
 ## Schaltplan
 
-![Spiel Schere Stein Papier](images/microbit-Screenshot_schere-stein-papier.png)
+![Spiel Schere Stein Papier](images/micro-bit-Screenshot_schere-stein-papier.png)
 
 ### So funktioniert das Programm
 Die zufällig ermittelte Zahl (zwischen 1 und 3) wird  nicht sofort angezeigt, sondern zunächst in der **Variable hand** gespeichert.

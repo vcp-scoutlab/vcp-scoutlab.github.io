@@ -39,7 +39,7 @@ Variablen sind kleine Speicherplätze, in denen man sich während eines Programm
 
 Jetzt zeichnen wir ein wachsendes Diagramm der aktuellen Lichtstärke und geben diese als wachsendes Säulendiagramm aus.
 
-![](images/microbit-Screenshot_lichtstaerke_diagramm.png)
+![](images/micro-bit-Screenshot_lichtstaerke_diagramm.png)
 
 ## Programmbeispiel
 [microbit-lichtstaerke_diagramm.hex](appendix/microbit-lichtstaerke_diagramm.hex)

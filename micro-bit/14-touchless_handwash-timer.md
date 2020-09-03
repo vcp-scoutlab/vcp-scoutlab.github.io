@@ -34,7 +34,7 @@ Sicher ein Button ist sehr einfach. Aber das bedeutet auch, dass man den micro:b
 
 Eine Lösung könnte ein Winken vor dem Helligkeitssensensor sein. Wir erinnern uns, dass die LED-Matrix auch als Helligkeitssensensor genutzt werden kann.
 
-Die Lösung scheint zu einfach. Nur eine Variable für einen Schwellenwert setzten. Wenn der Helligkeitsmesser unter den Wert fällt, läuft der Zeitmmesser an und zeigt die 30 Sekunden optisch an. Dann kommen noch zwei Herzen. Dann ist die Anzeige leer.
+Die Lösung scheint zu einfach. Nur eine Variable für einen Schwellenwert setzten. Wenn der Helligkeitsmesser unter den Wert fällt, läuft der Zeitmesser an und zeigt die 30 Sekunden optisch an. Dann kommen noch zwei Herzen. Dann ist die Anzeige leer.
 
 #### Problem mit dem Umgebungslicht
 Das Umgebungslicht ändert sich von Raum zu Raum und
@@ -49,7 +49,11 @@ Die Lichtverhältnisse sind am Nachmittag oder an einem wolkigen Tag wieder ande
 Das Programmbeispiel berücksichtigt die Veränderung der Lichtstärke. Gleichzeitig wird auch die Batterie geschont, da nur Veränderungen der Lichtstärke berücksichtigt werden.
 <!--Anleitung Ende-->
 
-![](images/microbit-Screenshot_touchless_handwash-timer.png)
+<div class="hidden-print">
+<iframe src="https://player.vimeo.com/video/453672586" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+</div>
+
+![](images/micro-bit-Screenshot_touchless_handwash-timer.png)
 
 ## Programmbeispiel
 [microbit-touchless_handwash-timer.hex](appendix/microbit-touchless_handwash-handwashtimer.hex)
