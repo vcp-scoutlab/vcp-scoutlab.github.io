@@ -4,7 +4,7 @@ title: micro:bit - Sanduhr
 navtitle: Sanduhr
 category: micro:bit
 permalink: /micro-bit/sanduhr
-excerpt: Wir setzten ein einfache Sanduhr mit dem Micro:Bit um.
+excerpt: Wir setzten eine einfache Sanduhr mit dem Micro:Bit um.
 image: /micro-bit/images/Sanduhr_beitragsbild.jpg
 ---
 
