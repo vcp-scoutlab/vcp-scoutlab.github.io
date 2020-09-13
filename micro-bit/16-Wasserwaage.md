@@ -21,7 +21,6 @@ image: /micro-bit/images/Wasserwaage_beitragsbild.jpg
 [https://makecode.microbit.org/](https://makecode.microbit.org/)
 
 ## Funktion:
-![](images/wasserwaage.png)
 
 <!--Anleitung -->
 Du baust mit dem micro:bit eine Wasserwaage.
@@ -29,9 +28,9 @@ Für das Projekt nutzen wir den Beschleunigungssensor des micro:bit.
 Wir messen die X-Achse und die Y-Achse.
 Wenn alles gerade ist, dann zeigt der micro:bit das optisch an.
 
+![](images/wasserwaage.png)
 
-
-![](images/micro-bit-screenshot_wasserwaage.png)
+![](images/micro-bit-Screenshot_wasserwaage.png)
 
 ## Programmbeispiel
 [microbit-wasserwaage.hex](appendix/microbit-wasserwaage.hex)
