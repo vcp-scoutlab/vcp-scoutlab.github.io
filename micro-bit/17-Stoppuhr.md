@@ -31,7 +31,7 @@ Knopf "B" stellt die Stoppuhr zurück.
 [microbit-stoppuhr.hex](appendix/microbit-stoppuhr.hex)
 
 
-### Formatierte Ausgabe in Sekunden und der Rest in Millisekunden
+## Formatierte Ausgabe in Sekunden und der Rest in Millisekunden
 
 Knopf "A" startet die Stoppuhr und hält die Stoppuhr, bei einem weiteren Drücken, an. Knopf "B" stellt die Stoppuhr zurück. Die Ausgabe erfolgt über die LED-Matrix in Sekunden
 und der Rest in Millisekunden. Getrennt wird durch ein "|"
