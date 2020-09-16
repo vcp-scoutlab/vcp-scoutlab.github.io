@@ -38,6 +38,9 @@ VCP Bundesvorstand bestehend aus:
 Registergericht
 Kassel, VR 5169
 
+## Statistische Auswertungen mit Matomo (ehemals PIWIK)
+Auf dieser Website wird die Open-Source-Software Matomo (ehemals PIWIK) auf Grundlage unseres berechtigten Interesses (§6 abs. 8 DSG-EKD) zur statistischen Auswertung der Nutzung eingesetzt. Die durch Matomo gesammelten Daten (u.a. Uhrzeit, abgerufene Seite, benutzter Browser, Suchmaschine, Plugins, gekürzte IP) werden auf dem Server unserer Website verarbeitet. Hierbei sind die mit Matomo erzeugten Auswertungen vollständig anonymisiert und lassen sich nicht zur Identifikation einzelner Personen nutzen. Eine Verknüpfung der durch Matomo gespeicherten Daten mit anderen Datenquellen oder eine Weitergabe an Dritte findet nicht statt.
+
 ## Disqus Kommentarsystem
 Die Disqus-Kommentierungsfunktion wird von der Big Head Labs, Inc., San Francisco/USA als Dienstleistung zur Verfügung gestellt. Disqus ist ein interaktives Kommentarsystem, das es dem Nutzer ermöglicht, mit nur einer Anmeldung auf allen Internetangeboten, die Disqus als Kommentarsystem verwenden, zu kommentieren. Außerdem können sich die Nutzer über bestehende Accounts bei Facebook (über Facebook Connect), Twitter und Google anmelden. Auch die Erstellung von Kommentare ohne Registrierung und Anmeldung (als “Gast”) ist möglich. Nähere Informationen zu Disqus und seinen Funktionen finden Sie unter [www.disqus.com](http://www.disqus.com).
 
