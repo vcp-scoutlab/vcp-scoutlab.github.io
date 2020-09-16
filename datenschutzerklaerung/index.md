@@ -54,9 +54,11 @@ Bei einem Besuch auf der Website scoutlab.de werden durch den verwendeten Browse
 ## Statistische Auswertungen mit Matomo (ehemals PIWIK)
 Auf dieser Website wird die Open-Source-Software Matomo (ehemals PIWIK) auf Grundlage unseres berechtigten Interesses (§6 abs. 8 DSG-EKD) zur statistischen Auswertung der Nutzung eingesetzt. Die durch Matomo gesammelten Daten (u.a. Uhrzeit, abgerufene Seite, benutzter Browser, Suchmaschine, Plugins, gekürzte IP) werden auf dem Server unserer Website verarbeitet. Hierbei sind die mit Matomo erzeugten Auswertungen vollständig anonymisiert und lassen sich nicht zur Identifikation einzelner Personen nutzen. Eine Verknüpfung der durch Matomo gespeicherten Daten mit anderen Datenquellen oder eine Weitergabe an Dritte findet nicht statt.
 
+<html>
 <iframe style="border: 0; height: 200px; width: 600px;"
         src="https://stats.vcp.de/index.php?module=CoreAdminHome&action=optOut&language=de&backgroundColor=&fontColor=&fontSize=&fontFamily=">
         </iframe>
+</html>
 
 ## Cookies
 
