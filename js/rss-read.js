@@ -13,6 +13,7 @@ fetch(RSS_URL)
         html += `
         <div class="col-sm-4 col-md-4">
         <div class="thumbnail">
+          <a href="${el.querySelector("link").innerHTML}"><img  src="${el.querySelector("vcp\\:thumb-image url").innerHTML}" class="vcp-thumb" alt="{{item.title}}"></a>
           <div class="caption">
             <h3>${el.querySelector("title").innerHTML}</h3>
             <p>${el.querySelector("description").innerHTML.replace("<![CDATA[", "").replace("]]>", "")}</p>
