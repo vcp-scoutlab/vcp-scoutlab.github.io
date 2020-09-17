@@ -72,8 +72,8 @@ Sie können Ihren Browser so einstellen, dass Sie über das Setzen von Cookies i
 
 Auf unserer Website binden wir Videos der Plattform Vimeo der Vimo Inc. (Vimeo, Inc. 555 West 18th Street, New York, New York 10011) ein, welche durch das Anklicken des Videos Cookies verwendet. Die Entsprechende Datenschutzerklärung kann unter folgendem Link eingesehen werden: [https://vimeo.com/privacy](https://vimeo.com/privacy)
 
-#### Disqus Kommentarsystem
 Die Disqus-Kommentierungsfunktion wird von der Big Head Labs, Inc., San Francisco/USA als Dienstleistung zur Verfügung gestellt. Disqus ist ein interaktives Kommentarsystem, das es dem Nutzer ermöglicht, mit nur einer Anmeldung auf allen Internetangeboten, die Disqus als Kommentarsystem verwenden, zu kommentieren. Außerdem können sich die Nutzer über bestehende Accounts bei Facebook (über Facebook Connect), Twitter und Google anmelden. Auch die Erstellung von Kommentare ohne Registrierung und Anmeldung (als “Gast”) ist möglich. Nähere Informationen zu Disqus und seinen Funktionen finden Sie unter [www.disqus.com](http://www.disqus.com).
+Die Entsprechende Datenschutzerklärung kann unter folgendem Link eingesehen werden: [https://help.disqus.com/en/articles/1717103-disqus-privacy-policy](https://help.disqus.com/en/articles/1717103-disqus-privacy-policy)
 
 ## Rechte von betroffenen Personen
 
