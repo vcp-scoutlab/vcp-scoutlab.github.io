@@ -30,20 +30,23 @@
 
 <!-- Matomo -->
 <script>
-      var _paq = window._paq || [];
-      _paq.push(["setCookieDomain", "stats.vcp.de"]);
-      _paq.push(["addDownloadExtensions", "hex"]);
-      /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
-      _paq.push(['trackPageView']);
-      _paq.push(['enableLinkTracking']);
-      (function() {
-        var u="https://stats.vcp.de/";
-        _paq.push(['setTrackerUrl', u+'matomo.php']);
-        _paq.push(['setSiteId', '13']);
-        var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-        g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
-      })();
-    </script>
+if (localStorage.getItem('matomoTrackingEnabled') !== 'false') {
+    var _paq = _paq || [];
+    _paq.push(['disableCookies']);
+    _paq.push(["setCookieDomain", "stats.vcp.de"]);
+    _paq.push(["addDownloadExtensions", "hex"]);
+    /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+    _paq.push(['trackPageView']);
+    _paq.push(['enableLinkTracking']);
+    (function() {
+      var u="https://stats.vcp.de/";
+      _paq.push(['setTrackerUrl', u+'matomo.php']);
+      _paq.push(['setSiteId', '13']);
+      var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+      g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+    })();
+  }
+</script>
 <!-- End Matomo Code -->
 
 
@@ -94,7 +97,7 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js" integrity="sha384-aJ21OjlMXNL5UyIl/XNwTMqvzeRMZH2w8c5cRVpzpU8Y5bApTppSuUkhZXN0VxHd" crossorigin="anonymous"></script>
 
     <script src="/js/rss-read.js"></script>
-
+    <script src="/js/matomoTrackingOptOut.min.js"></script>
   </body>
 
 </html>
