@@ -55,10 +55,19 @@ Bei einem Besuch auf der Website scoutlab.de werden durch den verwendeten Browse
 Auf dieser Website wird die Open-Source-Software Matomo (ehemals PIWIK) auf Grundlage unseres berechtigten Interesses (§6 abs. 8 DSG-EKD) zur statistischen Auswertung der Nutzung eingesetzt. Die durch Matomo gesammelten Daten (u.a. Uhrzeit, abgerufene Seite, benutzter Browser, Suchmaschine, Plugins, gekürzte IP) werden auf dem Server unserer Website verarbeitet. Hierbei sind die mit Matomo erzeugten Auswertungen vollständig anonymisiert und lassen sich nicht zur Identifikation einzelner Personen nutzen. Eine Verknüpfung der durch Matomo gespeicherten Daten mit anderen Datenquellen oder eine Weitergabe an Dritte findet nicht statt.
 
 
-<iframe
-        style="border: 0; height: 200px; width: 100%;"
-        src="https://stats.vcp.de/index.php?module=CoreAdminHome&action=optOut&language=de&backgroundColor=&fontColor=&fontSize=17px&fontFamily=Roboto%20Slab%2C%20Arial%2CHelvetica%2C%20sans-serif"
-        ></iframe>
+
+<p class="matomo-optout" lang="de">
+            <span class="js" style="display:none;">
+            <script>if (typeof(Storage) !== 'undefined') {
+            	if (localStorage.getItem('matomoTrackingEnabled') === null) {
+            		localStorage.setItem('matomoTrackingEnabled', 'true');
+            	}
+            }</script>        
+                <input type="checkbox" name="matomo-optout" id="matomo-optout-de" checked>
+                <label for="matomo-optout-de"></label>
+            </span>
+            <span class="nojs">It appears you have deactived JavaScript in your browser. This feature is only available with JavaScript turned on. If you don’t want your data to be collected, you can still turn on <em>Do Not Track</em> in your browser which is a general setting and is being respected by our Matomo installation.</span>
+        </p>
 
 ## Cookies
 
