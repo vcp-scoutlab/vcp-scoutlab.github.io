@@ -38,8 +38,6 @@ VCP Bundesvorstand bestehend aus:
 Registergericht
 Kassel, VR 5169
 
-## Disqus Kommentarsystem
-Die Disqus-Kommentierungsfunktion wird von der Big Head Labs, Inc., San Francisco/USA als Dienstleistung zur Verfügung gestellt. Disqus ist ein interaktives Kommentarsystem, das es dem Nutzer ermöglicht, mit nur einer Anmeldung auf allen Internetangeboten, die Disqus als Kommentarsystem verwenden, zu kommentieren. Außerdem können sich die Nutzer über bestehende Accounts bei Facebook (über Facebook Connect), Twitter und Google anmelden. Auch die Erstellung von Kommentare ohne Registrierung und Anmeldung (als “Gast”) ist möglich. Nähere Informationen zu Disqus und seinen Funktionen finden Sie unter [www.disqus.com](http://www.disqus.com).
 
 ## Internet-Adresse
 [https://scoutlab.de/](https://scoutlab.de/)
