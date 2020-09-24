@@ -22,7 +22,7 @@ Material:
 - Knopfzelle LR44 1,5V
 - Handy-Vibrationsmotor (1,5V, 10 x 2,7mm)
 - 3D-Druck Teil ([STL-Datei](downloads/bot.stl))
-- Dekomaterial (Pompons, Pfeiffenreiniger, Wackelaugen, ...)
+- Dekomaterial (Pompons, Pfeifenreiniger, Wackelaugen, ...)
 
 <div class="alert alert-info"> Das 3-D-Druck-Teil könnt ihr selber ausdrucken oder über den Materialversand bestellen. Man kann es auch weglassen. Dann kann man aber nicht einfach die Batterie tauschen.</div>
 
