@@ -40,8 +40,8 @@ Werkzeug:
 4. Den Motor in den passenden Schlitz stecken.
 5. Kabel abisolieren und nur die blanken Enden links und rechts in die passenden Löcher stecken.
 6. Batterie einsetzen. Dabei den Roboter festhalten, damit er nicht losläuft.
-7. Drähte mit Heißkleber fixieren und Batterie wieder entnehmen. 
-8. Roboter dekorieren. 
+7. Drähte mit Heißkleber fixieren und Batterie wieder entnehmen.
+8. Roboter dekorieren.
 9. Fertig
 
 
@@ -64,7 +64,7 @@ Der Roboter ist jetzt fertig. Um ihn zu starten, einfach die Batterie einlegen. 
 Die kleinen Bristlebots sind nicht kräftig. Alles, was sie benötigen, ist eine glatte Oberfläche. Damit sie nicht vom Tisch fallen, können Begrenzungen und Parcours mit Bauklötzen aufgebaut werden.
 
 - Arena: Eine große Fläche, auf der die Bots durch die Gegend sausen können. Grade bei kleinen Kindern (3-6 Jahre) regt das Verhalten der Bots die Fantasie an und es werden schnell kleine Geschichten rund um das Geschehen entwickelt.
-- Sumo: ein Kreis in der Mitte. Die Bots dürfen den Kreis nicht verlassen und nicht umkippen.
+- Sumo: Ein Kreis in der Mitte. Die Bots dürfen den Kreis nicht verlassen und nicht umkippen.
 - Rennen: Die Bots treten gegeneinander in einem Parcours aus Bauklötzen an. Der Schnellste gewinnt. Dabei gibt es unterschiedliche Varianten. Mit abgetrennten Fahrspuren oder einem gemeinsamen Rundkurs.
 
 ## Weiterführende Informationen
