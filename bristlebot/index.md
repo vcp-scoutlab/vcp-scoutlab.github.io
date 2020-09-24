@@ -2,7 +2,7 @@
 layout: page
 title: Bristlebot
 permalink: /bristlebot
-excerpt: 
+excerpt: Sind kleine sehr einfach konstruierte "Roboter".
 image: /bristlebot/images/bristlebot.jpg
 ---
 
@@ -10,7 +10,7 @@ image: /bristlebot/images/bristlebot.jpg
 ![Bristlebots](images/bristlebots.jpg)
 
 
-[Bristlebot](https://en.wikipedia.org/wiki/Bristlebot) sind kleine sehr einfach konstruierte "Roboter". Sie lassen sich schon in der Wölflingstufe bauen und bieten somit einen ersten zugang zum experientieren mit Technologie. Durch ihren simplen Aufbau und die geringen kosten bieten sie sich auch gut als mitmach Angebot auf Gemeindefesten etc. an.
+[Bristlebot](https://en.wikipedia.org/wiki/Bristlebot) Sind kleine sehr einfach konstruierte "Roboter". Sie lassen sich schon in der Wölflingsstufe bauen und bieten somit einen ersten Zugang zum Experimentieren mit Technologie. Durch ihren simplen Aufbau und die geringen Kosten bieten sie sich auch gut als mitmache Angebot auf Gemeindefesten etc. an.
 
 ## Material & Werkzeug
 
@@ -20,27 +20,27 @@ Material:
 
 - Zahnbürste
 - Knopfzelle LR44 1,5V
-- Handy Vibrations Motor (1,5V, 10 x 2,7mm)
+- Handy-Vibrationsmotor (1,5V, 10 x 2,7mm)
 - 3D-Druck Teil ([STL-Datei](downloads/bot.stl))
-- Deko Material (Pompons, Pfeiffenreiniger, Wackelaugen, ...)
+- Dekomaterial (Pompons, Pfeiffenreiniger, Wackelaugen, ...)
 
-<div class="alert alert-info"> Das 3D-Druck teil könnt ihr selber ausdrucken oder über den Materialversand bestellen. Man kann es auch weglassen. Dann kann man aber nicht einfach die Batterie tauschen.</div>
+<div class="alert alert-info"> Das 3-D-Druck-Teil könnt ihr selber ausdrucken oder über den Materialversand bestellen. Man kann es auch weglassen. Dann kann man aber nicht einfach die Batterie tauschen.</div>
 
 Werkzeug:
 
 - Metallsäge
-- Heisskleber
+- Heißkleber
 - Schere oder Zange
 
 ## Aufbau
 
 1. Zahnbürstenkopf absägen. Der Stiel kann weggeschmissen werden.
-2. Eine kleine Menge heisskleber auf den Zahnbürstenkopf geben.
-3. Das Plastikteil aus dem 3D-Drucke aufkleben.
+2. Eine kleine Menge Heißkleber auf den Zahnbürstenkopf geben.
+3. Das Plastikteil aus dem 3-D-Druck aufkleben.
 4. Den Motor in den passenden Schlitz stecken.
-5. Kabel abisolieren und nur die blanken enden links und rehts in die passenden Löcher stecken.
-6. Batterie einsetzen. Dabei den Roboter festhalten, damit er nicht los läuft.
-7. Drähte mit heisskleber fixieren und Batterie wieder entnehmen. 
+5. Kabel abisolieren und nur die blanken Enden links und rechts in die passenden Löcher stecken.
+6. Batterie einsetzen. Dabei den Roboter festhalten, damit er nicht losläuft.
+7. Drähte mit Heißkleber fixieren und Batterie wieder entnehmen. 
 8. Roboter dekorieren. 
 9. Fertig
 
@@ -55,17 +55,17 @@ Werkzeug:
 <img src="images/aufbau_8.jpg" alt="Roboter dekorieren." width="300px" height="300px" />
 <img src="images/aufbau_9.jpg" alt="Der Roboter ist fertig." width="300px" height="300px" />
 
-Der Roboter ist jetzt fertig. Um ihn zu starten, einfach die Batterie einlegen. Damit der Roboter gradeaus fährt, die Borsten der Zahnbürste zum Beispiel auf die Tischplatte in Fahrtrichtung drücken. Wenn der Roboter nur kreise fährt kann es  hilfreich sein, dass gewicht etwas auszugleichen.
+Der Roboter ist jetzt fertig. Um ihn zu starten, einfach die Batterie einlegen. Damit der Roboter geradeaus fährt, die Borsten der Zahnbürste zum Beispiel auf die Tischplatte in Fahrtrichtung drücken. Wenn der Roboter nur Kreise fährt, kann es hilfreich sein, dass Gewicht etwas auszugleichen.
 
 ## Spielideen
 
 ![Arena](images/arena.jpg)
 
-Die kleinen Bristlebots sind nicht kräftig. Alles was sie benötigen is eine glatte oberfläche. Damit sie nicht vom Tisch fallen können Begrenzungen und Parcours mit Bauklötzen aufgebaut werden.
+Die kleinen Bristlebots sind nicht kräftig. Alles, was sie benötigen, ist eine glatte Oberfläche. Damit sie nicht vom Tisch fallen, können Begrenzungen und Parcours mit Bauklötzen aufgebaut werden.
 
-- Arena: Eine grosse Fläche auf der die Bots durch die gegensausen können. Grade bei kleinen Kindern (3-6 Jahre) regt das verhalten der Bots die Phantasie an und es werden schnell kleine Geschichten rund um das geschehen entwickelt.
-- Sumo: Ein kreis in der mitte. Die Bots dürfen den Kreis nicht verlassen und nicht umkippen.
-- Rennen: Die Bots treten gegeneinander in einem Parcours aus Bauklötzen an. Der schnellste gewinnt. Dabei gibt es unterschiedliche varianten. Mit abgetrenten Fahrspuren oder einem gemeinsamen Rundkurs.
+- Arena: Eine große Fläche, auf der die Bots durch die Gegend sausen können. Grade bei kleinen Kindern (3-6 Jahre) regt das Verhalten der Bots die Fantasie an und es werden schnell kleine Geschichten rund um das Geschehen entwickelt.
+- Sumo: ein Kreis in der Mitte. Die Bots dürfen den Kreis nicht verlassen und nicht umkippen.
+- Rennen: Die Bots treten gegeneinander in einem Parcours aus Bauklötzen an. Der Schnellste gewinnt. Dabei gibt es unterschiedliche Varianten. Mit abgetrennten Fahrspuren oder einem gemeinsamen Rundkurs.
 
 ## Weiterführende Informationen
 
