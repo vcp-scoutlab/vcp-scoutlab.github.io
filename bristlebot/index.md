@@ -44,24 +44,23 @@ Werkzeug:
 8. Roboter dekorieren.
 9. Fertig
 
+![Zahnbürstenkopf absägen](images/aufbau_1.jpg)
 
-<img src="images/aufbau_1.jpg" alt="Zahnbürstenkopf absägen" width="300px" height="300px" />
+![Heisskleber auftragen.](images/aufbau_2.jpg)
 
-<img src="images/aufbau_2.jpg" alt="Heisskleber auftragen." width="300px" height="300px" />
+![3D-Druck Teil aufkleben.](images/aufbau_3.jpg)
 
-<img src="images/aufbau_3.jpg" alt="3D-Druck Teil aufkleben." width="300px" height="300px" />
+![Motor befestigen](images/aufbau_4.jpg)
 
-<img src="images/aufbau_4.jpg" alt="Motor befestigen" width="300px" height="300px" />
+![Drähte befestigen.](images/aufbau_5.jpg)
 
-<img src="images/aufbau_5.jpg" alt="Drähte befestigen." width="300px" height="300px" />
+![Batterie einsetzen](images/aufbau_6.jpg)
 
-<img src="images/aufbau_6.jpg" alt="Batterie einsetzen" width="300px" height="300px" />
+![Drähte mit Heisskleber fixieren.](images/aufbau_7.jpg)
 
-<img src="images/aufbau_7.jpg" alt="Drähte mit Heisskleber fixieren" width="300px" height="300px" />
+![Roboter dekorieren.](images/aufbau_8.jpg)
 
-<img src="images/aufbau_8.jpg" alt="Roboter dekorieren." width="300px" height="300px" />
-
-<img src="images/aufbau_9.jpg" alt="Der Roboter ist fertig." width="300px" height="300px" />
+![Der Roboter ist fertig.](images/aufbau_9.jpg)
 
 Der Roboter ist jetzt fertig. Um ihn zu starten, einfach die Batterie einlegen. Damit der Roboter geradeaus fährt, die Borsten der Zahnbürste zum Beispiel auf die Tischplatte in Fahrtrichtung drücken. Wenn der Roboter nur Kreise fährt, kann es hilfreich sein, dass Gewicht etwas auszugleichen.
 
