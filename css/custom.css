@@ -152,3 +152,8 @@ img.vcp-thumb {
 .footer p:last-child {
   margin-bottom: 0;
 }
+
+.thumbnail {
+min-height: 550px;
+height: auto;
+}
