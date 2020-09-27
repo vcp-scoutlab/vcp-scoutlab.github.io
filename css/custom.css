@@ -116,7 +116,9 @@ iframe {
 }
 
 .vcp-jumbotron {
-  margin-top: 50px;
+margin-top: 50px;
+margin-left: 1em;
+margin-right: 1em;
 }
 
 .navbar-brand {
