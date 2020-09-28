@@ -116,7 +116,9 @@ iframe {
 }
 
 .vcp-jumbotron {
-  margin-top: 50px;
+margin-top: 50px;
+margin-left: 1em;
+margin-right: 1em;
 }
 
 .navbar-brand {
@@ -149,4 +151,9 @@ img.vcp-thumb {
 }
 .footer p:last-child {
   margin-bottom: 0;
+}
+
+.thumbnail {
+min-height: 550px;
+height: auto;
 }

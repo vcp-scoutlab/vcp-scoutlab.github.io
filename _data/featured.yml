@@ -10,17 +10,17 @@
   link_title_1: "Raspberry"
   link_2: /arduino-scoutlab-session-kit-1/
   link_title_2: "Arduino"
-  description: "Erste Schritte mit dem Scoutlab session kit."
+  description: 'Erste Schritte mit dem Scoutlab Session Kit.   <p><b>Zielgruppe:</b> ab Pfadfinderinnen- und Pfadfinderstufe</p> <p><b>Rasperry Pi oder Arduino müssen in der Gruppe vorhanden sein.</b></p> '
   thumbnail: /scoutlab-session-kit-1/images/teaser.png
 
 - title: "micro:bit"
   link_1: /micro-bit/
   link_title_1: "micro:bit"
-  description: 'Erste Schritte mit dem micro:bit.'
+  description: 'Erste Schritte mit dem micro:bit. Der micro:bit ist eine Experimentierplatine, die sich sehr einfach programmieren lässt. Sie wurde ursprünglich für den Schulunterricht entwickelt, lässt sich aber auch für viele andere Experimente und Spiele einsetzen.'
   thumbnail: /micro-bit/images/micro-bit-front.png
 
 - title: "Bristlebot"
   link_1: /bristlebot
   link_title_1: "Bristlebot"
-  description: 'Wie baue ich einen Bristlebot.'
+  description: 'Wie baue ich einen Bristlebot? Bristlebot sind kleine sehr einfach konstruierte “Roboter”. Sie lassen sich schon in der Wölflingsstufe bauen und bieten somit einen ersten Zugang zum Experimentieren mit Technologie. Durch ihren simplen Aufbau und die geringen Kosten bieten sie sich auch gut als mitmache Angebot auf Gemeindefesten etc. an.'
   thumbnail: /bristlebot/images/bristlebot.jpg
