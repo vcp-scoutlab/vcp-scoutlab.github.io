@@ -2,7 +2,7 @@
 layout: page
 title: Bristlebot
 permalink: /bristlebot
-excerpt: Sind kleine sehr einfach konstruierte "Roboter".
+excerpt: Sind kleine sehr einfach konstruierte &#8243;Roboter&#8243;.
 image: /bristlebot/images/bristlebot.jpg
 ---
 
