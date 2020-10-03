@@ -2,8 +2,9 @@
 layout: page
 title: Roboter bauen
 permalink: /roboter
-excerpt: 
-image: /bristlebot/images/robot.jpg
+excerpt:
+image: \gruppenstunde\images\20171012_114031_roboter.jpg
+
 ---
 
 # Roboter bauen
