@@ -9,7 +9,8 @@ image: /gruppenstunde/images/robo-fin.jpg
 
 # Roboter bauen
 
-Das Thema "Roboter bauen" ist ein sehr spannendes, weil man je nach Altersgruppe das Thema stark variieren kann. Mit Wölflingen reichen ein paar LEDs und aus einer kleinen Bastelei wird ein echter Roboter. In der Pfadfistufe können die ersten Funktionen realisiert werden und den Rovern sind so gut wie keine Grenzen gesetzt.
+Das Thema "Roboter bauen" ist ein sehr spannendes, weil man je nach Altersgruppe das Thema stark variieren kann. In der Kinder- oder Wölflingsstufe reichen ein paar LEDs und aus einer kleinen Bastelei wird ein echter Roboter. In der Pfadfinder*innenstufe
+können die ersten Funktionen realisiert werden und in der Ranger- und Roverstufe sind so gut wie keine Grenzen gesetzt.
 
 Je nach alter der Gruppe ist dies die erste Gruppenstunde in einer Reihe. Die erste Gruppenstunde soll in das Thema einführen und erste Grundlagen legen. In den folgenden Gruppenstunden kann hierauf dann aufgebaut werden.
 
@@ -50,7 +51,7 @@ Je nach alter der Gruppe ist dies die erste Gruppenstunde in einer Reihe. Die er
             </td>
             <td>Flipchart/Moderationskoffer/Tafel</td>
         </tr>
-        <tr> 
+        <tr>
             <td><img src="/gruppenstunde/images/robo-raw.jpg" alt="Papp Roboter" class="img-rounded img-responsive"/></td>
             <td>40 min</td>
             <td>Bau deinen Roboter aus Klopapierrollen/Altpapier. Je kreativer, desto besser! Überlegt euch aber jetzt schon, wie ihr die geplanten Funktionen realisieren könnt.</td>
@@ -74,13 +75,13 @@ Je nach alter der Gruppe ist dies die erste Gruppenstunde in einer Reihe. Die er
         <p>In den nächsten Gruppentunden kann der Roboter weiterentwickelt werden. Je nach alter der Gruppe bestehen unterschiedliche Möglichkeiten.</p>
         <ul>
             <li>
-                <b>Wölflinge:</b> Der Roboter kann mit einfach LED's zum leuchten gebracht werden. Dafür reicht auch eine einfache LED Lichterkette.
+                <b>Kinder- oder Wölflingsstufe:</b> Der Roboter kann mit einfach LED's zum leuchten gebracht werden. Dafür reicht auch eine einfache LED Lichterkette.
             </li>
             <li>
-                <b>Pfadis / Jufis:</b> Ab 10 Jahre können die Kinder ihren Roboter schon mit eigener Logik und Funktionen erweitern. Am besten eignet sich hier der micro:bit. Den könnt ihr übrigens auch [über den VCP ausleihen.](/material). Materiel für die nächste Gruppenstundet findet ihr in der [micro:bit Rubrik.](/micro-bit)
+                <b>Jungpfadfinder*innen und Pfadfinder*innen:</b> Ab 10 Jahre können die Kinder ihren Roboter schon mit eigener Logik und Funktionen erweitern. Am besten eignet sich hier der micro:bit. Den könnt ihr übrigens auch [über den VCP ausleihen.](/material). Material für die nächste Gruppenstundet findet ihr in der [micro:bit Rubrik.](/micro-bit)
             </li>
             <li>
-                <b>Ranger/Rover:</b> Ältere können jetzt anfangen schritt für schritt alle funktionen ihres Roboters zu realisieren. Zum sprechen kann der Roboter zum Beispiel einen Spach Assistenten (zum Beispiel Amazon Echo oder Mycroft.ai) verwenden. Als Aktoren bieten sich Modellbau Servos oder kleine Motoren an. Der Kreativität sind keine Grenzen gesetzt und die Ranger/Rover sind alt genug, dass sie selber Lösungen für die meisten Probleme finden.
+                <b>Ranger- und Roverstufe:</b> Ältere können jetzt anfangen schritt für schritt alle funktionen ihres Roboters zu realisieren. Zum sprechen kann der Roboter zum Beispiel einen Spach Assistenten (zum Beispiel Amazon Echo oder Mycroft.ai) verwenden. Als Aktoren bieten sich Modellbau Servos oder kleine Motoren an. Der Kreativität sind keine Grenzen gesetzt und die Ranger/Rover sind alt genug, dass sie selber Lösungen für die meisten Probleme finden.
             </li>
         </ul>
         <p>Wenn die Roboter fertig sind, schickt uns eure Ergebnisse. Macht ein Foto oder ein Video. Wir freuen uns auf eure Rückmeldungen!</p>
@@ -89,4 +90,3 @@ Je nach alter der Gruppe ist dies die erste Gruppenstunde in einer Reihe. Die er
         <img src="/gruppenstunde/images/robo-fin.jpg" alt="Papp Roboter mit LED's und Buttons" class="img-rounded img-responsive"/>
     </div>
 </div>
-
