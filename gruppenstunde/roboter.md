@@ -78,10 +78,10 @@ Je nach alter der Gruppe ist dies die erste Gruppenstunde in einer Reihe. Die er
                 <b>Kinder- oder Wölflingsstufe:</b> Der Roboter kann mit einfach LED's zum leuchten gebracht werden. Dafür reicht auch eine einfache LED Lichterkette.
             </li>
             <li>
-                <b>Jungpfadfinder*innen und Pfadfinder*innen:</b> Ab 10 Jahre können die Kinder ihren Roboter schon mit eigener Logik und Funktionen erweitern. Am besten eignet sich hier der micro:bit. Den könnt ihr übrigens auch [über den VCP ausleihen.](/material). Material für die nächste Gruppenstundet findet ihr in der [micro:bit Rubrik.](/micro-bit)
+                <b>Jungpfadfinder*innen und Pfadfinder*innen:</b> Ab 10 Jahre können die Kinder ihren Roboter schon mit eigener Logik und Funktionen erweitern. Am besten eignet sich hier der micro:bit. Den könnt ihr übrigens auch <a href="/material">über den VCP ausleihen.</a>. Material für die nächste Gruppenstunden findet ihr in <a href="/micro-bit/">micro:bit Rubrik.</a>
             </li>
             <li>
-                <b>Ranger- und Roverstufe:</b> Ältere können jetzt anfangen schritt für schritt alle funktionen ihres Roboters zu realisieren. Zum sprechen kann der Roboter zum Beispiel einen Spach Assistenten (zum Beispiel Amazon Echo oder Mycroft.ai) verwenden. Als Aktoren bieten sich Modellbau Servos oder kleine Motoren an. Der Kreativität sind keine Grenzen gesetzt und die Ranger/Rover sind alt genug, dass sie selber Lösungen für die meisten Probleme finden.
+                <b>Ranger- und Roverstufe:</b> Ältere können jetzt anfangen schritt für schritt alle Funktionen ihres Roboters zu realisieren. Zum sprechen kann der Roboter zum Beispiel einen Sprach Assistenten (zum Beispiel Amazon Echo oder Mycroft.ai) verwenden. Als Aktoren bieten sich Modellbau Servos oder kleine Motoren an. Der Kreativität sind keine Grenzen gesetzt und die Ranger/Rover sind alt genug, dass sie selber Lösungen für die meisten Probleme finden.
             </li>
         </ul>
         <p>Wenn die Roboter fertig sind, schickt uns eure Ergebnisse. Macht ein Foto oder ein Video. Wir freuen uns auf eure Rückmeldungen!</p>
