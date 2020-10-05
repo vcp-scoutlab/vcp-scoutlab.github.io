@@ -72,16 +72,16 @@ Je nach alter der Gruppe ist dies die erste Gruppenstunde in einer Reihe. Die er
 
 <div class="row">
     <div class="col-md-9">
-        <p>In den nächsten Gruppentunden kann der Roboter weiterentwickelt werden. Je nach alter der Gruppe bestehen unterschiedliche Möglichkeiten.</p>
+        <p>In den nächsten Gruppenstunden kann der Roboter weiterentwickelt werden. Je nach Alter der Gruppe bestehen unterschiedliche Möglichkeiten.</p>
         <ul>
             <li>
-                <b>Kinder- oder Wölflingsstufe:</b> Der Roboter kann mit einfach LED's zum leuchten gebracht werden. Dafür reicht auch eine einfache LED Lichterkette.
+                <b>Kinder- oder Wölflingsstufe:</b> Der Roboter kann mit einfach LED's zum Leuchten gebracht werden. Dafür reicht auch eine einfache LED-Lichterkette.
             </li>
             <li>
                 <b>Jungpfadfinder*innen und Pfadfinder*innen:</b> Ab 10 Jahre können die Kinder ihren Roboter schon mit eigener Logik und Funktionen erweitern. Am besten eignet sich hier der micro:bit. Den könnt ihr übrigens auch <a href="/material">über den VCP ausleihen.</a>. Material für die nächste Gruppenstunden findet ihr in <a href="/micro-bit/">micro:bit Rubrik.</a>
             </li>
             <li>
-                <b>Ranger- und Roverstufe:</b> Ältere können jetzt anfangen Schritt für Schritt alle Funktionen ihres Roboters zu realisieren. Zum sprechen kann der Roboter zum Beispiel einen Sprach Assistenten (zum Beispiel (zum Beispiel <a href="https://developer.amazon.com/login.html" target="_blank">Amazon Echo</a> oder <a href="https://mycroft.ai/" target="_blank">Mycroft.ai</a>)) verwenden. Als Aktoren bieten sich Modellbau Servos oder kleine Motoren an. Der Kreativität sind keine Grenzen gesetzt und die Ranger/Rover sind alt genug, dass sie selber Lösungen für die meisten Probleme finden.
+                <b>Ranger- und Roverstufe:</b> Ältere können jetzt anfangen Schritt für Schritt alle Funktionen ihres Roboters zu realisieren. Zum Sprechen kann der Roboter zum Beispiel einen Sprach-Assistenten (zum Beispiel (zum Beispiel <a href="https://developer.amazon.com/login.html" target="_blank">Amazon Echo</a> oder <a href="https://mycroft.ai/" target="_blank">Mycroft.ai</a>)) verwenden. Als Aktoren bieten sich Modellbau-Servos oder kleine Motoren an. Der Kreativität sind keine Grenzen gesetzt und die Ranger/Rover sind alt genug, dass sie selber Lösungen für die meisten Probleme finden.
             </li>
         </ul>
         <p>Wenn die Roboter fertig sind, schickt uns eure Ergebnisse. Macht ein Foto oder ein Video. Wir freuen uns auf eure Rückmeldungen!</p>
