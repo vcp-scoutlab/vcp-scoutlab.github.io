@@ -5,13 +5,19 @@
   description: "Im Rahmen des 3D Druck Workshops sollen die Teilnehmer*innen an Grundlagen das 3D Druckens herangeführt werden. Am Beispiel eines Halstuch Rings werden sie erste 3D Objekte am Computer erstellen und am Ende mit dem 3D Drucker ausdrucken."
   thumbnail: /3d-druck/images/ring.jpg
 
-- title: "Scoutlab Session Kit"
-  link_1: /scoutlab-session-kit-1/
-  link_title_1: "Raspberry"
-  link_2: /arduino-scoutlab-session-kit-1/
-  link_title_2: "Arduino"
-  description: 'Erste Schritte mit dem Scoutlab Session Kit.   <p><b>Zielgruppe:</b> ab Pfadfinderinnen- und Pfadfinderstufe</p> <p><b>Rasperry Pi oder Arduino müssen in der Gruppe vorhanden sein.</b></p> '
-  thumbnail: /scoutlab-session-kit-1/images/teaser.png
+- title: "Roboter bauen"
+  link_1: /gruppenstunde/roboter
+  link_title_1: "Robter bauen"
+  description: "Kinder lieben Roboter. Sie blinken, sie bewegen sich und meisten freundlich. In der Gruppenstunde bietet das Thema Roboter die Möglichkeit unterschiedliche Themen zu kombinieren. Basteln, Elektronik, Programmieren um nur eineig zu nennen.s"
+  thumbnail: /gruppenstunde/images/robo-fin.jpg
+
+# - title: "Scoutlab Session Kit"
+#   link_1: /scoutlab-session-kit-1/
+#   link_title_1: "Raspberry"
+#   link_2: /arduino-scoutlab-session-kit-1/
+#   link_title_2: "Arduino"
+#   description: 'Erste Schritte mit dem Scoutlab Session Kit.   <p><b>Zielgruppe:</b> ab Pfadfinderinnen- und Pfadfinderstufe</p> <p><b>Rasperry Pi oder Arduino müssen in der Gruppe vorhanden sein.</b></p> '
+#   thumbnail: /scoutlab-session-kit-1/images/teaser.png
 
 - title: "micro:bit"
   link_1: /micro-bit/
