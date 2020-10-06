@@ -15,8 +15,8 @@ können die ersten Funktionen realisiert werden und in der Ranger- und Roverstuf
 Je nach alter der Gruppe ist dies die erste Gruppenstunde in einer Reihe. Die erste Gruppenstunde soll in das Thema einführen und erste Grundlagen legen. In den folgenden Gruppenstunden kann hierauf dann aufgebaut werden.
 
 ## Ablauf
-
-<table class="table table-striped table-hover">
+<div class="row">
+<table class="table table-striped table-hover" style="width:100%">
     <thead>
         <tr>
             <th>Zeit</th>
@@ -65,7 +65,7 @@ Je nach alter der Gruppe ist dies die erste Gruppenstunde in einer Reihe. Die er
         </tr>
     </tbody>
 </table>
-
+</div>
 
 ## Nächste Schritte
 
