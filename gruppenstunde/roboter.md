@@ -2,7 +2,7 @@
 layout: page
 title: Roboter bauen
 permalink: /gruppenstunde/roboter
-excerpt:
+excerpt: Das Thema &#8243;Roboter bauen&#8243; ist ein sehr spannendes, weil man je nach Altersgruppe das Thema stark variieren kann. In der Kinder- oder Wölflingsstufe reichen ein paar LEDs und aus einer kleinen Bastelei wird ein echter Roboter. In der Pfadfinder*innenstufe können die ersten Funktionen realisiert werden und in der Ranger- und Roverstufe sind so gut wie keine Grenzen gesetzt.
 image: /gruppenstunde/images/robo-fin.jpg
 
 ---
