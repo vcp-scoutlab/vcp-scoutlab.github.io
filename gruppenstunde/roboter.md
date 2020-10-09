@@ -16,7 +16,7 @@ Je nach alter der Gruppe ist dies die erste Gruppenstunde in einer Reihe. Die er
 
 ## Ablauf
 
-<table class="table table-striped table-hover">
+<table class="table-responsive table-striped table-hover">
     <thead>
         <tr>
             <th>Zeit</th>
