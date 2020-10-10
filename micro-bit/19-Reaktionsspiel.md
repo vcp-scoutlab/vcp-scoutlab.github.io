@@ -24,15 +24,15 @@ image: /micro-bit/images/micro-bit_knete_spiel_Steckplatine.png
 Das Reaktionspiel jede\*r Spieler\*in hat einen Knetekontakt für den Sensor. Dazu gibt es für jeden einen Massekontakt, den entweder beide in der einen Hand
 halten oder sie legen ihn auf eine leitfähige Oberfläche, zum Beispiel eine Metallplatte, die beide Spieler\*in berühren können.
 
-Am besten halten beide Spieler\*innen den Massekontakt immer in der Hand und berühren dann mit der anderen Hand im richtigen Moment den Sensorkontakt. Dabei müssen Sie darauf achten, die Sensorkontakte, wenn Sie sie nicht berühren, auf einer nicht leitfähigen Oberfläche abzulegen, damit sie keine Verbindung zum Massekontakt haben.
+Am besten halten beide Spieler\*innen den Massekontakt immer in der Hand und berühren dann mit der anderen Hand im richtigen Moment den Sensorkontakt. Dabei müssen Sie darauf achten, die Sensorkontakte, wenn sie nicht berühren, auf einer nicht leitfähigen Oberfläche abzulegen, damit sie keine Verbindung zum Massekontakt haben.
 
 ### Spielregeln
 
 - Am Anfang blinken zufällig Symbole
-- Wenn das Herz erscheint, müssen die Spieler schnell ihren Kontakt berühren. Wer seinen Kontakt zuerst berührt, bekommt einen Punkt
-- Berührt ein\*e Spieler\*in den Kontakt zu früh, bekommt die\*der Gegner*in den Punkt In jeder Runde wird nur ein Punkt vergeben
+- Wenn das Herz erscheint, müssen die Spieler schnell ihren Kontakt berühren. Wer seinen Kontakt zuerst berührt, bekommt einen Punkt.
+- Berührt ein\*e Spieler\*in den Kontakt zu früh, bekommt die\*der Gegner\*in den Punkt. In jeder Runde wird nur ein Punkt vergeben
 - Hat ein\*e Spieler\*in fünf Punkte, ist das Spiel zu Ende
- Die LEDs zeigen am Ende die Punkte an
+ Die LEDs zeigen am Ende die Punkte an.
 
 #### Das Programm
 Die Variablen im Spiel:
