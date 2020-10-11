@@ -59,6 +59,7 @@ w√§hrend ... mache ...-Schleife besteht aus einem Block ... und ... und zwei Bl√
 <iframe src="https://player.vimeo.com/video/467067202" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
 
+![](images/20201011_123854_reaktionsspiel.jpg)
 
 ## Programmbeispiel
 [microbit-reaktionsspiel.hex](appendix/microbit-reaktionsspiel.hex)
