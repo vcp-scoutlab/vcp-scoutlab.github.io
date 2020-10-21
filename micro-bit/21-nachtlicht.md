@@ -1,6 +1,6 @@
 ---
 layout: multipage
-title: micro:bit - schlagendes Herz
+title: micro:bit - Nachtlicht
 navtitle: <img src="images/pumpkin.png">&nbsp;Nachtlicht
 category: micro:bit
 permalink: /micro-bit/nachtlicht
