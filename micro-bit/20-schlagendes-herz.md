@@ -22,6 +22,8 @@ excerpt: Ein schlagendes Herz mit dem Micro:Bit.
 
 ![](images/microbit-Screenshot_schlagendes-herz.png)
 
+![](images/schlagendes-herz.gif)
+
 
 ## Programmbeispiel
 [microbit-schlagendes-herz.hex](appendix/microbit-schlagendes-herz.hex)
