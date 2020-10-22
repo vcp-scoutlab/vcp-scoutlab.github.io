@@ -5,7 +5,7 @@ navtitle: <img src="images/pumpkin.png">&nbsp;Nachtlicht
 category: micro:bit
 permalink: /micro-bit/nachtlicht
 excerpt: Ein Nachlicht mit dem Micro:Bit.
-image: /micro-bit/images/20201022_213908.jpg
+image: /micro-bit/images/Nachtlicht-Beitragsbild.jpg
 ---
 
 # Nachtlicht
@@ -22,7 +22,7 @@ image: /micro-bit/images/20201022_213908.jpg
 
 ![](images/microbit-Screenshot-nachtlicht.png)
 
-![](images/20201022_213908.jpg)
+![](images/Nachtlicht-Beitragsbild.jpg)
 
 
 ## Programmbeispiel
