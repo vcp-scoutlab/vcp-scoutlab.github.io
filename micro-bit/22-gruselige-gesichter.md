@@ -10,6 +10,8 @@ excerpt: Gruselige Gesichter mit dem Micro:Bit.
 
 # Gruselige Gesichter
 
+Die kannst mithilfe der integrierten Symbole des micro:bit ein gruseliges Gesicht oder Bilder hinzufügen.
+
 ## Material:
 
 + mirco:bit

@@ -10,6 +10,8 @@ excerpt: Ein schlagendes Herz mit dem Micro:Bit.
 
 # Schlagendes Herz
 
+Die kannst mithilfe der integrierten Symbole des micro:bit passende Grafiken hinzufügen.
+
 ## Material:
 
 + mirco:bit
