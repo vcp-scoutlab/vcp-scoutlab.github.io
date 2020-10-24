@@ -22,6 +22,10 @@ excerpt: Gruselige Gesichter mit dem Micro:Bit.
 
 ![](images/microbit-Screenshot-gruselige-gesichter.png)
 
+<div class="hidden-print">
+<iframe src="https://player.vimeo.com/video/471694496" width="640" height="1138" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+</div>
+
 
 ## Programmbeispiel
 [microbit-gruselige-gesichter.hex](appendix/microbit-gruselige-gesichter.hex)

@@ -22,6 +22,10 @@ excerpt: animierte Tiere mit dem Micro:Bit.
 
 ![](images/microbit-Screenshot-animated-animals.png)
 
+<div class="hidden-print">
+<iframe src="https://player.vimeo.com/video/471694646" width="640" height="1138" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+</div>
+
 
 ## Programmbeispiel
 [microbit-animated-animals.hex](appendix/microbit-animated-animals.hex)
