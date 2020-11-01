@@ -5,12 +5,12 @@ navtitle: <img src="images/firtree.png">&nbsp;Weihnachtbaum
 category: micro:bit
 permalink: /micro-bit/weihnachtsbaum
 excerpt: Wir setzten eine einfachen Weihnachtbaum mit dem Micro:Bit um.
-image: #/micro-bit/images/adventskranz_beitragsbild.jpg
+image: /micro-bit/images/firtree_beitragsbild.jpg
 ---
 
 # Weihnachtbaum
 
-<!-- ![](images/adventskranz_beitragsbild.jpg) -->
+![](images/firtree_beitragsbild.jpg)
 
 ## Material:
 
