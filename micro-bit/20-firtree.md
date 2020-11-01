@@ -3,7 +3,7 @@ layout: multipage
 title: micro:bit - Weihnachtbaum
 navtitle: <img src="images/firtree.png">&nbsp;Weihnachtbaum
 category: micro:bit
-permalink: /micro-bit/weihnachtsbau
+permalink: /micro-bit/weihnachtsbaum
 excerpt: Wir setzten eine einfachen Weihnachtbaum mit dem Micro:Bit um.
 image: #/micro-bit/images/adventskranz_beitragsbild.jpg
 ---
