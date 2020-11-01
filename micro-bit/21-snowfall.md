@@ -25,7 +25,11 @@ image: /micro-bit/images/schneefall_beitragsbild.jpg
 Für dieses Projekt gibt es zwei Lösungen.
 Die erste ist eine sehr einfache Animation einer Schneeflocke.
 
+### Lösung 1
+
 ![](images/microbit-Screenshot-snowfall1.png)
+
+### Lösung 2
 
 Die zweite Lösung ist schon aufwändiger und animiert den Schneefall über die gesamte LED-Matrix.
 
