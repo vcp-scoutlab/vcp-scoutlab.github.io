@@ -1,7 +1,7 @@
 ---
 layout: multipage
 title: micro:bit - Gruselige Gesichter
-navtitle: <img src="images/pumpkin.png">&nbsp;gruselige Gesichter
+navtitle: <img src="/micro-bit/images/pumpkin.png">&nbsp;gruselige Gesichter
 category: micro:bit
 permalink: /micro-bit/gruselige-gesichter
 excerpt: Gruselige Gesichter mit dem Micro:Bit.

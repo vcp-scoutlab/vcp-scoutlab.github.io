@@ -1,7 +1,7 @@
 ---
 layout: multipage
 title: micro:bit - schlagendes Herz
-navtitle: <img src="images/pumpkin.png">&nbsp;schlagendes Herz
+navtitle: <img src="/micro-bit/images/pumpkin.png">&nbsp;schlagendes Herz
 category: micro:bit
 permalink: /micro-bit/schlagendes-herz
 excerpt: Ein schlagendes Herz mit dem Micro:Bit.

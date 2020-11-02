@@ -1,7 +1,7 @@
 ---
 layout: multipage
 title: micro:bit - Nachtlicht
-navtitle: <img src="images/pumpkin.png">&nbsp;Nachtlicht
+navtitle: <img src="/micro-bit/images/pumpkin.png">&nbsp;Nachtlicht
 category: micro:bit
 permalink: /micro-bit/nachtlicht
 excerpt: Ein Nachlicht mit dem Micro:Bit.

@@ -1,7 +1,7 @@
 ---
 layout: multipage
 title: micro:bit - Kürbis
-navtitle: <img src="images/pumpkin.png">&nbsp; Kürbis basteln
+navtitle: <img src="/micro-bit/images/pumpkin.png">&nbsp; Kürbis basteln
 category: micro:bit
 permalink: /micro-bit/pumpkin
 excerpt: Kürbis mit einem Micro:Bit beleuchten.

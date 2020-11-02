@@ -1,7 +1,7 @@
 ---
 layout: multipage
 title: micro:bit - animierte Tiere
-navtitle: <img src="images/pumpkin.png">&nbsp; animierte Tiere
+navtitle: <img src="/micro-bit/images/pumpkin.png">&nbsp; animierte Tiere
 category: micro:bit
 permalink: /micro-bit/animated-animals
 excerpt: animierte Tiere mit dem Micro:Bit.

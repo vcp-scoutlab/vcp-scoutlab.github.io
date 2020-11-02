@@ -1,7 +1,7 @@
 ---
 layout: multipage
 title: micro:bit - Schneefall
-navtitle: <img src="images/firtree.png">&nbsp;Schneefall
+navtitle: <img src="/micro-bit/images/firtree.png">&nbsp;Schneefall
 category: micro:bit
 permalink: /micro-bit/schneefall
 excerpt: Wir setzten einen Schneefall mit dem Micro:Bit um.

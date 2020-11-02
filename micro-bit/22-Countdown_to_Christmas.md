@@ -1,7 +1,7 @@
 ---
 layout: multipage
 title: micro:bit - Tage bis Weihnachten
-navtitle: <img src="images/firtree.png">&nbsp;Tage bis Weihnachten
+navtitle: <img src="/micro-bit/images/firtree.png">&nbsp;Tage bis Weihnachten
 category: micro:bit
 permalink: /micro-bit/Countdown_to_Christmas
 excerpt: Zähle die Tage bis Weihnachten mit dem Micro:Bit.
