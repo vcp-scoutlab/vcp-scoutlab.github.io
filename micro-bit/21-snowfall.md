@@ -37,6 +37,10 @@ In den Programmbeispielen findest du beide Programmbeispiele.
 
 ![](images/microbit-Screenshot-snowfall2.png)
 
+<div class="hidden-print">
+<iframe src="https://player.vimeo.com/video/474699919" width="640" height="1138" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+</div>
+
 ## Programmbeispiele
 [microbit-snowfall1.hex](appendix/microbit-snowfall1.hex)
 
