@@ -28,5 +28,9 @@ Wenn Weihnachten (der Wert 0) erreicht wird, dann wird ein Weihnachtsbaum angeze
 
 ![](images/microbit-Screenshot-Countdown_to_Christmas.png)
 
+![](images/20201102_143559.jpg)
+
+![](images/20201102_144305.jpg)
+
 ## Programmbeispiele
 [microbit-Countdown_to_Christmas.hex](appendix/microbit-Countdown_to_Christmas.hex)
