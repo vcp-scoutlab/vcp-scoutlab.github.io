@@ -5,7 +5,7 @@ navtitle: <img src="/micro-bit/images/firtree.png">&nbsp; Weihnachtskarte bastel
 category: micro:bit
 permalink: /micro-bit/ChristmasCard
 excerpt: Weihnachtskarte mit einem Micro:Bit beleuchten.
-image: /micro-bit/images/20201028_122530.jpg
+image: #/micro-bit/images/20201028_122530.jpg
 ---
 
 # Weihnachtskarte
