@@ -23,3 +23,8 @@ Im Gegensatz zum Raspberry Pi ist der micro:bit kein wirklicher Computer, sonder
 <h2>Vorsicht</h2>
 Auf keinen Fall sollte man irgendwelche Anschlüsse miteinander verbinden und abwarten, was passiert. Nicht alle Anschlüsse lassen sich frei programmieren. Einige sind für die Stromversorgung und andere Zwecke fest eingerichtet. Einige Anschlüsse sind direkt mit Anschlussleitungen des Mikrocontrollers verbunden, ein Kurzschluss kann den micro:bit komplett zerstören – zumindest theoretisch. Die Platinen sind erstaunlich stabil gegen Schaltungsfehler.
 </div>
+
+
+<div class="alert alert-info" role="alert">
+<a href="symbole"><h4>Was bedeuten die Symbole?</h4></a>
+</div>
