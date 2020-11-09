@@ -1,7 +1,7 @@
 ---
 layout: multipage
 title: Digitaler Würfel mit dem micro:bit
-navtitle: Digitaler Würfel
+navtitle: Digitaler Würfel&nbsp;<img src="/micro-bit/images/vcp-meet.png" title="Dieses Angebot kann auch über VCP-Meet genutzt werden.">
 category: micro:bit
 permalink: /micro-bit/komfortWuerfel
 ---

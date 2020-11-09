@@ -1,7 +1,7 @@
 ---
 layout: multipage
 title: micro:bit - animierte Tiere
-navtitle: <img src="/micro-bit/images/pumpkin.png">&nbsp; animierte Tiere
+navtitle: <img src="/micro-bit/images/pumpkin.png">&nbsp; animierte Tiere&nbsp;<img src="/micro-bit/images/vcp-meet.png" title="Dieses Angebot kann auch über VCP-Meet genutzt werden.">
 category: micro:bit
 permalink: /micro-bit/animated-animals
 excerpt: animierte Tiere mit dem Micro:Bit.

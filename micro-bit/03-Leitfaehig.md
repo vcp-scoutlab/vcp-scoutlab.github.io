@@ -1,7 +1,7 @@
 ---
 layout: multipage
 title: micro:bit
-navtitle: Leitfähigkeit
+navtitle: Leitfähigkeit&nbsp;<img src="/micro-bit/images/vcp-meet.png" title="Dieses Angebot kann auch über VCP-Meet genutzt werden.">
 category: micro:bit
 permalink: /micro-bit/leifaehigkeit
 ---

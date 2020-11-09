@@ -1,7 +1,7 @@
 ---
 layout: multipage
 title: micro:bit - Weihnachtbaum
-navtitle: <img src="/micro-bit/images/firtree.png">&nbsp;Weihnachtbaum
+navtitle: <img src="/micro-bit/images/firtree.png">&nbsp;Weihnachtbaum&nbsp;<img src="/micro-bit/images/vcp-meet.png" title="Dieses Angebot kann auch über VCP-Meet genutzt werden.">
 category: micro:bit
 permalink: /micro-bit/weihnachtsbaum
 excerpt: Wir setzten einen einfachen Weihnachtbaum mit dem Micro:Bit um.

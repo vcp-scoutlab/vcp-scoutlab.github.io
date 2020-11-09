@@ -1,7 +1,7 @@
 ---
 layout: multipage
 title: micro:bit - vorbereiten
-navtitle: Vorbereitung
+navtitle: Vorbereitung&nbsp;<img border="0" src="/micro-bit/images/vcp-meet.png" width="16" height="16" title="Dieses Angebot kann auch über VCP-Meet genutzt werden.">
 category: micro:bit
 permalink: /micro-bit/vorbereitung
 ---

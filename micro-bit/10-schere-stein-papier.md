@@ -1,7 +1,7 @@
 ---
 layout: multipage
 title: Schere-Stein-Papier Spiel
-navtitle: Schere-Stein-Papier Spiel
+navtitle: Schere-Stein-Papier Spiel&nbsp;<img src="/micro-bit/images/vcp-meet.png" title="Dieses Angebot kann auch über VCP-Meet genutzt werden.">
 category: micro:bit
 permalink: /micro-bit/schere-stein-papier
 ---

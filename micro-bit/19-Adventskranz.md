@@ -1,7 +1,7 @@
 ---
 layout: multipage
 title: micro:bit - Adventskranz
-navtitle: <img src="/micro-bit/images/firtree.png">&nbsp;Adventskranz
+navtitle: <img src="/micro-bit/images/firtree.png">&nbsp;Adventskranz&nbsp;<img src="/micro-bit/images/vcp-meet.png" title="Dieses Angebot kann auch über VCP-Meet genutzt werden.">
 category: micro:bit
 permalink: /micro-bit/adventskranz
 excerpt: Wir setzten eine einfachen Adventskranz mit dem Micro:Bit um.

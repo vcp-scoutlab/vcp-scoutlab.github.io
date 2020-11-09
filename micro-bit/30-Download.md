@@ -1,7 +1,7 @@
 ---
 layout: multipage
-title: Arduino - Download
-navtitle: Download
+title: micro:bit - Download
+navtitle: Download &nbsp;<img src="/micro-bit/images/vcp-meet.png" title="Dieses Angebot kann auch über VCP-Meet genutzt werden.">
 category: micro:bit
 permalink: /micro-bit/download
 section_start: true

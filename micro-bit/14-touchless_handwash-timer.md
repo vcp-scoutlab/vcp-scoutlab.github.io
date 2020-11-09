@@ -1,7 +1,7 @@
 ---
 layout: multipage
 title: micro:bit - Berührungsloser Zeitmesser zum Händewaschen
-navtitle: Berührungsloser Zeitmesser
+navtitle: Berührungsloser Zeitmesser&nbsp;<img src="/micro-bit/images/vcp-meet.png" title="Dieses Angebot kann auch über VCP-Meet genutzt werden.">
 category: micro:bit
 permalink: /micro-bit/touchless_handwash-timer
 excerpt: Händewaschen ist in Zeiten der Pandemie wichtiger denn je. Lerne, wie man mit dem micro:bit einen berührungslosen Zeitmesser erstellt.

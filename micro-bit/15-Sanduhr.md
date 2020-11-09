@@ -1,7 +1,7 @@
 ---
 layout: multipage
 title: micro:bit - Sanduhr
-navtitle: Sanduhr
+navtitle: Sanduhr&nbsp;<img src="/micro-bit/images/vcp-meet.png" title="Dieses Angebot kann auch über VCP-Meet genutzt werden.">
 category: micro:bit
 permalink: /micro-bit/sanduhr
 excerpt: Wir setzten eine einfache Sanduhr mit dem Micro:Bit um.
