@@ -1,7 +1,7 @@
 ---
 layout: multipage
 title: Tasten auf dem micro:bit auslesen
-navtitle: Tasten schalten
+navtitle: Tasten schalten&nbsp;<img src="/micro-bit/images/vcp-meet.png" title="Dieses Angebot kann auch über VCP-Meet genutzt werden.">
 category: micro:bit
 permalink: /micro-bit/taster
 ---

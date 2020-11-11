@@ -1,7 +1,7 @@
 ---
 layout: multipage
 title: micro:bit - LED mit einem Programm schalten
-navtitle: LED mit einem Programm schalten
+navtitle: LED mit einem Programm schalten &nbsp;<img src="/micro-bit/images/vcp-meet.png" title="Dieses Angebot kann auch über VCP-Meet genutzt werden.">
 category: micro:bit
 permalink: /micro-bit/programm
 ---

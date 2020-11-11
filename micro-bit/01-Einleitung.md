@@ -1,7 +1,7 @@
 ---
 layout: multipage
 title: micro:bit - Start
-navtitle: Start
+navtitle: Start&nbsp;<img border="0" src="/micro-bit/images/vcp-meet.png" width="16" height="16" title="Dieses Angebot kann auch über VCP-Meet genutzt werden.">
 category: micro:bit
 permalink: /micro-bit/start
 ---
@@ -21,4 +21,8 @@ Im Gegensatz zum Raspberry Pi ist der micro:bit kein wirklicher Computer, sonder
 <div class="alert alert-warning" role="alert">
 <h2>Vorsicht</h2>
 Auf keinen Fall sollte man irgendwelche Anschlüsse miteinander verbinden und abwarten, was passiert. Nicht alle Anschlüsse lassen sich frei programmieren. Einige sind für die Stromversorgung und andere Zwecke fest eingerichtet. Einige Anschlüsse sind direkt mit Anschlussleitungen des Mikrocontrollers verbunden, ein Kurzschluss kann den micro:bit komplett zerstören – zumindest theoretisch. Die Platinen sind erstaunlich stabil gegen Schaltungsfehler.
+</div>
+
+<div class="alert alert-info" role="alert">
+<a href="symbole"><h4>Was bedeuten die Symbole?</h4></a>
 </div>

@@ -1,7 +1,7 @@
 ---
 layout: multipage
 title: micro:bit - Stoppuhr
-navtitle: Stoppuhr
+navtitle: Stoppuhr&nbsp;<img src="/micro-bit/images/vcp-meet.png" title="Dieses Angebot kann auch über VCP-Meet genutzt werden.">
 category: micro:bit
 permalink: /micro-bit/stoppuhr
 excerpt: Wir setzten eine einfache Stoppuhr mit dem Micro:Bit um.

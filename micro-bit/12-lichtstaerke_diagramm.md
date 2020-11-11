@@ -1,7 +1,7 @@
 ---
 layout: multipage
 title: Diagramm der Lichtstärke mit dem micro:bit
-navtitle: Diagramm der Lichtstärke
+navtitle: Diagramm Lichtstärke&nbsp;<img src="/micro-bit/images/vcp-meet.png" title="Dieses Angebot kann auch über VCP-Meet genutzt werden.">
 category: micro:bit
 permalink: /micro-bit/lichtstaerke_diagramm
 ---

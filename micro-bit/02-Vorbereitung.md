@@ -1,7 +1,7 @@
 ---
 layout: multipage
 title: micro:bit - vorbereiten
-navtitle: Vorbereitung
+navtitle: Vorbereitung&nbsp;<img border="0" src="/micro-bit/images/vcp-meet.png" width="16" height="16" title="Dieses Angebot kann auch über VCP-Meet genutzt werden.">
 category: micro:bit
 permalink: /micro-bit/vorbereitung
 ---
@@ -68,7 +68,7 @@ Bitte entferne jetzt das Batterien! Die Batterien dürfen nicht verbunden sein, 
 
 Sobald die Verbindung zum micro:bit steht, wir der micro:bit wird als gewöhnlicher Speicherstick (MICROBIT) auf dem Rechner angezeigt.
 
-![](images/microbit-laufwerk.gif)
+![](images/micro-bit-laufwerk.gif)
 
 ## Schritt 2: Lade eine hex-Datei auf den micro:bit
 
@@ -76,7 +76,7 @@ Sobald die Verbindung zum micro:bit steht, wir der micro:bit wird als gewöhnlic
 + Die LED am USB-Anschluss blinkt, solange der Schreibvorgang läuft. Das kennst du sicher von einem USB-Stick. Sobald der Schreibvorgang abgeschlossen ist. Verschwindet kurz das Laufwerk, dass dann sofort wieder erscheint.
 + Die Datenübertragung und die Kompilierung sind nun abgeschlossen.
 
-![](images/microbit-laufwerk-hex.gif)
+![](images/micro-bit-laufwerk-hex.gif)
 
 [Simulation für alle Betriebssysteme](https://microbit.org/get-started/first-steps/set-up/#connect-your-micro:bit)
 

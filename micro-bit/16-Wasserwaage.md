@@ -1,7 +1,7 @@
 ---
 layout: multipage
 title: micro:bit - Wasserwaage
-navtitle: Wasserwaage
+navtitle: Wasserwaage&nbsp;<img src="/micro-bit/images/vcp-meet.png" title="Dieses Angebot kann auch über VCP-Meet genutzt werden.">
 category: micro:bit
 permalink: /micro-bit/wasserwaage
 excerpt: Wir setzten eine Wasserwaage mit dem Micro:Bit um.
