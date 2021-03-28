@@ -3,7 +3,7 @@ layout: multipage
 title: micro:bit - Spiel zum Ostereiersammeln
 navtitle: <img src="/micro-bit/images/easter-egg.png">&nbsp;Ostereiersammeln&nbsp;<img src="/micro-bit/images/vcp-meet.png" title="Dieses Angebot kann auch über VCP-Meet genutzt werden.">
 category: micro:bit
-permalink: /micro-bit/19-ostereiersammeln
+permalink: /micro-bit/ostereiersammeln
 excerpt: Wir setzten einen Spiel zur Ostereiersammeln mit dem Micro:Bit um.
 image: /micro-bit/images/ostereiersammeln_beitragsbild.jpg
 ---
