@@ -5,7 +5,7 @@ navtitle: <img src="/micro-bit/images/easter-egg.png">&nbsp;weitere Micro:Bit fi
 category: micro:bit
 permalink: /micro-bit/suchen-und-finden
 excerpt: Wir finden versteckte Micro:Bit.
-image: /micro-bit/images/ostereiersuche_beitragsbild.jpg
+image: /micro-bit/images/schatzsuche_beitragsbild.jpg
 ---
 
 # Versteckte mirco:bit finden
