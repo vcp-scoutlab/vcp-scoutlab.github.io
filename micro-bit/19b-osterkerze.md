@@ -27,8 +27,10 @@ Dieser Variable wird benutzt um eine LED zufällige an- und aus zu schalten. So 
 
 ### LED-Matrix Koordinaten
 
-Die LEDs auf einer Matrix des Micro:Bit sind in Spalten und Spalten angeordnet. Es werden immer Zahlen von 0 bis 4 verwendet. Das Programm kann eine bestimmte Koordinate löschen
-.
+Die LEDs auf einer Matrix des Micro:Bit sind in Spalten und Spalten angeordnet. Es werden immer Zahlen von 0 bis 4 verwendet. Das Programm kann eine bestimmte Koordinate löschen.
+
+![](images/koordinaten_led-matrix.jpg)
+
 
 ![](images/microbit-Screenshot_candle.png)
 
