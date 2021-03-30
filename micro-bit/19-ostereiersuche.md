@@ -36,4 +36,4 @@ Wenn du zehn Eier in deinem Korb gelegt hast wird dir dein Spielstand angezeigt.
 
 ## Programmbeispiel
 
-[microbit-microbit-ostereiersuche.hex](appendix/microbit-microbit-ostereiersuche.hex)
+[microbit-ostereiersuche.hex](appendix/microbit-ostereiersuche.hex)
