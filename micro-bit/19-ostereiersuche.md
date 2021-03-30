@@ -22,7 +22,17 @@ image: /micro-bit/images/ostereiersammeln_beitragsbild.jpg
 
 ## Funktion:
 
-![](images/micro-bit-Screenshot_ostereiersuche.png)
+Für das Spiel benötigen wir zwei Variablen:
+- ei
+- spielstand
+
+Wenn das Programm startet, wird kurz ein Sammelkorb angezeigt.
+
+Mit jedem Schütteln der Platine wird ein weiteres Ei angezeigt.
+
+Wenn du zehn Eier in deinem Korb gelegt hast wird dir dein Spielstand angezeigt.
+
+![](images/microbit-Screenshot_ostereiersuche.png)
 
 ## Programmbeispiel
 

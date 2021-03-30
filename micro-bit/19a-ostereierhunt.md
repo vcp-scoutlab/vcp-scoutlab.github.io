@@ -41,7 +41,7 @@ Befinden sich im gleichen Funkkanal zum Finder. Bitte diese Programmbeispiel auf
 
 ![](images/suchen-und-finden.jpg)
 
-Auf dem Bild ist links ein verstecker Micro:bit, der von dem Finder gefunden wurde. Versteckte Platinen sind an dem schlagenden Herz zu erkennen.
+Auf dem Bild ist links ein versteckter Micro:bit, der von dem Finder gefunden wurde. Versteckte Platinen sind an dem schlagenden Herz zu erkennen.
 
 ## Programmbeispiele
 
