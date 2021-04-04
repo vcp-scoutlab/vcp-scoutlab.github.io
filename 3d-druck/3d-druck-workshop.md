@@ -62,13 +62,13 @@ Da es sehr viele unterschiedliche Drucker Typen gibt, sollte sich der\*die Works
 
 Um Zeit zu sparen, sollten so viele Halstuchringe, wie möglich, gleichzeitig gedruckt werden. Hierzu importiert man die STL Dateien und positioniert sie auf der Druckplatte. Unter Umständen macht es Sinn, das Objekt zu rotieren um die Anzahl der Überhänge zu minimieren.
 
-Abweichend von den Standrad Einstellungen haben sich folgende Optionen bewährt.
+Abweichend von den Standard Einstellungen haben sich folgende Optionen bewährt.
 
 - Buildplate athesion: brim, 8mm
 - Support Material: yes
 
-Anschliessend kann das Projekt auf der SD-Karte des Druckers gespeichert werden.
+Anschließend kann das Projekt auf der SD-Karte des Druckers gespeichert werden.
 
-Am Drucker sollte zunächst die Druckplatte ausgerichtet werden. Anschliessend  können sich die Teilnehmer\*innen eine Druck Farbe aussuchen und das passende Filament am Drucker einlegen.
+Am Drucker sollte zunächst die Druckplatte ausgerichtet werden. Anschließend können sich die Teilnehmer\*innen eine Druck Farbe aussuchen und das passende Filament am Drucker einlegen.
 
 Sobald alle Vorbereitungen abgeschlossen sind, sollte die Druckplatte gereinigt werden und der Druck gestartet. Die Teilnehmer\*innen können die Resultate später am Tag oder in der nächste Gruppenstunde abholen.

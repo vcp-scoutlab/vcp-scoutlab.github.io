@@ -16,9 +16,14 @@ Auf dieser Seite geben wir dir eine Übersicht, welche Symbole wir verwenden und
 
 - [VCP-Meet; das neue Videokonferenzsystem des VCP](https://www.vcp.de/pfadfinden/vcp-meet/)
 
+#### Angebote aus dem Oster-Special
+
+![](images/easter-egg.png)
+
 #### Angebote aus dem Weihnachts-Special
 
 ![](images/firtree.png)
+
 
 #### Angebote aus dem Halloween-Special
 
