@@ -1,7 +1,7 @@
 ---
 layout: multipage
 title: Versteckte Micro:Bit finden
-navtitle: Micro:Bit - Schatzsuche
+navtitle: Schatzsuche
 category: micro:bit
 permalink: /micro-bit/schatzsuche
 excerpt: Wir finden versteckte Micro:Bit.
