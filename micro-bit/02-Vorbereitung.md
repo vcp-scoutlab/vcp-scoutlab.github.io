@@ -73,7 +73,7 @@ Bitte entferne jetzt das Batterien! Die Batterien dürfen nicht verbunden sein, 
 Sobald die Verbindung zum micro:bit steht, wir der micro:bit wird als gewöhnlicher Speicherstick (MICROBIT) auf dem Rechner angezeigt.
 
 ![](images/micro-bit-laufwerk.gif)
-
+<div style="page-break-after: always;"></div>
 ## Schritt 2: Lade eine hex-Datei auf den micro:bit
 
 + schreibe die hex-Datei auf das Laufwerk (MICROBIT) der Schreibvorgang ist exakt so, wie bei einem gewöhnlichen Speicherstick.
