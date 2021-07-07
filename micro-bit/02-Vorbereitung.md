@@ -48,6 +48,7 @@ Du kannst die Programme aber auch einfach anhand der Abbildungen selbst zusammen
 </div>
 ![Importieren](images/makecode_import.jpg)
 
+<div style="page-break-after: always;"></div>
 # Wie bekomme ich meinen Code auf den micro:bit via USB?
 
 Um den micro:bit in Betrieb zu nehmen, braucht man:
@@ -79,7 +80,7 @@ Sobald die Verbindung zum micro:bit steht, wir der micro:bit wird als gewöhnlic
 ![](images/micro-bit-laufwerk-hex.gif)
 
 [Simulation für alle Betriebssysteme](https://microbit.org/get-started/first-steps/set-up/#connect-your-micro:bit)
-
+<div style="page-break-after: always;"></div>
 ## Set up your micro:bit -  Micro:bit Educational Foundation
 
 
