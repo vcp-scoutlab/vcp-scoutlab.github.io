@@ -14,7 +14,7 @@ Um den micro:bit in Betrieb zu nehmen, braucht man:
 Die Verbindung zwischen PC und micro:bit erfolgt über ein MicroUSB-Kabel. Das Kabel wird gleichzeitig zur Stromversorgung wie auch zur Datenübertragung verwendet. Schließe den micro:bit mit einem USB-Kabel an einem freien USB-Anschluss des PCs an. Beim ersten Mal wird automatisch ein Treiber installiert, damit der micro:bit in Zukunft als Laufwerk im Windows Explorer erscheint.
 
 Nachdem der Treiber installiert ist, finden Sie den micro:bit im Windows Explorer bei den Laufwerken mit dem Namen MICROBIT und einem bisher nicht verwendeten Laufwerksbuchstaben. Der micro:bit ist aber trotzdem kein normales Laufwerk. Es kann immer nur eine Programmdatei darauf abgelegt werden. Sie ist im Windows Explorer auf dem Laufwerk nicht zu sehen. Auch das Speichern anderer Dateitypen ist nicht möglich.
-
+<div style="page-break-after: always;"></div>
 ## Der Makecode-Editor
 Für die Programme verwenden wir die Programmierplattform Makecode von Microsoft – [https://makecode.microbit.org/](https://makecode.microbit.org/)
 
