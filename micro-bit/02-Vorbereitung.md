@@ -24,6 +24,7 @@ Klicke oben rechts auf das Einstellungen-Symbol, wähle im Menü Language und da
 
 ![](images/makecode_language.png)
 
+<div style="page-break-after: always;"></div>
 ### Der Makecode-Editor
 
 ![](images/makecode.jpg)
@@ -40,6 +41,8 @@ Erst Blöcke, die zusammen ein lauffähiges Programm ergeben, nehmen wieder ihre
 
 + **beim Start** – alle Blöcke in dieser Klammer werden beim Start einmal ausgeführt. Ein Programm startet nach der Übertragung auf den micro:bit automatisch. Außerdem startet das Programm neu, wenn man den Taster auf der Rückseite drückt oder den Stromanschluss neu anschließt.
 + **dauerhaft** – Nachdem die Blöcke beim Start ausgeführt wurden, laufen die Programme in der Klammerdauerhaft als Endlosschleife, bis man den Stecker zieht.
+
+<div style="page-break-after: always;"></div>
 
 <div class="alert alert-warning" role="alert">
 <h2>Importieren der Programmbeispiele</h2>
@@ -80,7 +83,6 @@ Sobald die Verbindung zum micro:bit steht, wir der micro:bit wird als gewöhnlic
 ![](images/micro-bit-laufwerk-hex.gif)
 
 [Simulation für alle Betriebssysteme](https://microbit.org/get-started/first-steps/set-up/#connect-your-micro:bit)
-<div style="page-break-after: always;"></div>
 ## Set up your micro:bit -  Micro:bit Educational Foundation
 
 
