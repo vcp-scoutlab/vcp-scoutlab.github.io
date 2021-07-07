@@ -56,4 +56,4 @@ Das Programmbeispiel berücksichtigt die Veränderung der Lichtstärke. Gleichze
 ![](images/micro-bit-Screenshot_touchless_handwash-timer.png)
 
 ## Programmbeispiel
-[microbit-touchless_handwash-timer.hex](appendix/microbit-touchless_handwash-handwashtimer.hex)
+[microbit-touchless_handwash-timer.hex](appendix/microbit-touchless_handwash-timer.hex)
