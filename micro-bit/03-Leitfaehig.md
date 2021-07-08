@@ -1,6 +1,6 @@
 ---
 layout: multipage
-title: micro:bit
+title: micro:bit - Leitfähigkeit mit dem micro:bit prüfen
 navtitle: Leitfähigkeit&nbsp;<img src="/micro-bit/images/vcp-meet.png" title="Dieses Angebot kann auch über VCP-Meet genutzt werden.">
 category: micro:bit
 permalink: /micro-bit/leifaehigkeit
