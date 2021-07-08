@@ -58,7 +58,7 @@ w√§hrend ... mache ...-Schleife besteht aus einem Block ... und ... und zwei Bl√
 <div class="hidden-print">
 <iframe src="https://player.vimeo.com/video/467067202" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
-
+<div style="page-break-after: always;"></div>
 ![](images/20201011_123854_reaktionsspiel.jpg)
 
 ## Programmbeispiel

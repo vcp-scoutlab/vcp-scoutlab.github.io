@@ -18,6 +18,7 @@ permalink: /micro-bit/morsen
 Mit dieser Anleitung lernst du, wie sich mehrere micro:bit über Funk unterhalten können. Betrachten wollen wir in diesem Experiment die Möglichkeit des Morsens.
 
 ### Morse-Alphabet
+<div style="page-break-after: always;"></div>
 
 Buchstabe | Morse-Code
 ----------|-----------
@@ -49,6 +50,7 @@ Y         | **− · − −**
 Z         | **− − · ·**
 {: class="table table-striped table-hover"}
 
+<div style="page-break-after: always;"></div>
 
 Zahl   | Morse-Code
 -------|-----------
@@ -64,19 +66,25 @@ Zahl   | Morse-Code
 0      | **− − − − −**
 {: class="table table-striped table-hover"}
 
+<div class="hidden-print">
 [Morse_Code.pdf](appendix/Morse_Code.pdf)
-
+</div>
+<div class="hidden-print">
 [Morsezeichen-Übersetzer (Online-Tool)](morse-code-translator/)
+</div>
 
+<div style="page-break-after: always;"></div>
 ### Funktion:
 Damit sich die beiden micro:bit miteinander über Funk unterhalten können, müssen beide micro:bit in der gleichen Gruppe und einer passenden Signalstärke arbeiten. Diese beiden Funktionen legen wir im ersten Schritt an:
+
 ![](images/micro-bit-Screenshot_morse_start.png)
 
 In diesem Beispiel verwenden wir den Kanal "1" und eine Übertragungsstärke von "7".
+<div style="page-break-after: always;"></div>
 Der Knopf "A" soll ein kurzes Signal senden, der Knopf "B" steht für ein langes Signal.
 Beginnen wir nun mit dem Knopf "A" und einem kurzen Signal:
 ![](images/micro-bit-Screenshot_morse_ab.png)
-
+<div style="page-break-after: always;"></div>
 ### Zum Aufbau:
 
 + wir senden die Zeichenfolge kurz
@@ -84,8 +92,6 @@ Beginnen wir nun mit dem Knopf "A" und einem kurzen Signal:
 + nach 500 ms wird der Bildschirminhalt gelöscht
 
 Machen wir weiter mit dem Knopf "B" und einem langen Signal:
-
-### Zum Aufbau:
 
 + wir senden die Zeichenfolge lang
 + das Display gibt einen Strich für langes Signal für uns zur Kontrolle aus
@@ -95,7 +101,6 @@ Unser micro:bit muss darauf reagieren, wenn Nachrichten empfangen werden. Dies m
 
 ![](images/micro-bit-Screenshot_morse.png)
 
-### Zum Aufbau:
 
 + Wir beginnen mit der Funktion, wenn ein Datenpaket empfangen wurde
 + der empfangene String ist kurz, dann zeige einen Punkt (kleines Quadrat) an

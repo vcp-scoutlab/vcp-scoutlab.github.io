@@ -10,7 +10,7 @@ image: /micro-bit/images/schatzsuche_beitragsbild.jpg
 
 # Versteckte mirco:bit finden
 
-
+![](images/schatzsuche_beitragsbild.jpg)
 
 ## Material:
 
@@ -23,7 +23,7 @@ image: /micro-bit/images/schatzsuche_beitragsbild.jpg
 ## Funktion:
 
 Wir benötigen für das Experiment zwei unterschiedliche Programmbeispiele:
-
+<div style="page-break-after: always;"></div>
 ### Finder
 
 Den Finder benötigen wir, um die verstecken Micro:Bit zu finden. Wichtig ist, dass sich sowohl Finder, wie auch die versteckten Micro:Bit den gleichen Funkkanal nutzen. Daher findet du auch unten die passenden Programmbeispiele.
@@ -33,11 +33,14 @@ Um festzustellen, wie weit oder wie nah die Funksender entfernt sind, verwenden 
 
 ![](images/microbit-finder.hex.png)
 
+<div style="page-break-after: always;"></div>
 ### versteckte Mirco:bit
 
 Befinden sich im gleichen Funkkanal zum Finder. Bitte diese Programmbeispiel auf alle Micro:Bit aufspielen, die versteckt werden sollen.
 
 ![](images/microbit-Screenshot-verstecken.png)
+
+<div style="page-break-after: always;"></div>
 
 ![](images/suchen-und-finden.jpg)
 

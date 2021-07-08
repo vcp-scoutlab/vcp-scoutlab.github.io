@@ -11,7 +11,7 @@ permalink: /micro-bit/schere-stein-papier
 ## Material
 * 1x micro:bit
 
-<div style="page-break-after: always;"></div>
+
 ## Editor:
 
 [https://makecode.microbit.org/](https://makecode.microbit.org/)
@@ -19,10 +19,13 @@ permalink: /micro-bit/schere-stein-papier
 ## Funktion:
 Benutze den Beschleunigungssensor und die LED-Anzeige um ein Schere-Stein-Papier Spiel zu bauen das du mit deinen Freunden spielen kannst!
 
+<div style="page-break-after: always;"></div>
+
 ## Schaltplan
 
 ![Spiel Schere Stein Papier](images/micro-bit-Screenshot_schere-stein-papier.png)
 
+<div style="page-break-after: always;"></div>
 ### So funktioniert das Programm
 Die zufällig ermittelte Zahl (zwischen 1 und 3) wird  nicht sofort angezeigt, sondern zunächst in der **Variable hand** gespeichert.
 
@@ -42,16 +45,17 @@ Alle diese Abfragen verwenden den Block **... = ... aus der Gruppe Logik**, um z
 #### Blöcke duplizieren
 Ähnliche Programmblöcke, wie hier die sechs** wenn ... dann ... Abfragen**, brauchen nicht jedes Mal komplett neu zusammengebaut zu werden. Klicke mit der rechten Maustaste auf einen Block und wähle im Kontextmenü Duplizieren. Automatisch wird eine Kopie des Blocks und aller ineinander verschachtelten Blöcke angelegt, die du an die gewünschte Position im Programm ziehen und weiter bearbeiten könnt.
 
+<div style="page-break-after: always;"></div>
 ### Symbole
 
 #### Schere:
 
 ![Schere](images/schere.png)
-
+<div style="page-break-after: always;"></div>
 #### Stein:
 
 ![Stein](images/stein.png)
-
+<div style="page-break-after: always;"></div>
 #### Papier:
 ![Papier](images/papier.png)
 
