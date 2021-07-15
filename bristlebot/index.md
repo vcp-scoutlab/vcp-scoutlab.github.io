@@ -11,7 +11,7 @@ image: /bristlebot/images/bristlebot.jpg
 
 
 [Bristlebot](https://en.wikipedia.org/wiki/Bristlebot) Sind kleine sehr einfach konstruierte "Roboter". Sie lassen sich schon in der Wölflingsstufe bauen und bieten somit einen ersten Zugang zum Experimentieren mit Technologie. Durch ihren simplen Aufbau und die geringen Kosten bieten sie sich auch gut als mitmache Angebot auf Gemeindefesten etc. an.
-
+<div style="page-break-after: always;"></div>
 ## Material & Werkzeug
 
 ![Material und Werkzeug](images/material.jpg)
@@ -63,7 +63,7 @@ Werkzeug:
 ![Der Roboter ist fertig.](images/aufbau_9.jpg)
 
 Der Roboter ist jetzt fertig. Um ihn zu starten, einfach die Batterie einlegen. Damit der Roboter geradeaus fährt, die Borsten der Zahnbürste zum Beispiel auf die Tischplatte in Fahrtrichtung drücken. Wenn der Roboter nur Kreise fährt, kann es hilfreich sein, dass Gewicht etwas auszugleichen.
-
+<div style="page-break-after: always;"></div>
 ## Spielideen
 
 ![Arena](images/arena.jpg)
