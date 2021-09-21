@@ -3,7 +3,7 @@ layout: page
 title: Zeitraffer Aufnahmen
 permalink: /timelapse
 excerpt: Zeitraffer Aufnahmen mit dem Raspberry Pi.
-image: /scoutlab-session-kit-1/images/zeitraffer_beitragsbild.jpg
+image: /timelapse/images/zeitraffer_beitragsbild.jpg
 ---
 
 # Zeitraffer-Aufnahmen mit dem Raspberry Pi machen
