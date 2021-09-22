@@ -15,6 +15,8 @@
       url: /3d-druck/3d-druck-workshop
     - page: Roboter bauen
       url: /gruppenstunde/roboter
+    - page: Zeitraffer-Aufnahmen
+      url: /timelapse
 
 - page: Projekte
   url: /projekte
