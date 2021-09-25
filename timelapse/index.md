@@ -39,7 +39,7 @@ neue leere Datei erstellen
 ![](images/ssh_ohne_dateiendung.png)
 
 die Datei ssh (wichtig: ohne Dateiendung)
-
+<div style="page-break-after: always;"></div>
 Zunächst bringe dein System auf den aktuellen Stand:
 ```
 sudo apt-get update
