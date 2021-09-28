@@ -70,7 +70,7 @@ raspi-config Kameramodul aktivieren Sicherheitsfrage
 raspi-config Kameramodul aktiviert
 
 
-Verbinde dich per ssh und übertrage die Datei "**_zeitraffer.py_**"
+Verbinde dich per ssh und übertrage die Dateien **_zeitraffer.py_** und _**time-lapse.sh**_
 
 Einbinden der Datei per cron.
 
