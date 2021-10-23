@@ -14,7 +14,7 @@ Zeitraffer Aufnahmen (Timelapse) sehen eindrucksvoll aus – aber wie kann man s
 
 ## Material
 
-+ Raspberry Pi – Modell A oder B (A hat eine bessere Akkulaufzeit)
++ Raspberry Pi – Modell A oder B (A hat eine bessere Akkulaufzeit) mit Raspberry Pi OS Lite
 + Raspberry Pi Kameramodul installiert und eingerichtet
 + Illy Kaffeedose oder Behälter ähnlicher Größe. Wasserdicht und Metall ist am besten.
 + Etwas durchsichtiger Kunststoffklebeband, auf die äußere Dose über dem Loch geklebt
