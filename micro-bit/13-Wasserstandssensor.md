@@ -1,6 +1,6 @@
 ---
 layout: multipage
-title: micro:bit - Computerspiel Schnelligkeit
+title: micro:bit - Wasserstandssensor
 navtitle: Wasserstandssensor&nbsp;<img src="/micro-bit/images/vcp-meet.png" title="Dieses Angebot kann auch über VCP-Meet genutzt werden.">
 category: micro:bit
 permalink: /micro-bit/wasserstandssensor
@@ -29,10 +29,11 @@ Der Wasserstand wird auch immer optisch in einem Diagramm dargestellt.
 <b>Wichtig:</b> Achte bitte darauf, dass der micro:bit hierbei nicht nass wird!
 </div>
 
+<div style="page-break-after: always;"></div>
 ## Schaltplan
 
 ![](images/wasserstandssensor_Steckplatine.png)
-
+<div style="page-break-after: always;"></div>
 ![](images/micro-bit-Screenshot-Wassersensor.png)
 
 

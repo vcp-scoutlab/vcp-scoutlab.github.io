@@ -14,7 +14,7 @@ Um den micro:bit in Betrieb zu nehmen, braucht man:
 Die Verbindung zwischen PC und micro:bit erfolgt über ein MicroUSB-Kabel. Das Kabel wird gleichzeitig zur Stromversorgung wie auch zur Datenübertragung verwendet. Schließe den micro:bit mit einem USB-Kabel an einem freien USB-Anschluss des PCs an. Beim ersten Mal wird automatisch ein Treiber installiert, damit der micro:bit in Zukunft als Laufwerk im Windows Explorer erscheint.
 
 Nachdem der Treiber installiert ist, finden Sie den micro:bit im Windows Explorer bei den Laufwerken mit dem Namen MICROBIT und einem bisher nicht verwendeten Laufwerksbuchstaben. Der micro:bit ist aber trotzdem kein normales Laufwerk. Es kann immer nur eine Programmdatei darauf abgelegt werden. Sie ist im Windows Explorer auf dem Laufwerk nicht zu sehen. Auch das Speichern anderer Dateitypen ist nicht möglich.
-
+<div style="page-break-after: always;"></div>
 ## Der Makecode-Editor
 Für die Programme verwenden wir die Programmierplattform Makecode von Microsoft – [https://makecode.microbit.org/](https://makecode.microbit.org/)
 
@@ -24,6 +24,7 @@ Klicke oben rechts auf das Einstellungen-Symbol, wähle im Menü Language und da
 
 ![](images/makecode_language.png)
 
+<div style="page-break-after: always;"></div>
 ### Der Makecode-Editor
 
 ![](images/makecode.jpg)
@@ -41,6 +42,8 @@ Erst Blöcke, die zusammen ein lauffähiges Programm ergeben, nehmen wieder ihre
 + **beim Start** – alle Blöcke in dieser Klammer werden beim Start einmal ausgeführt. Ein Programm startet nach der Übertragung auf den micro:bit automatisch. Außerdem startet das Programm neu, wenn man den Taster auf der Rückseite drückt oder den Stromanschluss neu anschließt.
 + **dauerhaft** – Nachdem die Blöcke beim Start ausgeführt wurden, laufen die Programme in der Klammerdauerhaft als Endlosschleife, bis man den Stecker zieht.
 
+<div style="page-break-after: always;"></div>
+
 <div class="alert alert-warning" role="alert">
 <h2>Importieren der Programmbeispiele</h2>
 Die verwendeten Programme. Entpacken Sie das Zip-Archiv in ein Verzeichnis auf Ihrer Festplatte.  Klicke auf der Startseite makecode.microbit.org auf Importieren, um ein Programm zu öffnen.
@@ -48,6 +51,7 @@ Du kannst die Programme aber auch einfach anhand der Abbildungen selbst zusammen
 </div>
 ![Importieren](images/makecode_import.jpg)
 
+<div style="page-break-after: always;"></div>
 # Wie bekomme ich meinen Code auf den micro:bit via USB?
 
 Um den micro:bit in Betrieb zu nehmen, braucht man:
@@ -69,7 +73,7 @@ Bitte entferne jetzt das Batterien! Die Batterien dürfen nicht verbunden sein, 
 Sobald die Verbindung zum micro:bit steht, wir der micro:bit wird als gewöhnlicher Speicherstick (MICROBIT) auf dem Rechner angezeigt.
 
 ![](images/micro-bit-laufwerk.gif)
-
+<div style="page-break-after: always;"></div>
 ## Schritt 2: Lade eine hex-Datei auf den micro:bit
 
 + schreibe die hex-Datei auf das Laufwerk (MICROBIT) der Schreibvorgang ist exakt so, wie bei einem gewöhnlichen Speicherstick.
@@ -79,7 +83,6 @@ Sobald die Verbindung zum micro:bit steht, wir der micro:bit wird als gewöhnlic
 ![](images/micro-bit-laufwerk-hex.gif)
 
 [Simulation für alle Betriebssysteme](https://microbit.org/get-started/first-steps/set-up/#connect-your-micro:bit)
-
 ## Set up your micro:bit -  Micro:bit Educational Foundation
 
 

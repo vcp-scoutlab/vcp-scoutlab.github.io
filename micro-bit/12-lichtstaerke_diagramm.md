@@ -10,6 +10,8 @@ permalink: /micro-bit/lichtstaerke_diagramm
 
 ![](images/20191228_183443.jpg)
 
+<div style="page-break-after: always;"></div>
+
 ## Material:
 
 mirco:bit

@@ -10,7 +10,7 @@ permalink: /micro-bit/taster
 ## Material
 * microbit
 
-<div style="page-break-after: always;"></div>
+
 ## Editor:
 
 [https://makecode.microbit.org/](https://makecode.microbit.org/)
@@ -18,8 +18,10 @@ permalink: /micro-bit/taster
 ## Funktion:
 
 Eine Reaktion auf die beiden Tasten wird umgesetzt.
-
+<div style="page-break-after: always;"></div>
 ## Schaltplan
+
+![](images/micro-bit-front.png)
 
 ![](images/micro-bit-Screenshot_tasten.png)
 

@@ -19,7 +19,7 @@ image: /micro-bit/images/Stoppuhr_beitragsbild.jpg
 ## Editor:
 
 [https://makecode.microbit.org/](https://makecode.microbit.org/)
-
+<div style="page-break-after: always;"></div>
 ## Funktion:
 <!--Anleitung -->
 Knopf "A" startet die Stoppuhr und hält die Stoppuhr, bei einem weiteren Drücken, an.
@@ -30,7 +30,7 @@ Knopf "B" stellt die Stoppuhr zurück.
 ## Programmbeispiel
 [microbit-stoppuhr.hex](appendix/microbit-stoppuhr.hex)
 
-
+<div style="page-break-after: always;"></div>
 ## Formatierte Ausgabe in Sekunden und der Rest in Millisekunden
 
 Knopf "A" startet die Stoppuhr und hält die Stoppuhr, bei einem weiteren Drücken, an. Knopf "B" stellt die Stoppuhr zurück. Die Ausgabe erfolgt über die LED-Matrix in Sekunden

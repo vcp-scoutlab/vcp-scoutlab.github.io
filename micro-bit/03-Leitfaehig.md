@@ -1,6 +1,6 @@
 ---
 layout: multipage
-title: micro:bit
+title: micro:bit - Leitfähigkeit mit dem micro:bit prüfen
 navtitle: Leitfähigkeit&nbsp;<img src="/micro-bit/images/vcp-meet.png" title="Dieses Angebot kann auch über VCP-Meet genutzt werden.">
 category: micro:bit
 permalink: /micro-bit/leifaehigkeit
@@ -32,7 +32,7 @@ Gegenstände an.
 Das Programm zeigt beim Berühren ein Häkchen auf der LED-Matrix an, beim Loslassen wird ein X-Symbol angezeigt.
 
 ![](images/leitfaehigeit_microbit.gif)
-
+<div style="page-break-after: always;"></div>
 ## Schaltplan
 
 ![](images/micro-bit_knete.png)

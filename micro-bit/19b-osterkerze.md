@@ -36,4 +36,4 @@ Die LEDs auf einer Matrix des Micro:Bit sind in Spalten und Spalten angeordnet. 
 
 ## Programmbeispiel
 
-[microbit-microbit-candle.hex](appendix/microbit-microbit-candle.hex)
+[microbit-candle.hex](appendix/microbit-candle.hex)
