@@ -23,7 +23,7 @@ mirco:bit
 ## Funktion:
 
 Durch Schütteln des mirco:bit wird in ein Zufallszahl (zwischen 1 und 6) generiert.
-Das Ergebnis wird als "Augen" auf einem Würfel angezeigt.
+Das Ergebnis wird als "Zahlen" auf einem Würfel angezeigt.
 
 <div style="page-break-after: always;"></div>
 
