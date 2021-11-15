@@ -8,7 +8,7 @@ permalink: /micro-bit/Wuerfel
 
 # Digitaler Würfel mit Zahlen
 
-<!--Bild -->
+![](images/20211115_110359.jpg)
 
 <div style="page-break-after: always;"></div>
 
