@@ -4,17 +4,24 @@ title: Symbolschnappper mit dem micro:bit
 navtitle: Symbolschnappper&nbsp;<img src="/micro-bit/images/vcp-meet.png" title="Dieses Angebot kann auch über VCP-Meet genutzt werden.">
 category: micro:bit
 permalink: /micro-bit/symbolschnappper
+excerpt: Symbolschnappper mit dem micro:bit.
+image: /micro-bit/images/symbolschnappper_beitragsbild.jpg
 ---
 
 # Symbolschnappper
 
+![](images/20211115_171251.jpg)
 
 <div style="page-break-after: always;"></div>
 
 ## Material:
 
 + mirco:bit
-+ Symbolplättchen
++ Symbolplättchen [Sybolschnapper.pdf](appendix/Sybolschnapper.pdf)
+
+<div class="alert alert-info" role="alert">
+<b>Hinweis:</b> Du kannst einfach kariertes Papier benutzen, 5x5 (LED-Matrix) und die einzelnen Kästchen ausmalen.
+</div>
 
 ## Editor:
 
