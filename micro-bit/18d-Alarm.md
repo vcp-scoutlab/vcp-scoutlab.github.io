@@ -23,6 +23,8 @@ Lerne einen Alarm mit dem micro:bit umsetzen.
 
 ![](images/microbit-Screenshot-alarm.png)
 
+![](images/alarm_Steckplatine.jpg)
+
 ## Programmbeispiel
 
 [microbit-alarm.hex](appendix/microbit-alarm.hex)

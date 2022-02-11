@@ -24,6 +24,8 @@ Bei einem stillen alarm erfolgt die alarmierung per Funk. Daher brauchen auch be
 
 ![](images/microbit-Screenshot-stilleralarm.png)
 
+![](images/alarm_Steckplatine.jpg)
+
 ## Programmbeispiel
 
 [microbit-stilleralarm.hex](appendix/microbit-stilleralarm.hex)
