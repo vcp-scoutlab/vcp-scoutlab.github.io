@@ -70,6 +70,7 @@ Zahl   | Morse-Code
 [Morse_Code.pdf](appendix/Morse_Code.pdf)
 </div>
 <div class="hidden-print">
+<a href="morse-code-translator/">Morsezeichen-Übersetzer (Online-Tool)]</a>
 [Morsezeichen-Übersetzer (Online-Tool)](morse-code-translator/)
 </div>
 
