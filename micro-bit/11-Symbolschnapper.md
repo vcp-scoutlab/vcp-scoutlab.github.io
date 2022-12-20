@@ -14,7 +14,7 @@ image: /micro-bit/images/symbolschnappper_beitragsbild.jpg
 
 <div style="page-break-after: always;"></div>
 
-## Material:
+## Material
 
 + mirco:bit
 + Symbolplättchen [Sybolschnapper.pdf](appendix/Sybolschnapper.pdf)
@@ -23,7 +23,7 @@ image: /micro-bit/images/symbolschnappper_beitragsbild.jpg
 <b>Hinweis:</b> Du kannst einfach kariertes Papier benutzen, 5x5 (LED-Matrix) und die einzelnen Kästchen ausmalen.
 </div>
 
-## Editor:
+## Editor
 
 [https://makecode.microbit.org/](https://makecode.microbit.org/)
 

@@ -16,11 +16,11 @@ permalink: /micro-bit/lichtstaerke_diagramm
 
 mirco:bit
 
-## Editor:
+## Editor
 
 [https://makecode.microbit.org/](https://makecode.microbit.org/)
 
-## Funktion:
+## Funktion
 
 Die Lichtstärke wird als wachsendes Diagramm angezeigt. Die Lichtstärke kann beim micro:bit den Maximalwert von 255 erreichen.
 

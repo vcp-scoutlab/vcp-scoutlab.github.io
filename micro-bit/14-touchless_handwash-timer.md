@@ -10,15 +10,15 @@ image: /micro-bit/images/handwashtimer_beitragsbild.jpg
 
 # Berührungsloser Zeitmesser beim Händewaschen
 
-![](images/handwashtimer_beitragsbild.jpg)
+![handwashtimer_beitragsbild](images/handwashtimer_beitragsbild.jpg)
 
 _**Händewaschen ist in Zeiten der Pandemie wichtiger denn je. Lerne, wie man mit dem micro:bit einen berührungslosen Zeitmesser erstellt.**_
 
-## Material:
+## Material
 
 + mirco:bit
 
-## Editor:
+## Editor
 
 [https://makecode.microbit.org/](https://makecode.microbit.org/)
 

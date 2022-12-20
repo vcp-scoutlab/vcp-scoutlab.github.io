@@ -8,17 +8,17 @@ permalink: /micro-bit/wasserstandssensor
 
 # Wasserstandssensor
 
-## Material:
+## Material
 
 + mirco:bit
 + 4 Krokodilklemmenkabel
 + Alufolie
 
-## Editor:
+## Editor
 
 [https://makecode.microbit.org/](https://makecode.microbit.org/)
 
-## Funktion:
+## Funktion
 
 Falte für die Massekontakt aus der Alufolie vier Streifen. Legen
 einen Streifen auf den Boden des Wasserbehälters und befestigen diesen dort.
@@ -32,9 +32,9 @@ Der Wasserstand wird auch immer optisch in einem Diagramm dargestellt.
 <div style="page-break-after: always;"></div>
 ## Schaltplan
 
-![](images/wasserstandssensor_Steckplatine.png)
+![wasserstandssensor_Steckplatine](images/wasserstandssensor_Steckplatine.png)
 <div style="page-break-after: always;"></div>
-![](images/micro-bit-Screenshot-Wassersensor.png)
+![Screenshot-Wassersensor](images/micro-bit-Screenshot-Wassersensor.png)
 
 
 ## Programmbeispiel

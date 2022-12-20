@@ -12,11 +12,10 @@ permalink: /micro-bit/komfortWuerfel
 
 <div style="page-break-after: always;"></div>
 
-## Material:
-
+## Material
 mirco:bit
 
-## Editor:
+## Editor
 
 [https://makecode.microbit.org/](https://makecode.microbit.org/)
 

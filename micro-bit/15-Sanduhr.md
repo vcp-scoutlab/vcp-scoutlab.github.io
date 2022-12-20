@@ -12,15 +12,15 @@ image: /micro-bit/images/Sanduhr_beitragsbild.jpg
 
 ![](images/Sanduhr_beitragsbild.jpg)
 
-## Material:
+## Material
 
 + mirco:bit
 
-## Editor:
+## Editor
 
 [https://makecode.microbit.org/](https://makecode.microbit.org/)
 
-## Funktion:
+## Funktion
 <!--Anleitung -->
 Durch Schütteln des micro:bit wird der Sand (LED-Matrix) wieder aufgefüllt. Der Sand wird aber sofort wieder abgebaut.  
 
