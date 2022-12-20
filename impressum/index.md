@@ -31,9 +31,10 @@ Email: info(at)vcp.de
 ## Vertretungsberechtigter Vorstand
 VCP Bundesvorstand bestehend aus:
 
-+ Natascha Sonnenberg
-+ Oliver Mahn
-+ Neals Nowitzki
++ Leah Albrecht
++ Peter „flip“ Keil
++ Eric Stahlmann 
++ Daniel Werner
 
 Registergericht
 Kassel, VR 5169

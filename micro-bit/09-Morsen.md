@@ -67,10 +67,10 @@ Zahl   | Morse-Code
 {: class="table table-striped table-hover"}
 
 <div class="hidden-print">
-[Morse_Code.pdf](appendix/Morse_Code.pdf)
+<a href="appendix/Morse_Code.pdf">Morse_Code.pdf</a>
 </div>
 <div class="hidden-print">
-[Morsezeichen-Übersetzer (Online-Tool)](morse-code-translator/)
+<a href="morse-code-translator/">Morsezeichen-Übersetzer (Online-Tool)]</a>
 </div>
 
 <div style="page-break-after: always;"></div>
