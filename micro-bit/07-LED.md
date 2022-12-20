@@ -12,7 +12,7 @@ permalink: /micro-bit/led-taster
 + mirco:bit
 
 
-## Editor:
+## Editor
 
 [https://makecode.microbit.org/](https://makecode.microbit.org/)
 
