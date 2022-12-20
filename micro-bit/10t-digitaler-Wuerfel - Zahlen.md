@@ -16,11 +16,11 @@ permalink: /micro-bit/Wuerfel
 
 mirco:bit
 
-## Editor:
+## Editor
 
 [https://makecode.microbit.org/](https://makecode.microbit.org/)
 
-## Funktion:
+## Funktion
 
 Durch Schütteln des mirco:bit wird in ein Zufallszahl (zwischen 1 und 6) generiert.
 Das Ergebnis wird als "Zahlen" auf einem Würfel angezeigt.

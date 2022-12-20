@@ -12,11 +12,11 @@ permalink: /micro-bit/schere-stein-papier
 * 1x micro:bit
 
 
-## Editor:
+## Editor
 
 [https://makecode.microbit.org/](https://makecode.microbit.org/)
 
-## Funktion:
+## Funktion
 Benutze den Beschleunigungssensor und die LED-Anzeige um ein Schere-Stein-Papier Spiel zu bauen das du mit deinen Freunden spielen kannst!
 
 <div style="page-break-after: always;"></div>

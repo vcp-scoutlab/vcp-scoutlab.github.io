@@ -7,15 +7,15 @@ permalink: /micro-bit/programm
 ---
 # LED mit einem Programm schalten
 
-## Material:
+## Material
 
 + mirco:bit
 
-## Editor:
+## Editor
 
 [https://makecode.microbit.org/](https://makecode.microbit.org/)
 
-## Funktion:
+## Funktion
 
 Die LED wird über ein Programm aus und wieder eingeschaltet.
 

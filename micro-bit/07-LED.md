@@ -7,7 +7,7 @@ permalink: /micro-bit/led-taster
 ---
 # LED mit Tastern ein- und ausschalten mit dem micro:bit
 
-## Material:
+## Material
 
 + mirco:bit
 
@@ -16,14 +16,14 @@ permalink: /micro-bit/led-taster
 
 [https://makecode.microbit.org/](https://makecode.microbit.org/)
 
-## Funktion:
+## Funktion
 
 Mit dem Taster A wird die LED eingeschaltet. Mit dem Taster B wird die LED wieder ausgeschaltet.
 
 <div style="page-break-after: always;"></div>
 ## Schaltplan
 
-![](images/micro-bit-front.png)
+![micro-bit-front](images/micro-bit-front.png)
 
 ![](images/micro-bit-Screenshot_led_taster_ohne_kit.png)
 

@@ -6,15 +6,15 @@ category: micro:bit
 permalink: /micro-bit/morsen
 ---
 # Morsen
-## Material:
+## Material
 
 + 2 micro:bit
 
-## Editor:
+## Editor
 [https://makecode.microbit.org/](https://makecode.microbit.org/)
 
 
-## Funktion:
+## Funktion
 Mit dieser Anleitung lernst du, wie sich mehrere micro:bit über Funk unterhalten können. Betrachten wollen wir in diesem Experiment die Möglichkeit des Morsens.
 
 ### Morse-Alphabet

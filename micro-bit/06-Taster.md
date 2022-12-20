@@ -11,11 +11,11 @@ permalink: /micro-bit/taster
 * microbit
 
 
-## Editor:
+## Editor
 
 [https://makecode.microbit.org/](https://makecode.microbit.org/)
 
-## Funktion:
+## Funktion
 
 Eine Reaktion auf die beiden Tasten wird umgesetzt.
 <div style="page-break-after: always;"></div>
