@@ -14,7 +14,7 @@ Im Gegensatz zum Raspberry Pi ist der micro:bit kein wirklicher Computer, sonder
 
 ## Lerne den micro:bit kennen
 
-!["microbit-hardware-access"](https://archive.microbit.org/images/microbit-hardware-access.jpg)
+![microbit-hardware-access](https://archive.microbit.org/images/microbit-hardware-access.jpg)
 
 [https://archive.microbit.org/de/guide](https://archive.microbit.org/de/guide/)
 
