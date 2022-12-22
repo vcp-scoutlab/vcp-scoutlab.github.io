@@ -10,18 +10,16 @@ image: /micro-bit/images/Stoppuhr_beitragsbild.jpg
 
 # Fang den Punkt
 
-
-
-## Material:
+## Material
 
 + mirco:bit
 
-## Editor:
+## Editor
 
 [https://makecode.microbit.org/](https://makecode.microbit.org/)
 <div style="page-break-after: always;"></div>
 
-## Funktion:
+## Funktion
 
 Fang den Punkt ist ein Geschicklichkeitsspiel, bei dem der Spieler genau dann A drücken muss, wenn der Punkt die Mitte des Bildschirms erreicht hat. Dieses Tutorial zeigt, wie man die Spiele-Engine verwendet.
 

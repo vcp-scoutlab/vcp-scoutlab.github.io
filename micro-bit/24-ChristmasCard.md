@@ -10,7 +10,7 @@ image: #/micro-bit/images/20201028_122530.jpg
 
 # Weihnachtskarte
 
-## Material:
+## Material
 
 + mirco:bit
 + Tonpapier

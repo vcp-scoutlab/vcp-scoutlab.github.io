@@ -12,15 +12,15 @@ image: /micro-bit/images/Countdown_to_Christmas_beitragsbild.jpg
 
 ![](images/Countdown_to_Christmas_beitragsbild.jpg)
 
-## Material:
+## Material
 
 + mirco:bit
 
-## Editor:
+## Editor
 
 [https://makecode.microbit.org/](https://makecode.microbit.org/)
 
-## Funktion:
+## Funktion
 
 Zähle die Tage bis Weihnachten rückwärts.
 Mit jedem Schütteln des micro:bit wird ein Tag zurück gezählt.

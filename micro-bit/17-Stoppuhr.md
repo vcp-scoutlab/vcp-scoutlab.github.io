@@ -12,15 +12,15 @@ image: /micro-bit/images/Stoppuhr_beitragsbild.jpg
 
 ![](images/Stoppuhr_beitragsbild.jpg)
 
-## Material:
+## Material
 
 + mirco:bit
 
-## Editor:
+## Editor
 
 [https://makecode.microbit.org/](https://makecode.microbit.org/)
 <div style="page-break-after: always;"></div>
-## Funktion:
+## Funktion
 <!--Anleitung -->
 Knopf "A" startet die Stoppuhr und hält die Stoppuhr, bei einem weiteren Drücken, an.
 Die Ausgabe erfolgt über die LED-Matrix in Millisekunden.

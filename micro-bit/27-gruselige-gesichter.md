@@ -12,15 +12,16 @@ excerpt: Gruselige Gesichter mit dem Micro:Bit.
 
 Die kannst mithilfe der integrierten Symbole des micro:bit ein gruseliges Gesicht oder Bilder hinzufügen.
 
-## Material:
+## Material
 
 + mirco:bit
 
-## Editor:
+## Editor
+
 
 [https://makecode.microbit.org/](https://makecode.microbit.org/)
 
-## Funktion:
+## Funktion
 
 ![](images/microbit-Screenshot-gruselige-gesichter.png)
 

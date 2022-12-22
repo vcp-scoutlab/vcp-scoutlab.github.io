@@ -10,7 +10,7 @@ excerpt: animierte Tiere mit dem Micro:Bit.
 
 # animierte Tiere
 
-## Material:
+## Material
 
 + mirco:bit
 
@@ -18,7 +18,7 @@ excerpt: animierte Tiere mit dem Micro:Bit.
 
 [https://makecode.microbit.org/](https://makecode.microbit.org/)
 
-## Funktion:
+## Funktion
 
 ![](images/microbit-Screenshot-animated-animals.png)
 

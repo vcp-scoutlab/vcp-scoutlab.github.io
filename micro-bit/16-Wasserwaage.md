@@ -12,15 +12,15 @@ image: /micro-bit/images/Wasserwaage_beitragsbild.jpg
 
 ![](images/Wasserwaage_beitragsbild.jpg)
 
-## Material:
+## Material
 
 + mirco:bit
 
-## Editor:
+## Editor
 
 [https://makecode.microbit.org/](https://makecode.microbit.org/)
 
-## Funktion:
+## Funktion
 
 <!--Anleitung -->
 Du baust mit dem micro:bit eine Wasserwaage.

@@ -12,7 +12,7 @@ excerpt: Ein schlagendes Herz mit dem Micro:Bit.
 
 Die kannst mithilfe der integrierten Symbole des micro:bit passende Grafiken hinzufügen.
 
-## Material:
+## Material
 
 + mirco:bit
 
@@ -20,7 +20,7 @@ Die kannst mithilfe der integrierten Symbole des micro:bit passende Grafiken hin
 
 [https://makecode.microbit.org/](https://makecode.microbit.org/)
 
-## Funktion:
+## Funktion
 
 ![](images/microbit-Screenshot_schlagendes-herz.png)
 

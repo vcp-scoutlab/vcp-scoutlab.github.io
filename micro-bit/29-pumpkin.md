@@ -10,8 +10,7 @@ image: /micro-bit/images/20201028_122530.jpg
 
 # beleuchteter Kürbis
 
-## Material:
-
+## Material
 + mirco:bit
 + Tonpapier
 + Pergamentpapier
