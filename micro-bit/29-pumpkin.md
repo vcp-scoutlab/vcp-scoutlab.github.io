@@ -18,7 +18,7 @@ image: /micro-bit/images/20201028_122530.jpg
 
 #### Vorlage
 
-![](images/Pumpkin-Jack-o-Lantern-face2.png)
+![PuJack-o-Lantern-face2mpkin](images/PuJack-o-Lantern-face2mpkin.png)
 
 [Pumpkin-Jack-o-Lantern-face2](images/Pumpkin-Jack-o-Lantern-face2.svg)
 
@@ -37,12 +37,12 @@ image: /micro-bit/images/20201028_122530.jpg
 ## Funktion:
 
 ### Vorderseite
-![](images/20201028_122530.jpg)
+![20201028_122530]](images/20201028_122530.jpg)
 
 ### Rückseite
-![Rückseite](images/20201028_150125.jpg)
+![20201028_150125](images/20201028_150125.jpg)
 
-![](images/microbit-Screenshot-pumpkin.png)
+![microbit-Screenshot-pumpkin](images/microbit-Screenshot-pumpkin.png)
 
 ## Programmbeispiel
 [microbit-pumpkin.hex](appendix/microbit-pumpkin.hex)

@@ -12,15 +12,15 @@ image: /micro-bit/images/kerze_beitragsbild.jpg
 
 
 
-## Material:
+## Material
 
 + mirco:bit
 
-## Editor:
+## Editor
 
 [https://makecode.microbit.org/](https://makecode.microbit.org/)
 
-## Funktion:
+## Funktion
 
 Eine zufällige Zahl zwischen 1 und 3 wird in der Variable flackern gespeichert.
 Dieser Variable wird benutzt um eine LED zufällige an- und aus zu schalten. So wird der Eindruck erweckt, dass die Flamme flackert.

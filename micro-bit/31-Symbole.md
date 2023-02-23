@@ -10,7 +10,7 @@ permalink: /micro-bit/symbole
 Auf dieser Seite geben wir dir eine Übersicht, welche Symbole wir verwenden und was diese bedeuten.
 
 #### Angebote können auch über VCP-Meet genutzt werden
-![](images/vcp-meet.png)
+![vcp-meet](images/vcp-meet.png)
 
 - [Micro:bit Box für Gruppen mit VCP-Meet nutzen](https://www.vcp.de/pfadfinden/microbit-box-fuer-gruppen-mit-vcp-meet-nutzen)
 
@@ -18,13 +18,13 @@ Auf dieser Seite geben wir dir eine Übersicht, welche Symbole wir verwenden und
 
 #### Angebote aus dem Oster-Special
 
-![](images/easter-egg.png)
+![easter-egg](images/easter-egg.png)
 
 #### Angebote aus dem Weihnachts-Special
 
-![](images/firtree.png)
+![firetree](images/firtree.png)
 
 
 #### Angebote aus dem Halloween-Special
 
-![](images/pumpkin.png)
+![pumpkin](images/pumpkin.png)

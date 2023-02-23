@@ -12,19 +12,19 @@ excerpt: Wir setzten einen Stiller Alarm mit dem Micro:Bit um.
 Mit dieser Anleitung lernst du, wie sich mehrere micro:bit über Funk unterhalten können.
 Bei einem stillen alarm erfolgt die alarmierung per Funk. Daher brauchen auch beide micro:bit das gleiche programmbeispiel.
 
-## Material:
+## Material
 
 + zwei mirco:bit
 
-## Editor:
+## Editor
 
 [https://makecode.microbit.org/](https://makecode.microbit.org/)
 
-## Funktion:
+## Funktion
 
-![](images/microbit-Screenshot-stilleralarm.png)
+![stiller-arlar ](images/microbit-Screenshot-stilleralarm.png)
 
-![](images/alarm_Steckplatine.jpg)
+![steckplatine](images/alarm_Steckplatine.jpg)
 
 ## Programmbeispiel
 

@@ -14,7 +14,7 @@ excerpt: animierte Tiere mit dem Micro:Bit.
 
 + mirco:bit
 
-## Editor:
+## Editor
 
 [https://makecode.microbit.org/](https://makecode.microbit.org/)
 

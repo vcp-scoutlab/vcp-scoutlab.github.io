@@ -12,8 +12,7 @@ permalink: /micro-bit/leifaehigkeit
 + 2 Krokodilklemmenkabel
 + 2 Münzen, 2 Metalllöffel oder zwei andere leitfähige
 Gegenstände
-
-## Editor:
+## Editor
 
 [https://makecode.microbit.org/](https://makecode.microbit.org/)
 

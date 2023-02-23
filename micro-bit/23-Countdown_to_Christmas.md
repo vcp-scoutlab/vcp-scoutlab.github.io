@@ -10,7 +10,7 @@ image: /micro-bit/images/Countdown_to_Christmas_beitragsbild.jpg
 
 # Zähle Tage bis Weihnachten rückwärts
 
-![](images/Countdown_to_Christmas_beitragsbild.jpg)
+![countdown](images/Countdown_to_Christmas_beitragsbild.jpg)
 
 ## Material
 

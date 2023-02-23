@@ -15,4 +15,4 @@ section_start: true
 <h2>Importieren der Programmbeispiele</h2>
 Die verwendeten Programme. Entpacken Sie das Zip-Archiv in ein Verzeichnis auf Ihrer Festplatte.  Klicke auf der Startseite makecode.microbit.org auf Importieren, um ein Programm zu öffnen. Du kannst die Programme aber auch einfach anhand der Abbildungen selbst zusammenbauen.</div>
 
-![](images/makecode_import.jpg)
+![import](images/makecode_import.jpg)

@@ -16,15 +16,15 @@ Die kannst mithilfe der integrierten Symbole des micro:bit passende Grafiken hin
 
 + mirco:bit
 
-## Editor:
+## Editor
 
 [https://makecode.microbit.org/](https://makecode.microbit.org/)
 
 ## Funktion
 
-![](images/microbit-Screenshot_schlagendes-herz.png)
+![microbit-Screenshot_schlagendes-herz](images/microbit-Screenshot_schlagendes-herz.png)
 
-![](images/schlagendes-herz.gif)
+![schlagendes-herz](images/schlagendes-herz.gif)
 
 
 ## Programmbeispiel

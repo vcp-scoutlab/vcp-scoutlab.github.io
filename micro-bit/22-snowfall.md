@@ -10,17 +10,17 @@ image: /micro-bit/images/schneefall_beitragsbild.jpg
 
 # Schneefall
 
-![](images/schneefall_beitragsbild.jpg)
+![shneefall](images/schneefall_beitragsbild.jpg)
 
-## Material:
+## Material
 
 + mirco:bit
 
-## Editor:
+## Editor
 
 [https://makecode.microbit.org/](https://makecode.microbit.org/)
 
-## Funktion:
+## Funktion
 
 Für dieses Projekt gibt es zwei Lösungen.
 Die erste ist eine sehr einfache Animation einer Schneeflocke.

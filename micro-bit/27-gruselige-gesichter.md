@@ -23,7 +23,7 @@ Die kannst mithilfe der integrierten Symbole des micro:bit ein gruseliges Gesich
 
 ## Funktion
 
-![](images/microbit-Screenshot-gruselige-gesichter.png)
+![microbit-Screenshot-gruselige-gesichter](images/microbit-Screenshot-gruselige-gesichter.png)
 
 <div class="hidden-print">
 <iframe src="https://player.vimeo.com/video/471694496" width="640" height="1138" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>

@@ -12,15 +12,15 @@ image: /micro-bit/images/schatzsuche_beitragsbild.jpg
 
 ![](images/schatzsuche_beitragsbild.jpg)
 
-## Material:
+## Material
 
 + mirco:bit
 
-## Editor:
+## Editor
 
 [https://makecode.microbit.org/](https://makecode.microbit.org/)
 
-## Funktion:
+## Funktion
 
 Wir benötigen für das Experiment zwei unterschiedliche Programmbeispiele:
 <div style="page-break-after: always;"></div>

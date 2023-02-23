@@ -25,9 +25,9 @@ image: /micro-bit/images/Nachtlicht-Beitragsbild.jpg
 4. Was denkst du für was könnte man ein Nachtlicht benötigen?
    Kann es die Sicherheit von Personen oder Tiere im Dunkeln verbessern?
 
-![](images/microbit-Screenshot-nachtlicht.png)
+![microbit-Screenshot-nachtlicht](images/microbit-Screenshot-nachtlicht.png)
 
-![](images/Nachtlicht-Beitragsbild.jpg)
+![Nachtlicht-Beitragsbil](images/Nachtlicht-Beitragsbild.jpg)
 
 
 ## Programmbeispiel

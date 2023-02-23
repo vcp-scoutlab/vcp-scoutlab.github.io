@@ -12,7 +12,7 @@ permalink: /micro-bit/lichtstaerke_diagramm
 
 <div style="page-break-after: always;"></div>
 
-## Material:
+## Material
 
 mirco:bit
 

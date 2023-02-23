@@ -26,7 +26,7 @@ image: #/micro-bit/images/20201028_122530.jpg
 1. Einen Tannenbaum auf einen Bogen Tonpapier zeichnen
 2. Einzelne Kugel mit einer Schere ausstanzen.
 3. Die Größe so wählen, das der micro:bit gerade so rein passt. Nicht zu groß zeichnen.
-4.  Die Rückseite mit einem Bogen Pergamentpapier bekleben.
+4. Die Rückseite mit einem Bogen Pergamentpapier bekleben.
 5. Kleber gut trocken lassen.
 6. Den micro:bit auf der Rückseite mit et was Klebestreifen befestigen.
 7. Das Programm übertragen.

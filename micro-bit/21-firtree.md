@@ -12,18 +12,19 @@ image: /micro-bit/images/firtree_beitragsbild.jpg
 
 ![](images/firtree_beitragsbild.jpg)
 
-## Material:
+## Material
 
 + mirco:bit
 
-## Editor:
+## Editor
 
 [https://makecode.microbit.org/](https://makecode.microbit.org/)
 
-## Funktion:
+## Funktion
 <!--Anleitung -->
 
 ![](images/microbit-Screenshot-firtree.png)
 
 ## Programmbeispiel
+
 [microbit-firtree.hex](appendix/microbit-firtree.hex)

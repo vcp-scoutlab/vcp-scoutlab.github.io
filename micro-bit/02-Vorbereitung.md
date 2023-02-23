@@ -8,6 +8,7 @@ permalink: /micro-bit/vorbereitung
 ## Den micro:bit vorbereiten
 
 Um den micro:bit in Betrieb zu nehmen, braucht man:
+
 + PC mit Windows 10, 8.1, 7 (Mac OSX oder Linux)
 + MicroUSB-Kabel
 
@@ -37,7 +38,7 @@ Das Quadrat-Symbol hält den Simulator an, das Dreieck startet ihn danach wieder
 
 Erst Blöcke, die zusammen ein lauffähiges Programm ergeben, nehmen wieder ihre Grundfarbe an. Um einen Block zu löschen, ziehe ihn einfach wieder aus dem Arbeitsbereich auf die Blockpalette zurück. Die Blöcke sind so geformt, dass sie nur dann ineinander passen, wenn dies auch im Programm funktioniert. Dadurch können die gefürchteten Syntaxfehler nicht passieren, mit denen sich Programmierer alltäglich herumärgern müssen.
 
-### Zwei Blöcke sind in jedem neuen Programm vorgegeben:
+### Zwei Blöcke sind in jedem neuen Programm vorgegeben
 
 + **beim Start** – alle Blöcke in dieser Klammer werden beim Start einmal ausgeführt. Ein Programm startet nach der Übertragung auf den micro:bit automatisch. Außerdem startet das Programm neu, wenn man den Taster auf der Rückseite drückt oder den Stromanschluss neu anschließt.
 + **dauerhaft** – Nachdem die Blöcke beim Start ausgeführt wurden, laufen die Programme in der Klammerdauerhaft als Endlosschleife, bis man den Stecker zieht.
@@ -55,6 +56,7 @@ Du kannst die Programme aber auch einfach anhand der Abbildungen selbst zusammen
 # Wie bekomme ich meinen Code auf den micro:bit via USB?
 
 Um den micro:bit in Betrieb zu nehmen, braucht man:
+
 + PC mit Windows 10, 8.1, 7 (Mac OSX oder Linux)
 + MicroUSB-Kabel
 
@@ -83,8 +85,8 @@ Sobald die Verbindung zum micro:bit steht, wir der micro:bit wird als gewöhnlic
 ![](images/micro-bit-laufwerk-hex.gif)
 
 [Simulation für alle Betriebssysteme](https://microbit.org/get-started/first-steps/set-up/#connect-your-micro:bit)
-## Set up your micro:bit -  Micro:bit Educational Foundation
 
+## Set up your micro:bit -  Micro:bit Educational Foundation
 
 [https://archive.microbit.org/de/guide/quick/](https://archive.microbit.org/de/guide/quick/)
 
